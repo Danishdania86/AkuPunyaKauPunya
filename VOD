@@ -23,9 +23,6 @@ https://www.googleapis.com/drive/v3/files/11UtvbPJTeFvd0xV9b8h94jjizkW2_IYl?alt=
 #EXTINF:-1 group-title="VOD 886" tvg-logo="https://image.filemanager.work/poster/tt9376612.jpg", Shang-Chi and the Legend of the Ten Rings (2021)  (2021)
 https://www.googleapis.com/drive/v3/files/192FiPB5NL2bj0XuiTu5YDsFhmNbVw7XI?alt=media&key=AIzaSyA6Qclh9kP0TTshee9S2bT90vjgnzxn8QM
 
-#EXTINF:-1 group-title="VOD 886" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpreviews.123rf.com%2Fimages%2Fscyther5%2Fscyther51507%2Fscyther5150700025%2F42356377-video-on-demand-vod-service-on-tv-abstract-television-concept-.jpg&imgrefurl=https%3A%2F%2Fwww.123rf.com%2Fphoto_42356377_video-on-demand-vod-service-on-tv-abstract-television-concept.html&tbnid=3WpPA-ozrKLV-M&vet=1&docid=IxR8LvFelOA7hM&w=1300&h=866&hl=en-US&source=sh%2Fx%2Fim", Yakuza Princess (2021)
-http://www.googleapis.com/drive/v2/files/1a9UUrYyvkQYKEO27cIKssa6J_xlR9Trj?alt=media&key=AIzaSyDDCC8bru6M3f-tKoGp-0DHNgXG4nSTeqM
-
 #EXTINF:-1 group-title="VOD 886" tvg-logo="https://image.filemanager.work/poster/tt7991608.jpg", Red Notice (2021)
 https://www.googleapis.com/drive/v3/files/1nS2H0AfaBJStw_4Bi0wm8XCJQRiTWDe2?alt=media&key=AIzaSyDwW3LpJ3mIkDydAzBssTNdC2NGOYxUdHk
 
@@ -37,3 +34,6 @@ https://www.googleapis.com/drive/v3/files/1f14fD35gnu7hwRe81YVpsNO12wqtXUlv?alt=
 
 #EXTINF:-1 group-title="VOD 886" tvg-logo="https://image.filemanager.work/poster/tt13017168.jpg", Kakegurui the Movie: Zettai Zetsumei Russian Roulette (2021)
 https://www.googleapis.com/drive/v3/files/1fGFi_rpBz9YgR8qmklHLU2EUi6CfebrP?alt=media&key=AIzaSyDwW3LpJ3mIkDydAzBssTNdC2NGOYxUdHk
+
+#EXTINF:-1 group-title="WEST MOVIES 2021" tvg-logo="download.jpeg", Yakuza Princess (2021)
+http://www.googleapis.com/drive/v2/files/1a9UUrYyvkQYKEO27cIKssa6J_xlR9Trj?alt=media&key=AIzaSyDDCC8bru6M3f-tKoGp-0DHNgXG4nSTeqM
