@@ -1539,10 +1539,6 @@ https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES",MOVIES GROUP 10 (C)
 http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
 
-
-#EXTINF:-1 tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="C.MOVIES",MIGU 32
-http://iptv.tvfix.org/hls/j22.m3u8 
-
 #EXTINF:-1 tvg-name="MIGU" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="C.MOVIES",MIGU 31
 http://iptv.tvfix.org/hls/mydy2.m3u8
 
