@@ -1,204 +1,305 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/39WUw3XxqdlIPxcp5AB3W9wfg9N.jpg" tvg-country="" tvg-url="" group-title="",Asking For It     
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/39WUw3XxqdlIPxcp5AB3W9wfg9N.jpg" tvg-country="" tvg-url="" group-title="VOD MOVIES 886",Asking For It     
 http://m-cdn.fr33.click/M/2bf09df365fe597d591a924c27f868c6?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg" tvg-country="" tvg-url="" group-title="",Blacklight     
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg" tvg-country="" tvg-url="" group-title="VOD MOVIES 886",Blacklight     
 http://m-cdn.fr33.click/M/42fb1823cb2a041008cc263fac911215?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6FSGYvPEhIx3ThOikGqHmKxeyNN.jpg" tvg-country="" tvg-url="" group-title="",Against the Ice     
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6FSGYvPEhIx3ThOikGqHmKxeyNN.jpg" tvg-country="" tvg-url="" group-title="VOD MOVIES 886",Against the Ice     
 http://m-cdn.fr33.click/M/2fb3a59e2ffc09055518110f5ba975d6?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sdX4qg9cKX4satMaQm8BOJxnDC3.jpg" tvg-country="" tvg-url="" group-title="",The Last Mark     
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sdX4qg9cKX4satMaQm8BOJxnDC3.jpg" tvg-country="" tvg-url="" group-title="VOD MOVIES 886",The Last Mark     
 http://m-cdn.fr33.click/M/910bd1a43da5925187f0f6e02775b12c?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8Kce1utfytAG5m1PbtVoDzmDZJH.jpg" tvg-country="" tvg-url="" group-title="",A Day to Die     
 http://m-cdn.fr33.click/M/50ac661d0fffc224c4883f9a7fb2aecb?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3ZNbjTwJ36alybDWu7yKyMwXhGp.jpg" tvg-country="" tvg-url="" group-title="",I Am Mortal      
 http://m-cdn.fr33.click/M/723f661b411c2e8b96fbc24f0ed5d238?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7nOL8FuiWdSuQo6uGJaKFfFBTZ9.jpg" tvg-country="" tvg-url="" group-title="",Operation Overlord      
 http://m-cdn.fr33.click/M/6865cb0456297ac1863f2f56b5fe1fe7?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vL2BC3NE7U76ktoHRKAmA7meRoz.jpg" tvg-country="" tvg-url="" group-title="",Crow Valley     
 http://m-cdn.fr33.click/M/b0cee200c356db9c8ab26954a423465c?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A8ZjxIJci0H6FYybeuPbPYSCf3A.jpg" tvg-country="" tvg-url="" group-title="",Beneath the Surface     
 http://m-cdn.fr33.click/M/199d1700ec9e1eefeff57a205c66b8ca?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/msKnqw1OMiJnQQ7rOFh8Syglxfm.jpg" tvg-country="" tvg-url="" group-title="",The Pilot. A Battle for Survival      
 http://m-cdn.fr33.click/M/1acac104c59245f795dc1a2d1303fd1f?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5cnLoWq9o5tuLe1Zq4BTX4LwZ2B.jpg" tvg-country="" tvg-url="" group-title="",No Exit      
 http://m-cdn.fr33.click/M/99d21bdd1a07359dbafdc6c68bca58a7?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aVLV38txajXhEy2qNEClPIsDbAH.jpg" tvg-country="" tvg-url="" group-title="",Project Gemini      
 http://m-cdn.fr33.click/M/d1404f5483b6b133e8dd369fd053179a?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bpo5SCUS5kiIQ7SN8bbKnMyCfyF.jpg" tvg-country="" tvg-url="" group-title="",No Name and Dynamite       
 http://m-cdn.fr33.click/M/5b44180742952754c2eb9f0e7d92a5b0?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ews3l3v7JYLtBS5ansZrXsXLMzl.jpg" tvg-country="" tvg-url="" group-title="",Gasoline Alley       
 http://m-cdn.fr33.click/M/9415458fd0b865e9f4142ff0c90cfd9e?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zeAZTPxV5xZRNEX3rZotnsp7IVo.jpg" tvg-country="" tvg-url="" group-title="",West Side Story       
 http://m-cdn.fr33.click/M/7740a7274ba4707d306efe2ffd0a2cf8?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bGVQK3vuidHYey8MMyIvVnoh2zp.jpg" tvg-country="" tvg-url="" group-title="",The Calm Beyond       
 http://m-cdn.fr33.click/M/eb50d2b87038de0cfba86771704cd847?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7pYYGm1dWZGkbJuhcuaHD6nE6k7.jpg" tvg-country="" tvg-url="" group-title="",Desperate Riders      
 http://m-cdn.fr33.click/M/8e043711f780979e98735444e36420cd?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u6Pg9eTklhg6Aa7kXaxrfdE1Chi.jpg" tvg-country="" tvg-url="" group-title="",The Desperate Hour       
 http://m-cdn.fr33.click/M/404025a475ef5e46b6aee916499aebb7?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1bB7uV5ljDWKG2m5Z4cgWwDMAeY.jpg" tvg-country="" tvg-url="" group-title="",The Burning Sea       
 http://m-cdn.fr33.click/M/7f11a0b6750048fd832a6ab210bdc735?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uhuJcLVRf87aDfd3dqa9zafEek7.jpg" tvg-country="" tvg-url="" group-title="",Fallen       
 http://m-cdn.fr33.click/M/a973fd5daf72f5d102e171d511192e1d?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mSUxmmci2Z6J1ZmJWCQMd0BUnmB.jpg" tvg-country="" tvg-url="" group-title="",Broadcast       
 http://m-cdn.fr33.click/M/f808aad152097b87f6aef2c70f265b25?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tBGNWVHcuWUiveb1nFUHV0cN5vT.jpg" tvg-country="" tvg-url="" group-title="",Stoker Hills        
 http://m-cdn.fr33.click/M/c3bc1c7b48388f56fe1f2e68d34de7b7?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wRk6hwsEIIO0BqGH8FIc1Zbf7Wv.jpg" tvg-country="" tvg-url="" group-title="",La Soga: Salvation        
 http://m-cdn.fr33.click/M/4e3550e6f76be59cd130c3e3047d0665?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bXUyiSJmIFpNKmKBD1UWiaUtfBe.jpg" tvg-country="" tvg-url="" group-title="",France        
 http://m-cdn.fr33.click/M/3d9c7fa81c362a716a495d327907d147?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nmD0vZk8jQg1Suhs0iv9cj0xdtZ.jpg" tvg-country="" tvg-url="" group-title="",Fireheart       
 http://m-cdn.fr33.click/M/9d2feefc2e2d8d2956ff30e701a22c0f?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/meRIRfADEGVo65xgPO6eZvJ0CRG.jpg" tvg-country="" tvg-url="" group-title="",Texas Chainsaw Massacre      
 http://m-cdn.fr33.click/M/17f680a79cb6348fed2b3a6e9bb97dae?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uGjqcToZylzMoSXNU0sap4fhHRv.jpg" tvg-country="" tvg-url="" group-title="",Ted K       
 http://m-cdn.fr33.click/M/04160e84e260e99fcf6f938d48b551c4?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3cccEF9QZgV9bLWyupJO41HSrOV.jpg" tvg-country="" tvg-url="" group-title="",Fistful of Vengeance       
 http://m-cdn.fr33.click/M/c8b2d49b9bc5ef695c9fb9bc75fbec43?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wYihSXWYqN8Ejsdut2P1P0o97N0.jpg" tvg-country="" tvg-url="" group-title="",Pursuit       
 http://m-cdn.fr33.click/M/939031ae7720330db8dbfa399edcb720?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wa1WbA4FbpqNippD9HbE8I73uSc.jpg" tvg-country="" tvg-url="" group-title="",Finding Carlos        
 http://m-cdn.fr33.click/M/237a48a8ce61061d94c0c788ac1e29a8?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uXq56XNfgRgBdCW65K6goiMUr3o.jpg" tvg-country="" tvg-url="" group-title="",A Fairy Tale After All        
 http://m-cdn.fr33.click/M/f60088e4ddcbb59764cef02f3bf24c9d?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kT3Zy7kOQERHnpEHT1wMwXEpJsk.jpg" tvg-country="" tvg-url="" group-title="",A Tale of Two Guns        
 http://m-cdn.fr33.click/M/fccaa3376ba47899e027d9562cd8a47c?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qWAbfMXbzGRD6GOoC242lrpXz2T.jpg" tvg-country="" tvg-url="" group-title="",They Live in The Grey        
 http://m-cdn.fr33.click/M/b9ac2ab6b2719996045095d93ba7a12e?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/uUzS8uShxxdsXAjrxzEblAwBflP.jpg" tvg-country="" tvg-url="" group-title="",Scream        
 http://m-cdn.fr33.click/M/41b16335c530b38562c38c746331ffb8?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1zr2EyJtcKEiQRDbnTyqY4BC7Rg.jpg" tvg-country="" tvg-url="" group-title="",Apparitions       
 http://m-cdn.fr33.click/M/79c5cb20186c11723a8bbcdd375b1ae0?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/akzXCpyVrUDXrcdk1y1QRshy01P.jpg" tvg-country="" tvg-url="" group-title="",Those Who Walk Away       
 http://m-cdn.fr33.click/M/e91100c1b6865aa5784b69433f4da624?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3NV278UG4Z8wOWpKFHz6I7D7Nda.jpg" tvg-country="" tvg-url="" group-title="",Supercool        
 http://m-cdn.fr33.click/M/adf507e8034c5ad06c40b931978516b6?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5ug4LyLQFeR6azAJyIPBQz5ur9.jpg" tvg-country="" tvg-url="" group-title="",Shut In        
 http://m-cdn.fr33.click/M/89fe6f280e5d5dca16f0676231782f45?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ju9TN1o2dwvNTJfqIjT5Axx7fln.jpg" tvg-country="" tvg-url="" group-title="",Rooney       
 http://m-cdn.fr33.click/M/87b1fe02d3c9f54b9303189b141b2f55?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ko1JVbGj4bT8IhCWqjBQ6ZtF2t.jpg" tvg-country="" tvg-url="" group-title="",Marry Me       
 http://m-cdn.fr33.click/M/368ba4c4b4885a8eb5b14baaae2172fd?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg" tvg-country="" tvg-url="" group-title="",Kimi       
 http://m-cdn.fr33.click/M/e3adf0fc94143d6b97d6e30f7bc4fe04?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tVbO8EAbegVtVkrl8wNhzoxS84N.jpg" tvg-country="" tvg-url="" group-title="",Indemnity       
 http://m-cdn.fr33.click/M/01e141883197d5da39172d979e04efc6?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eZ3fM2LatOhWYzdHgfrawmEfCui.jpg" tvg-country="" tvg-url="" group-title="",Cosmic Dawn       
 http://m-cdn.fr33.click/M/54f5c4981907da7b6533b3b73fb56697?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/35QvPu5nOGlzDIGOdvtRNNkfjLZ.jpg" tvg-country="" tvg-url="" group-title="",Catch the Fair One       
 http://m-cdn.fr33.click/M/ddda59bb94cbbc06047ec82b91cdad82?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aSRvK4kLJORBrVdlFn2wrGx8XPv.jpg" tvg-country="" tvg-url="" group-title="",The Wolf and the Lion       
 http://m-cdn.fr33.click/M/751d5f4fd90a777516bee13494765444?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xbgkBfLIWJbyvsLneGvSxfGqO3P.jpg" tvg-country="" tvg-url="" group-title="",The Tiger Rising       
 http://m-cdn.fr33.click/M/e53427799bee8728a3c405c3c5d376b7?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aq4Pwv5Xeuvj6HZKtxyd23e6bE9.jpg" tvg-country="" tvg-url="" group-title="",The King's Man       
 http://m-cdn.fr33.click/M/3b01e63ecc937124834b831dfa8e9f1a?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5PU2EIzXzA9Y58PBDZZupomxnKL.jpg" tvg-country="" tvg-url="" group-title="",Super Turnt        
 http://m-cdn.fr33.click/M/e01d5b8758a6e69caeb5657da7151e5d?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f6WnHUG65DriFyUXZe0qBnZgZTo.jpg" tvg-country="" tvg-url="" group-title="",Student Body        
 http://m-cdn.fr33.click/M/09a8448a77e50393921bfa77b0ce5463?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xJnT12NfUTTaYNM5Sn1m8pkmuud.jpg" tvg-country="" tvg-url="" group-title="",Red Rocket       
 http://m-cdn.fr33.click/M/dfc74051edbb6c31d8a9a30cc6064657?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9kdSYTjj6n4OGm2XwKhAGBL2udG.jpg" tvg-country="" tvg-url="" group-title="",Alter Ego       
 http://m-cdn.fr33.click/M/1993946a39d50612e41d6df3cc0ebdd4?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/piHB47p3V6ABuWJWvgvWakrJxT3.jpg" tvg-country="" tvg-url="" group-title="",60 Seconds to Live      
 http://m-cdn.fr33.click/M/b90bf938b7aa78a00c4dac6a2f5949e5?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p5Uz76EOwj9rAsdGxYL8IZGPV2B.jpg" tvg-country="" tvg-url="" group-title="",Queenpins      
 http://m-cdn.fr33.click/M/0a0d69946303e514686993cc6295ae00?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2HFLUZ0LWKDQa4xiUnjeM9ZKa0q.jpg" tvg-country="" tvg-url="" group-title="",Glasshouse      
 http://m-cdn.fr33.click/M/e14e2e49da73911c6ac779afd3abad08?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/88E7ZZtjkRZWNIJnazH4X3CORJ7.jpg" tvg-country="" tvg-url="" group-title="",A Violent Man      
 http://m-cdn.fr33.click/M/6a68d8ede400844d3accde6c42ac6f9e?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7a2G4a4A6nDb8K1PVFUcsOT1u3s.jpg" tvg-country="" tvg-url="" group-title="",Ghosts of the Ozarks      
 http://m-cdn.fr33.click/M/894554eb0f38e3ff827473aa2855e9d3?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y1pa0FP1TjSXT54rA9TNnRzBGjc.jpg" tvg-country="" tvg-url="" group-title="",Slapface      
 http://m-cdn.fr33.click/M/8245a01d6f98469ab28eb2acfd1fc03c?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/680klE0dIreQQOyWKFgNnCAJtws.jpg" tvg-country="" tvg-url="" group-title="",Nightmare Alley      
 http://m-cdn.fr33.click/M/2c8a6c66d7b1183d4ba043ccbfde270d?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7hUQomJohThaKGJCWSqNmnDUItN.jpg" tvg-country="" tvg-url="" group-title="",City of Vultures 2     
 http://m-cdn.fr33.click/M/8aad9b5fdeae886e44e94eb2c0b16a3e?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yyMQ2gj6Lyr329FTVQ1GqWFHw3o.jpg" tvg-country="" tvg-url="" group-title="",Lockdown     
 http://m-cdn.fr33.click/M/463f2edadc4f75fc27ac80fa7e83492a?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2p9ATFUEiXT75LmMsSCBicnpX8e.jpg" tvg-country="" tvg-url="" group-title="",Martyrs Lane    
 http://m-cdn.fr33.click/M/77395d4ddfa7815295edd4dc1d0297c8?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg" tvg-country="" tvg-url="" group-title="",The Ice Age Adventures of Buck Wild     
 http://m-cdn.fr33.click/M/d24d33715e055da9dd8122a1d8299fe0?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hcH58OTC2UCm7tiaXm2hFZNySE6.jpg" tvg-country="" tvg-url="" group-title="",Evil at the Door     
 http://m-cdn.fr33.click/M/b2f30c586000d5cfe87226c870f84c21?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i0z8g2VRZP3dhVvvSMilbOZMKqR.jpg" tvg-country="" tvg-url="" group-title="",The Requin     
 http://m-cdn.fr33.click/M/5073c6df681ede93b97ceccbd09f9a20?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dHKfsdNcEPw7YIWFPIhqiuWrSAb.jpg" tvg-country="" tvg-url="" group-title="",The Ledge     
 http://m-cdn.fr33.click/M/53029cc257ed171bd025ef35740fa7eb?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pWKTaGN9WMcKHKAir9POsKm4vEo.jpg" tvg-country="" tvg-url="" group-title="",In the Forest    
 http://m-cdn.fr33.click/M/b7ca182795d9cafc7081809c15353601?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9nbw6eAYOhYEjI1wODekAG6svZF.jpg" tvg-country="" tvg-url="" group-title="",Dracula: The Original Living Vampire     
 http://m-cdn.fr33.click/M/3c9b20f098a65bd7d996eb4fc0ca6ed6?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nxyLUqInaG4z89hPspLvbTNv0ay.jpg" tvg-country="" tvg-url="" group-title="",Damon's Revenge     
 http://m-cdn.fr33.click/M/f76ca5b36ab5a3dd96f2c23cb630b4ed?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kRpKJstAW7DsoPAEBW2Kk1uD9Q6.jpg" tvg-country="" tvg-url="" group-title="",Clean    
 http://m-cdn.fr33.click/M/0b5a32a22b56a10efe4c5d6a002bcf93?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xef9Ht77B2igqZv754HNdW8qZCk.jpg" tvg-country="" tvg-url="" group-title="",The 355    
 http://m-cdn.fr33.click/M/ebba382821490b8a2e332abec3051cb9?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pfiW7ehO7jeUet06a3Z6FYz6C3l.jpg" tvg-country="" tvg-url="" group-title="",The Time Guardians   
 http://m-cdn.fr33.click/M/91102c0a4072565ab953f20c30f812df?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/32TXmY7GHlXhgGG7Wzrurm1okG5.jpg" tvg-country="" tvg-url="" group-title="",Gold   
 http://m-cdn.fr33.click/M/342e9890e0d5d8e8013e797994655667?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tjbyvoEMBhU0BDE1KrGOLA1OC2d.jpg" tvg-country="" tvg-url="" group-title="",Confession  
 http://m-cdn.fr33.click/M/fecbfc39adc3182c4e804aa54facfeea?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/muIaHotSaSUQr0KZCIJOYQEe7y2.jpg" tvg-country="" tvg-url="" group-title="",Tom and Jerry: Cowboy Up!  
 http://m-cdn.fr33.click/M/11a4a3a7c9359e6d23b07e2069f15ce4?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/em2NLSbVj49NjpdqmaKYuqKYZET.jpg" tvg-country="" tvg-url="" group-title="",Monster Family 2 
 http://m-cdn.fr33.click/M/3b5782212536f5f07a9405bdd7304c08?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xo6xs9b7CBk8S5qfOZzDFEQLDOk.jpg" tvg-country="" tvg-url="" group-title="",Last Radio Call 
 http://m-cdn.fr33.click/M/4a46d1304289f47bd818b618defa1397?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1SOiUTDnwW9gU4GzSIsOCQUlHJF.jpg" tvg-country="" tvg-url="" group-title="",Munich: The Edge of War        
 http://m-cdn.fr33.click/M/7b5b22454224a1dbd7fdae6aa17a688c?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg" tvg-country="" tvg-url="" group-title="",Warhunt       
 http://m-cdn.fr33.click/M/ed3f3ebd9af462dfab55fb0561ceaab2?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wYMTYjQCjr7gN4MddQbratlHHbg.jpg" tvg-country="" tvg-url="" group-title="",Ditched       
 http://m-cdn.fr33.click/M/7b3d89bee00c145f6173a8ba90cd69f6?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5FTsWbthqt7SnPEUtIe1A533j6e.jpg" tvg-country="" tvg-url="" group-title="",Gutter        
 http://m-cdn.fr33.click/M/4eac84536cec8516fb149f8e52154921?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8KtkNgOgluMF6ynBC5YZT3kLeXA.jpg" tvg-country="" tvg-url="" group-title="",This Game's Called Murder       
 http://m-cdn.fr33.click/M/1d878223db04e18c5fb553d8c46fe04f?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q4IWaqbWBuCsHb49Xh7aVijRN06.jpg" tvg-country="" tvg-url="" group-title="",Mainstream      
 http://m-cdn.fr33.click/M/f3b8b45f661ca7158de87030e484f165?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wuBdMVXd5mUuNymzt2bUJrdxhBY.jpg" tvg-country="" tvg-url="" group-title="",Adverse     
 http://m-cdn.fr33.click/M/ef3279a780b3d603b28f389d1a2ebbfa?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nCRfr3eOlwH7wfxaz6cU1bhMR1W.jpg" tvg-country="" tvg-url="" group-title="",The King's Daughter     
 http://m-cdn.fr33.click/M/7bfcc2019138c04405590ade29284e76?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg" tvg-country="" tvg-url="" group-title="",The Jack in the Box: Awakening    
 http://m-cdn.fr33.click/M/c1956a89ab83e3d4ec5c06c5dd491f35?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2OkdcVn1wIgRA4zo8tTbn7NNDUT.jpg" tvg-country="" tvg-url="" group-title="",Arctic Void    
 http://m-cdn.fr33.click/M/1cebed82b2101c92d4cf785d34aca473?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dJL9O1N9uESFQql3LNnROvBNZCy.jpg" tvg-country="" tvg-url="" group-title="",The Curse of La Patasola    
 http://m-cdn.fr33.click/M/c059f63287d382a5d12c8b6e5bd5d827?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yJxL52rks4nFtrSPb6Y66N4AyRE.jpg" tvg-country="" tvg-url="" group-title="",Stoker Hills    
 http://m-cdn.fr33.click/M/858bdb1bfdf09c48a9abd1448778ef20?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bkMhuIYybOmw0rdIKPzsDs4n7ez.jpg" tvg-country="" tvg-url="" group-title="",Shattered    
 http://m-cdn.fr33.click/M/75c8e549efb5643ba8933926a520d6ce?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a3J0t376OE1Vk3jKN67viY31s5.jpg" tvg-country="" tvg-url="" group-title="",The Surprise Visit    
 http://m-cdn.fr33.click/M/f7a65f67d9debd88f920d4a36b4b1724?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6zt5l4DYV1kLPL5Vqz1kLq3THXD.jpg" tvg-country="" tvg-url="" group-title="",Hotel Transylvania: Transformania   
 http://m-cdn.fr33.click/M/49130ae6c8e7c84cb8aa07c95e7f76cf?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/abbUJawLzgS5Sq9uSkpybs1GqNE.jpg" tvg-country="" tvg-url="" group-title="",The Tragedy of Macbeth   
 http://m-cdn.fr33.click/M/dc4ca38bd2ca668cbeaa9f82e3305422?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wEwcYpwNtuq1ztHoSIgpklrrZBa.jpg" tvg-country="" tvg-url="" group-title="",Amityville Uprising  
 http://m-cdn.fr33.click/M/7d5eb3fdf9cc3361fd61c79570bcfadc?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fW3QUyutAOreuFnhoXE7AuKjjIg.jpg" tvg-country="" tvg-url="" group-title="",Brazen
 http://m-cdn.fr33.click/M/2d0758c2de9eb85bf02f4891034f3678?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wtgEJKEOLnyQkWemEdFa5W8Q29L.jpg" tvg-country="" tvg-url="" group-title="",The Legend of La Llorona   
 http://m-cdn.fr33.click/M/ba96f30e9dbd6e800340dc5d9b6bb441?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8T3m465kbM5gLFFMjEGnwTYRUsJ.jpg" tvg-country="" tvg-url="" group-title="",I Am Mortal  
 http://m-cdn.fr33.click/M/69a69d07f1528ca522ecffd3defa1985?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h0AKLEk4XCajdav1hSHIR71cU66.jpg" tvg-country="" tvg-url="" group-title="",Run & Gun  
 http://m-cdn.fr33.click/M/c6d9011500b2ed76b98a274e194fdc1e?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qBWtxQEuoPYAOy8zTiZhrvQJf0m.jpg" tvg-country="" tvg-url="" group-title="",I, Challenger  
 http://m-cdn.fr33.click/M/fe2d01ce921d5a42efa25ff30d7bfa48?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/1RjyfPLsZTq3lUdJY7pTzcmpPKl.jpg" tvg-country="" tvg-url="" group-title="",Eternals 
 http://m-cdn.fr33.click/M/1b8948931452e8a299292181e74fa1bf?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jNofyLBPsEjJUsmwTm9EGTEOGqx.jpg" tvg-country="" tvg-url="" group-title="",Small World 
 http://m-cdn.fr33.click/M/7512dba95fcbc437c61fb2b0ecdde0e3?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rCiKOPzteLjofjncfh102DOyfpQ.jpg" tvg-country="" tvg-url="" group-title="",A World Of Worlds: Rise of the King 
 http://m-cdn.fr33.click/M/66780af868a309291fdb78e853639b8a?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ahbwIJl7T0D34m3sPKlBaCqs2xH.jpg" tvg-country="" tvg-url="" group-title="",Last Night in Soho 
@@ -875,22 +976,31 @@ http://m-cdn.fr33.click/M/a2075a131f75edb1f8562da19c90eef9?u=2820295&s=82aaddb83
 http://m-cdn.fr33.click/M/92ee372b44d1fadd75251f8bf8a039c4?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg" tvg-country="" tvg-url="" group-title="",Nobody
 http://m-cdn.fr33.click/M/a17ee342cf8ac6caf46510522564a4b3?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rgFewciOc5lFXVoUDuboN87vbwO.jpg" tvg-country="" tvg-url="" group-title="",Night of the Sicario 
 http://m-cdn.fr33.click/M/1057ecce4d3647e1b47adf63a018bd79?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3mKMWP5OokB7QpcOMA1yl8BXFAF.jpg" tvg-country="" tvg-url="" group-title="",Thunder Force 
 http://m-cdn.fr33.click/M/8d454a198deedcdae3d514e859d755e9?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sshNnwmQLk720iBQ0dZg3GVGKfK.jpg" tvg-country="" tvg-url="" group-title="",Riders of Justice 
 http://m-cdn.fr33.click/M/c62adc3f775165e5b871bbb4f3821109?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9kg73Mg8WJKlB9Y2SAJzeDKAnuB.jpg" tvg-country="" tvg-url="" group-title="",Chaos Walking 
 http://m-cdn.fr33.click/M/e06f0cea718e5fa67015698882f806c7?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg" tvg-country="" tvg-url="" group-title="",Godzilla vs. Kong
 http://135.181.113.216:9000/Movies/Godzilla.vs.Kong.2021.1080p.WEB.H264-NAISU/godzilla.vs.kong.2021.1080p.web.h264-naisu.mkv
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6Wm7P6y22UZA40QuPYHyWyJ6leI.jpg" tvg-country="" tvg-url="" group-title="",Cosmic Sin
 http://m-cdn.fr33.click/M/2b232b83d24f3f1e38e5a6173eda8209?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg" tvg-country="" tvg-url="" group-title="",Monster Hunter
 http://m-cdn.fr33.click/M/5bf25381805531f76006d1dd1b17bbb4?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg" tvg-country="" tvg-url="" group-title="",Raya and the Last Dragon 
 http://135.181.113.216:9000/Movies/Raya.and.the.Last.Dragon.2021.1080p.DSNP.WEB-DL.H264.Atmos-EVO/Raya.and.the.Last.Dragon.1080p.DSNP.WEB-DL.DDP5.1.H.264-EVO.mkv
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/original/mpxPAIA3ynd8hQc6lBxjpcuLtLb.jpg" tvg-country="" tvg-url="" group-title="",Synchronic 
 http://m-cdn.fr33.click/M/a48f9324f603171b72bafd112ccedbe4?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
