@@ -209,11 +209,6 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTVLCOPT:http-referrer=https://www.dailymotion.com
 https://raw.githubusercontent.com/raizoml123/workers/main/ds.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
-#EXTINF:-1 tvg-id="112" tvg-name="ASTRO RANIA HD" group-title="MALAY" tvg-logo="https://iili.io/1Nq3nR.png",Astro Rania HD CH112
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
-
 #EXTINF:-1 tvg-id="" tvg-chno="122" tvg-name="Astro Aura" radio="false" catchup="default" group-title="MALAY" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png",Astro Aura 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/80a24d2a-7981-4a84-b5c2-76d96666a381
@@ -221,7 +216,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
-#EXTINF:-1 tvg-id="112" tvg-name="ASTRO RANIA HD" group-title="MALAY" tvg-logo="https://iili.io/1Nq3nR.png",Astro Rania HD CH112
+#EXTINF:-1 tvg-id="112" tvg-name="ASTRO RANIA HD" group-title="MALAY" tvg-logo="https://iili.io/1Nq3nR.png",Astro Rania HD 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-chno="126" tvg-name="TV AlHijrah" radio="false" catchup="default" group-title="MALAY" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV AlHijrah 
@@ -245,23 +240,12 @@ https://tinyurl.com/2p94fcn6
 #EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAY",Astro Ria HD ( B2 )
 https://tinyurl.com/2msfprdb
 
-#EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAY",ASTRO RIA ( C2 )
-http://mudy02.cularu.com:8880/SDY14M3N283/14M3N283/1705
-
 #EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAY",ASTRO RIA ( C1 )
 https://tinyurl.com/2p94fcn6
 https://tinyurl.com/2msfprdb
 
-#EXTINF:-1 group-title="MALAY" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria ( B3 )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-https://linears-playback.astro.com.my/vsg/214t4m8oJTQM8yFnq1avqg1fxrDF5iNyWo8f4CC5iiDMM=J0Sr/dash-wv/jitp-linearwm/1004/default_ott.mpd
-
-#EXTINF:-1 tvg-id="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="MALAY",ASTRO WARNA ( C1 )
-http://mudy02.cularu.com:8880/SDY14M3N283/14M3N283/1706
-
-#EXTINF:-1 tvg-id="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="MALAY",ASTRO WARNA ( C1 )
-http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1706
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Ria.jpg" tvg-country="" tvg-url="" group-title="",Astro Ria ( C2 )
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02528583999818620657&ct=18379&tsum=b78da248bf2abd0495bedb7f4e1ffee2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -270,9 +254,6 @@ http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&t
 
 #EXTINF:-1 tvg-id="123" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="MALAY",AWESOME TV (C)
 http://iptv12k.com:35461/8022011502/123456/743
-
-#EXTINF:-1 tvg-id="awesometv.my" tvg-name="Awesome TV" tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png" group-title="MALAY",Awesome TV
-http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=rtmp&username=109789&password=109789&stream=9016
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/80a24d2a-7981-4a84-b5c2-76d96666a381
@@ -767,8 +748,14 @@ http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09e9d9037bbc6d4eac45bdee4b718b10:05db97174848670a152d0b15f3dab994
-#EXTINF:-1 tvg-id="404" tvg-name="BOO HD" group-title="MOVIES" tvg-logo="https://iili.io/1NC1Cx.png",BOO CH404
+#EXTINF:-1 tvg-id="404" tvg-name="BOO HD" group-title="MOVIES" tvg-logo="https://iili.io/1NC1Cx.png",BOO ( C )
 http://iptv.tvmalaysia.cc/100588/100588/8872
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Boo.jpg" tvg-country="" tvg-url="" group-title="",Astro Boo 
+http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m07914804849118012561&ct=18379&tsum=928362cd8c4fd38ad67aad257ef24c35
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Boo.jpg" tvg-country="" tvg-url="" group-title="",Astro Boo 
+http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m07914804849118012561&ct=18379&tsum=928362cd8c4fd38ad67aad257ef24c35
 
 #EXTINF:-1 tvg-id="" tvg-chno="704" tvg-name="Cinemax by HBO" radio="false" group-title="MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",Cinemax by HBO 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
