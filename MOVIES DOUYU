@@ -1,7 +1,7 @@
 ##### DOUYU #######
 
 
-#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 1 (C)
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 1 (C.J)
 http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
 
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 2 (C)
@@ -10,28 +10,101 @@ http://117.148.179.160/PLTV/88888888/224/3221231639/index.m3u8
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 3 (C)
 http://111.40.196.9/PLTV/88888888/224/3221225615/index.m3u8
 
-#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 4 (C)
-http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8
-
-#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 5 (C)
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 5 (C.)
 http://117.148.179.160/PLTV/88888888/224/3221231621/index.m3u8
 
-#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 6 (C)
-http://111.40.196.9/PLTV/88888888/224/3221225620/index.m3u8
-
-#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 7 (C)
-http://117.148.179.160/PLTV/88888888/224/3221231565/index.m3u8
-
-#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 8 (C)
-http://111.40.196.9/PLTV/88888888/224/3221225622/index.m3u8
-
-#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 9 (C)
-
-#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 10 (C)
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 10 (C.T)
 http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
 
-#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 11 (C)
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 11 (P)
 http://117.148.179.160/PLTV/88888888/224/3221231564/index.m3u8
 
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 6 (P)
+http://111.40.196.9/PLTV/88888888/224/3221225620/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 4 (P)
+http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 12 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2164691
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 13 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2104744
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 14 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2337939
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 15 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=752376
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 16 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9461990
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 17 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8915074
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 18 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8317926
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 19 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8014467
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 20 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6027991
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 21 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2758565
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 22 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9485398
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 23 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=515005
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 24 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8768613
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 25 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9280384
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 26 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8656759
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 27 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1224356
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 28 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2660125
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 29 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8869614
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 30 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9222870
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 31 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=4258555
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 32 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9075333
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 33 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8921999
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 34 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9601429
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 35 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3715426
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 36 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=562225
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES DOUYU",MOVIES GROUP 37 ()
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9445279
 
 
