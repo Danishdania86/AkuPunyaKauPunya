@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz" url-tvg="https://bit.ly/astroandunifiepg" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://pcccw.github.io/Ark/EPG/guide_71.xml,https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml,https://iptv-org.github.io/epg/guides/vidio.com.guide.xml,https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml,https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml"
 
 ######## RADIO #########
 
@@ -150,7 +151,7 @@ https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch
 https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8
 
 
-#ASTRO MELAYU
+######## ASTRO MELAYU #########
 
 
 #EXTINF:-1 tvg-id="" tvg-name="IKIM" group-title="MALAY" tvg-logo="https://iili.io/1NTfv2.png",TV IKIM HD
@@ -263,7 +264,7 @@ http://lnk.ec/Astrocitra.m3u8
 https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 
-#TV SINGAPORE
+###### TV SINGAPORE ########
 
 #EXTINF:-1  tvg-id="Ch 5" group-title="MEDIACORP" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -291,7 +292,7 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
 
-#ASTRO CARTOON
+###### ASTRO CARTOON #########
 
 #EXTINF:-1 tvg-id="" tvg-chno="200" tvg-name="Astro Ceria" radio="false" group-title="KIDS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -389,7 +390,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#ASTRO CHINESE
+####### ASTRO CHINESE ########
 
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="Celestial Movies" radio="false" group-title="CHINESE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",Celestial Movies(ASTRO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -522,7 +523,7 @@ https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDrago
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 
-#ASTRO TAMIL
+###### ASTRO TAMIL ########
 
 #EXTINF:-1 tvg-id="" tvg-chno="400" tvg-name="Colors" radio="false" group-title="INDIA" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png",Colors 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -548,7 +549,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 
 
-#TV INDONESIA
+######## TV INDONESIA ########
 
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="INDO",SCTV
@@ -604,7 +605,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="INDO",SCTV
 http://tvn.x10.bz/vidio/master-24.m3u8
 
-#TV KOREA
+###### TV KOREA ########
 
 #EXTINF:-1 tvg-id="" tvg-chno="601" tvg-name="Arirang" radio="false" catchup="default" group-title="KOREA" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202109/20210930/20210930172146349qec.png",Arirang 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -675,7 +676,7 @@ http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
 
 
-#ASTRO MOVIE
+####### ASTRO MOVIE ########
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Boo.jpg" tvg-country="" tvg-url="" group-title="MOVIES",Astro Boo 
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m07914804849118012561&ct=18379&tsum=928362cd8c4fd38ad67aad257ef24c35
@@ -821,7 +822,14 @@ http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="MOVIES",卫视电影台
 http://59.125.101.187:8599/.m3u8
 
-#LIFESTYLE
+#EXTINF:-1 tvg-id="" tvg-logo="http://play.kobar.online:8080/images/f459bf66a176547908a96e42bfd3d083.png" group-title="MOVIES",MY CINEMA
+http://210.210.129.106/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://play.kobar.online:8080/images/9e843ca869da26a06b7bddee5130a6db.png" group-title="MOVIES",MY CINEMA ASIA
+http://210.210.129.106/uq2663/h/h193/index.m3u8
+
+
+##### LIFESTYLE #####
 
 
 #EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TVIQ_v1.png",Astro TVIQ 
@@ -987,7 +995,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff303704505503
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#TV AGAMA
+########## TV AGAMA ##########
 
 #EXTINF:-1 tvg-id="" tvg-chno="1100" tvg-name="tvMU" radio="false" group-title="RELIGOUS" tvg-logo="https://cdn.macan.tv/img/tvmu.png",tvMU 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1023,7 +1031,7 @@ https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 https://anevia115.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 
-#MUSIC
+########### MUSIC ###########
 
 #EXTINF:-1 tvg-id="" tvg-chno="1200" tvg-name="MTV Asia" radio="false" group-title="MUSIC" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607170970968i.png",MTV Asia 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1048,7 +1056,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8 
 
 
-#TV BERITA
+######### TV BERITA ###########
 
 #EXTINF:-1 tvg-id="" tvg-chno="1300" tvg-name="Astro Awani" radio="false" group-title="NEWS" tvg-logo="https://img.astroawani.com/template/awani.jpg",Astro Awani
 https://awanitv.akamaized.net:443/hls/live/2017836/LiveTV1/index.m3u8
@@ -1111,7 +1119,7 @@ https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 
-#ASTRO SPORTS
+########## ASTRO SPORTS ###########
 
 #EXTINF:-1 tvg-id="" tvg-chno="1400" tvg-name="RTM Sports" radio="false" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png",RTM Sports 
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
@@ -1265,7 +1273,7 @@ http://194.233.70.176:25461/live/lifetime/user/109.m3u8
 http://194.233.70.176:25461/live/lifetime/user/110.m3
 
 
-#MOVIES CHINESE
+####### MOVIES CHINESE ##########
 
 #EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 1 (C)
 http://117.148.179.134/PLTV/88888888/224/3221231585/index.m3u8
@@ -1475,9 +1483,9 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=9650887
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 13 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=310926
 
-
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 14 (C.F)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=315457
+
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 15 (C.H)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=5033502
 
@@ -1549,9 +1557,6 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=6655271
 #EXTINF:-1 tvg-id="" tvg-name="Dangdut TIVI [Nin]" tvg-logo="" group-title="MUSIC",Dangdut TIVI [Nin]
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="StringRay KARAOKE" tvg-logo="" group-title="MUSIC",StringRay KARAOKE
-https://stirr.ott-channels.stingray.com/karaoke/master_1280x720_2000kbps.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="MolaHitsTV" tvg-logo="https://static.colectivosvip.com/public/colectivos/390/logo.png" group-title="MUSIC",MolaHitsTV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
@@ -1569,8 +1574,12 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 #EXTINF:-1 tvg-id="" tvg-name="BRITASIA TV" tvg-logo="" group-title=" MUSIC",BRITASIA TV
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 
+#EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-name="1HD Music Television" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png" group-title="MUSIC",1HD Music Television
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
-#MOVIES PLUTO US
+
+
+##### MOVIES PLUTO US #######
 
 #EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" tvg-chno="54" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="PLUTO US MOVIES 886",Pluto TV Action
 Http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1608,7 +1617,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dbfedccc563080009b60f
 
 
 
-CARTOONZ PLUTO
+####### CARTOONZ PLUTO ##########
 
 #EXTINF:-1 tvg-id="5d14fb6c84dd37df3b4290c5" tvg-chno="978" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png" group-title="PLUTO KIDZ 886",Dora TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1647,7 +1656,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c5c2b9d8002db3c3e0b1c
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612f761008a9e50007984ba0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-MUSIC PLUTO
+####### MUSIC PLUTO ########
 
 #EXTINF:-1 tvg-id="600ae79fa46e17000794e84c" tvg-chno="710" tvg-logo="https://images.pluto.tv/channels/600ae79fa46e17000794e84c/colorLogoPNG.png" group-title="PLUTO MUSIC 886",MTV Love Music
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1969,8 +1978,11 @@ https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2
 https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ieLWQPdBQWV1pmTwoUUGr8--AEaA6QZEMkKQwQ=m22
 
 
+
 ###### BOLLYWOOD #####
 
+#EXTINF: -1 tvg-id="B4U MOVIES" tvg-logo="https://i.imgur.com/oP3sEtc.jpg" group-title="M.BOLLYWOOD 886", B4U MOVIES 
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 
 
 
