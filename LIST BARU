@@ -552,8 +552,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 ######## TV INDONESIA ########
 
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="INDO",SCTV
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://static.mncnow.id/images/channel/56315db3/4a39_r32.jpg" group-title="INDO", RCTI
+https://dtaarjaj1diy9.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-chno="507" tvg-name="ANTV" radio="false" catchup="default" group-title="INDO" tvg-logo="https://cdn.macan.tv/img/antv.png",ANTV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -580,19 +582,8 @@ https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainm
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="INDO",RCTI
-https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=8-mp4a_96000=2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR 2" tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="INDO",INDOSIAR
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
-
-##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title="INDO",INDOSIAR
-http://tvn.x10.bz/vidio/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="RCTI 1" tvg-logo="https://i.postimg.cc/PJhZ5tQv/rcti.png" group-title="INDO",RCTI 
-https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/PHV9N6KXPk1NUNLlANF996glEzc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="INDO",INDOSIAR
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="TRANS7HD.id" tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="INDO",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
@@ -600,10 +591,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng
 #EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://lofrev.net/wp-content/photos/2017/05/transtv_logo.png" group-title="INDO",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="INDO",SCTV
-http://tvn.x10.bz/vidio/master-24.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/XBqGTlMWJaY48osD8s4I1ZJPngA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="INDO",SCTV 
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+444
 
 ###### TV KOREA ########
 
@@ -674,6 +664,13 @@ http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="616" tvg-name="EBS Plus 2" radio="false" catchup="default" group-title="KOREA" tvg-logo="https://i.ytimg.com/vi/3lDiUzIwSTg/maxresdefault.jpg",EBS Plus 2 
 http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://static.mncnow.id/images/channel/56315db3/4a39_r32.jpg" group-title="INDO", RCTI
+https://dtaarjaj1diy9.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+
 
 
 ####### ASTRO MOVIE ########
@@ -1981,9 +1978,13 @@ https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ie
 
 ###### BOLLYWOOD #####
 
-#EXTINF: -1 tvg-id="B4U MOVIES" tvg-logo="https://i.imgur.com/oP3sEtc.jpg" group-title="M.BOLLYWOOD 886", B4U MOVIES 
+#EXTINF: -1 tvg-id="B4U MOVIES" tvg-logo="https://i.imgur.com/oP3sEtc.jpg" group-title="BOLLYWOOD 886", B4U MOVIES 
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/zeebioskop.png" group-title="BOLLYWOOD 886",ZEE BIOSKOP
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 
 
