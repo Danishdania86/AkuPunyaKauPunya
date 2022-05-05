@@ -168,7 +168,7 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
 
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="MALAY" tvg-logo="https://iili.io/1NKfxR.png",TV3 HD
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03_720H.mpd
+https://live.astradamy.com/tv3/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="108" tvg-name="TV6" radio="false" catchup="default" group-title="MALAY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-Logo-JPG.jpg",TV6 
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
@@ -240,25 +240,28 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAY",ASTRO RIA ( C1 )
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/1705
+http://axcestv.vip:8080/live/freeview/axcestv/647.ts
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Ria.jpg" tvg-country="" tvg-url="" group-title="MALAY",Astro Ria ( C2 )
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02528583999818620657&ct=18379&tsum=b78da248bf2abd0495bedb7f4e1ffee2
+https://ktiptv.co:443/3057/3057/25855
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1, group-title="MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png", Astro Warna ( B )
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=4313
+#EXTVLCOPT:http-user-agent=ipad
+#EXTVLCOPT:http-referrer=https://www.tvmalaysia.online/
+https://tvmalaysia.cyou/hls/warna.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/80a24d2a-7981-4a84-b5c2-76d96666a381
 #EXTINF:-1, group-title="MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://ktiptv.co:443/3057/3057/25852
+http://w.nasvpn.xyz:8080/live/suke/suke/13345.m3u8
 
 #EXTINF:-1 tvg-id="CIT.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="MALAY",Astro Citra (B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-http://lnk.ec/Astrocitra.m3u8
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://axcestv.vip:8080/live/freeview/axcestv/652.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -597,7 +600,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://lofrev.net/wp-content/photos/2017/05/transtv_logo.png" group-title="INDO",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/XBqGTlMWJaY48osD8s4I1ZJPngA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="INDO",SCTV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
@@ -684,7 +687,9 @@ https://dtaarjaj1diy9.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 ####### ASTRO MOVIE ########
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Boo.jpg" tvg-country="" tvg-url="" group-title="MOVIES",Astro Boo 
-http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m07914804849118012561&ct=18379&tsum=928362cd8c4fd38ad67aad257ef24c35
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Boo.jpg" tvg-country="" tvg-url="" group-title="MOVIES",Astro Boo ( B )
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m07914804849118012561&ct=18379&tsum=928362cd8c4fd38ad67aad257ef24c35
@@ -833,6 +838,19 @@ http://210.210.129.106/uq2663/h/h192/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://play.kobar.online:8080/images/9e843ca869da26a06b7bddee5130a6db.png" group-title="MOVIES",MY CINEMA ASIA
 http://210.210.129.106/uq2663/h/h193/index.m3u8
 
+#EXTINF:-1 tvg-id="StarMovies" group-title="MOVIES" tvg-logo="https://i.ibb.co/hVhPGgc/SMSHD.png",Star Movies Select
+http://axcestv.vip:8080/live/freeview/axcestv/705.ts
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="" group-title="MOVIES",Sony Pix 
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
+#http://live.flixhub.net/hls/sonypixhd.m3u8
+
+#EXTINF:-1 tvg-id="&Flix" group-title="MOVIES" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png",&Flix
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://axcestv.vip:8080/live/freeview/axcestv/702.ts
 
 ##### LIFESTYLE #####
 
