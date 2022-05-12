@@ -167,6 +167,8 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb-hypptv-8064.astradamy.com/deviceId/tv3/
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="MALAY" tvg-logo="https://iili.io/1NKfxR.png",TV3 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
