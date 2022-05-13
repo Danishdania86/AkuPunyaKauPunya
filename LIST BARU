@@ -1,5 +1,17 @@
 #EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz" url-tvg="https://bit.ly/astroandunifiepg" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U url-tvg="https://pcccw.github.io/Ark/EPG/guide_71.xml,https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml,https://iptv-org.github.io/epg/guides/vidio.com.guide.xml,https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml,https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" url-tvg="https://weareblahs.github.io/epg/astro.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
+
+
+
+
+
 
 ######## RADIO #########
 
@@ -163,9 +175,10 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-chno="104" tvg-name="TV2" radio="false" catchup="default" group-title="MALAY" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2 
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="MALAY" tvg-logo="https://iili.io/1NKfxR.png",TV3 SD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="MALAY" tvg-logo="https://iili.io/1NKfxR.png",TV3 
+# https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+# https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+https://live.astradamy.com/tv3/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb-hypptv-8064.astradamy.com/deviceId/tv3/
@@ -240,19 +253,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" group-title="MALAY" tvg-logo="https://iili.io/1Nfma1.png",Astro Oasis HD CH106
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f437ad29765f253325a84298d9f0d10:d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAY",ASTRO RIA ( C1 )
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://axcestv.vip:8080/live/freeview/axcestv/647.ts
+#https://linears-playback.astro.com.my/vsg/21hSTreDoP4JkZi8acBSiqbX82trGaE4JgYHlYpREKJtA=EKzD/dash-wv/jitp-linearwm/1004/default_ott.mpd
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01674187119012462906&ct=18379&tsum=c7c1fdf7b1e0b30aad376edc1f50ed87
+#http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1705
+http://139.99.56.106:2082/sakinah1/sakinah1/8444
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Ria.jpg" tvg-country="" tvg-url="" group-title="MALAY",Astro Ria ( C2 )
-https://ktiptv.co:443/3057/3057/25855
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1, group-title="MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png", Astro Warna ( B )
-#EXTVLCOPT:http-user-agent=ipad
-#EXTVLCOPT:http-referrer=https://www.tvmalaysia.online/
-https://tvmalaysia.cyou/hls/warna.m3u8
+http://acc2.aatvbox.club:8880/trmall/trmall0308/1705
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/80a24d2a-7981-4a84-b5c2-76d96666a381
@@ -275,6 +285,8 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a4fb03a7f0b51c6264b70203ebcde10&key=abf3210c7882b3838b66e256d3d72840
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="MAALAY", CH107 Astro Warna (B1)
+http://acc2.aatvbox.club:8880/trmall/trmall0308/1706
 
 
 ###### TV SINGAPORE ########
@@ -835,10 +847,10 @@ http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=
 http://59.125.101.187:8599/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://play.kobar.online:8080/images/f459bf66a176547908a96e42bfd3d083.png" group-title="MOVIES",MY CINEMA
-http://210.210.129.106/uq2663/h/h192/index.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/699.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://play.kobar.online:8080/images/9e843ca869da26a06b7bddee5130a6db.png" group-title="MOVIES",MY CINEMA ASIA
-http://210.210.129.106/uq2663/h/h193/index.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/700.ts
 
 #EXTINF:-1 tvg-id="StarMovies" group-title="MOVIES" tvg-logo="https://i.ibb.co/hVhPGgc/SMSHD.png",Star Movies Select
 http://axcestv.vip:8080/live/freeview/axcestv/705.ts
@@ -853,6 +865,11 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 #EXTINF:-1 tvg-id="&Flix" group-title="MOVIES" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png",&Flix
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://axcestv.vip:8080/live/freeview/axcestv/702.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="MOVIES",StarMovies
+http://axcestv.vip:8080/live/freeview/axcestv/704.ts
+
+
 
 ##### LIFESTYLE #####
 
@@ -2013,6 +2030,29 @@ http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/zeebioskop.png" group-title="BOLLYWOOD 886",ZEE BIOSKOP
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmzD7OhdSjEvTDVMKq-06O0MUFD-IqY1NoSA&usqp=CAU" group-title="BOLLYWOOD 886" tvg-id="StarGoldHDIndia.hk" tvg-name="StarGoldHDIndia.hk", Star Gold HD India
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIB77EXjxKkVR42EHBrRyRmBM6KKzHBl-N2b39_gR9vMs4mN16ujUQbaA&s=10" group-title="BOLLYWOOD 886" tvg-id="" tvg-name="", Sony Max 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png" group-title="BOLLYWOOD 886" tvg-id="333" tvg-name="333", Colors Cineplex
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/435118/435118/6768
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png" group-title="BOLLYWOOD 886" tvg-id="301" tvg-name="301", Yupp Thirai HD
+http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vrMDmM/ZEEC.png" group-title="BOLLYWOOD 886" tvg-id="ZeeCinemaAsia.in" tvg-name="ZeeCinemaAsia.in", Zee Cinema Asia
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YQP3hDH/ZING.png" group-title="BOLLYWOOD 886" tvg-id="ZingAsia.in" tvg-name="ZingAsia.in", Zing Asia
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/55354
 
 
 
