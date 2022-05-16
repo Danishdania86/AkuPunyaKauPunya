@@ -7,6 +7,7 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://weareblahs.github.io/epg/astro.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,http://zeehanzgadget.com/epg" refresh="3600"
 
 
 
@@ -847,10 +848,10 @@ http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=
 http://59.125.101.187:8599/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://play.kobar.online:8080/images/f459bf66a176547908a96e42bfd3d083.png" group-title="MOVIES",MY CINEMA
-http://axcestv.vip:8080/live/freeview/axcestv/699.ts
+http://axcestv.vip:8080/freeview/axcestv/507
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://play.kobar.online:8080/images/9e843ca869da26a06b7bddee5130a6db.png" group-title="MOVIES",MY CINEMA ASIA
-http://axcestv.vip:8080/live/freeview/axcestv/700.ts
+http://axcestv.vip:8080/freeview/axcestv/508
 
 #EXTINF:-1 tvg-id="StarMovies" group-title="MOVIES" tvg-logo="https://i.ibb.co/hVhPGgc/SMSHD.png",Star Movies Select
 http://axcestv.vip:8080/live/freeview/axcestv/705.ts
@@ -2058,44 +2059,48 @@ http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/55354
 
 ####### ASTRO FIRST ########
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First-聽Jaga-Jaga Senariounion" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ASTRO FIRST 886",Astro First-聽Jaga-Jaga Senario union
-http://axcestv.vip:8080/live/freeview/axcestv/989.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Jaga-Jaga Senariounion" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO FIRST",Astro First- Jaga-Jaga Senariounion
+http://axcestv.vip:8080/freeview/axcestv/486
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Gila Gusti" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ASTRO FIRST 886",Astro First- Gila Gusti
-http://axcestv.vip:8080/live/freeview/axcestv/981.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Gila Gusti" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO FIRST",Astro First- Gila Gusti
+http://axcestv.vip:8080/freeview/axcestv/488
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Renjana" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ASTRO FIRST 886",Astro First- Renjana
-http://axcestv.vip:8080/live/freeview/axcestv/978.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Autumn In Wales" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO FIRST",Astro First- Autumn In Wales
+http://axcestv.vip:8080/freeview/axcestv/489
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Autumn In Wales" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ASTRO FIRST 886",Astro First- Autumn In Wales
-http://axcestv.vip:8080/live/freeview/axcestv/979.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Renjana" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO FIRST",Astro First- Renjana
+http://axcestv.vip:8080/freeview/axcestv/490
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First - Kedai Antik Wak Jambi" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ASTRO FIRST 886",Astro First - Kedai Antik Wak Jambi
-http://axcestv.vip:8080/live/freeview/axcestv/980.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kabus" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO FIRST",Astro First- Kabus
+http://axcestv.vip:8080/freeview/axcestv/491
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kg Pisang Berbuah Dua Kali" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ASTRO FIRST 886",Astro First- Kg Pisang Berbuah Dua Kali
-http://axcestv.vip:8080/live/freeview/axcestv/684.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kedai Antik Wak Jambi" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO FIRST",Astro First- Kedai Antik Wak Jambi
+http://axcestv.vip:8080/freeview/axcestv/492
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Kuat Ketawa" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ASTRO FIRST 886",Astro First- Hantu Kuat Ketawa
-http://axcestv.vip:8080/live/freeview/axcestv/685.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kg Pisang Berbuah Dua Kali" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO FIRST",Astro First- Kg Pisang Berbuah Dua Kali
+http://axcestv.vip:8080/freeview/axcestv/493
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Mok Joh" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ASTRO FIRST 886",Astro First- Hantu Mok Joh
-http://axcestv.vip:8080/live/freeview/axcestv/686.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Kuat Ketawa" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO FIRST",Astro First- Hantu Kuat Ketawa
+http://axcestv.vip:8080/freeview/axcestv/494
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Marabahaya Underground" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ASTRO FIRST 886",Astro First- Marabahaya Underground
-http://axcestv.vip:8080/live/freeview/axcestv/687.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Mok Joh" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO FIRST",Astro First- Hantu Mok Joh
+http://axcestv.vip:8080/freeview/axcestv/495
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Serangan Pocong" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ASTRO FIRST 886",Astro First- Serangan Pocong
-http://axcestv.vip:8080/live/freeview/axcestv/688.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Marabahaya Underground" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO FIRST",Astro First- Marabahaya Underground
+http://axcestv.vip:8080/freeview/axcestv/496
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First - Siapa Tutup Lampu?" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ASTRO FIRST 886",Astro First - Siapa Tutup Lampu?
-http://axcestv.vip:8080/live/freeview/axcestv/689.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Serangan Pocong" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO FIRST",Astro First- Serangan Pocong
+http://axcestv.vip:8080/freeview/axcestv/497
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First - Hantu Ke Lima" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ASTRO FIRST 886",Astro First - Hantu Ke Lima
-http://axcestv.vip:8080/live/freeview/axcestv/690.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Siapa Tutup Lampu?" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO FIRST",Astro First - Siapa Tutup Lampu?
+http://axcestv.vip:8080/freeview/axcestv/498
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First -Penunggang Agama 2" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="ASTRO FIRST 886",Astro First -Penunggang Agama 2
-http://axcestv.vip:8080/live/freeview/axcestv/691.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Hantu Ke Lima" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO FIRST",Astro First - Hantu Ke Lima
+http://axcestv.vip:8080/freeview/axcestv/499
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First -Penunggang Agama 2" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO FIRST",Astro First -Penunggang Agama 2
+http://axcestv.vip:8080/freeview/axcestv/500
+
 
 
 
