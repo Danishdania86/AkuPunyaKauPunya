@@ -247,7 +247,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 group-title="MALAY" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾     
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
 http://axcestv.vip:8080/freeview/axcestv/454
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Ria.jpg" tvg-country="" tvg-url="" group-title="MALAY",Astro Ria 
