@@ -1,3 +1,21 @@
+<!DOCTYPE>
+ 
+<html>
+<head>
+<link rel="icon" type="image/png" href="https://www.astro.com.my/bm/">
+<script type="text/javascript">
+window.location = "https://www.astro.com.my/bm/"
+</script>
+</head>
+
+<div style="text-align:right;position:fixed;bottom:3px;right:3px;width:100%;z-index:999999;cursor:pointer;line-height:0;display:block;"><a target="_blank" href="https://www.freewebhostingarea.com" title="Free Web Hosting with PHP5 or PHP7"><img alt="Free Web Hosting" src="https://www.freewebhostingarea.com/images/poweredby.png" style="border-width: 0px;width: 180px; height: 45px; float: right;"></a></div>
+</html>
+
+<noscript>
+
+*https://raw.githubusercontent.com/DarkSide2109/MuZu/main/index.html*
+#EXTM3U
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
 
 
