@@ -252,10 +252,10 @@ http://axcestv.vip:8080/freeview/axcestv/454
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Ria.jpg" tvg-country="" tvg-url="" group-title="MALAY",Astro Ria 
 http://axcestv.vip:8080/freeview/axcestv/453
 
-#EXTINF:-1, group-title="MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
-https://linears-playback.astro.com.my/vsg/41YGHCgXto966osWXhUtTqanVnRXZeOWub_mtNOVxSmXU=D_UX/dash-wv/jitp-linearwm/2700/default_primary.mpd
+#EXTINF:-1, group-title="MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra
+https://link.zozotv.xyz:443/Aina_90/abc1234/37
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾    
 http://axcestv.vip:8080/freeview/axcestv/459
@@ -271,12 +271,9 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="MALAY",Astro Warna 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hrypMzanN1Q_fZT4Cir6_VQ=oKqY/dash-wv/jitp-linearwm/2402/default_primary.mpd
+http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1706
     
 #EXTINF:-1 tvg-id="AstroWarna" group-title="MALAY" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna⁽ᴮᵃᶜᵏᵘᵖ⁾    
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
 http://axcestv.vip:8080/freeview/axcestv/456
 
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV OKEY
