@@ -251,9 +251,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 http://axcestv.vip:8080/freeview/axcestv/454
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Ria.jpg" tvg-country="" tvg-url="" group-title="MALAY",Astro Ria 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-https://linears-playback.astro.com.my/vsg/41G_-Gitcfb71SZqS2-oc-k4_fwZPINeyorxu3dCuLTNk=2hzI/dash-wv/jitp-linearwm/1004/default_primary.mpd
+http://axcestv.vip:8080/freeview/axcestv/453
 
 #EXTINF:-1, group-title="MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
