@@ -13,8 +13,7 @@ window.location = "https://www.astro.com.my/bm/"
 
 <noscript>
 
-*https://raw.githubusercontent.com/DarkSide2109/MuZu/main/index.html*
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/DarkSide2109/MuZu/main/index.html*
 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
 
