@@ -287,7 +287,9 @@ https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9ET2j4Kecq_SoLY
 https://link.zozotv.xyz:443/Aina_90/abc1234/37
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾    
-http://axcestv.vip:8080/freeview/axcestv/459
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9MZjXRCZVMa2CLplxusy3ec=R-it/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
