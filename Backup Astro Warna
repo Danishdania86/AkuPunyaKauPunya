@@ -27,3 +27,8 @@ http://iptv12k.com:35461/80301051401/878900/4313
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
 https://tv.kpsvpn.com/warna.mpd
+
+
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="MALAY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna 6
+http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1706
+#http://syok.tv:2082/fred/fred/22
