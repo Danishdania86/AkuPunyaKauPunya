@@ -23,3 +23,8 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK0202
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="MALAY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra 4
 http://syok.tv:2082/fred/fred/26
 #http://iptv12k.com:35461/80201033004/324542/6608
+
+
+#EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra 5  
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://link.zozotv.xyz:443/Aina_90/abc1234/37
