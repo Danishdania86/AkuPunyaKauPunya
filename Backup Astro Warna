@@ -6,3 +6,9 @@
 #EXTINF:-1 tvg-id="AstroWarna" group-title="MALAY" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna 1 
 http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1706
 #http://axcestv.vip:8080/freeview/axcestv/456
+
+
+    
+#EXTINF:-1 tvg-id="AstroWarna" group-title="MALAY" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",107 Astro Warna 2   
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1706
