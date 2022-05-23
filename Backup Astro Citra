@@ -12,3 +12,14 @@ http://iptv12k.com:35461/80301051401/878900/721
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
 https://tv.kpsvpn.com/citra.mpd
+
+
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="MALAY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra 3
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=6608
+#http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/71146
+
+
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="MALAY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra 4
+http://syok.tv:2082/fred/fred/26
+#http://iptv12k.com:35461/80201033004/324542/6608
