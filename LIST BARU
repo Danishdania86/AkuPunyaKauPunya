@@ -911,200 +911,200 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 ##### LIFESTYLE #####
 
 
-#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TVIQ_v1.png",Astro TVIQ 
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TVIQ_v1.png",ASTRO TVIQ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0eba51d1df133870b96cc21d0967bf10&key=09eadcb36d84926d1fe167869ae42e4b
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5030/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1001" tvg-name="Astro Tutor TV SK" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_SK.png",Astro Tutor TV SK 
+#EXTINF:-1 tvg-id="" tvg-chno="1001" tvg-name="Astro Tutor TV SK" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_SK.png",ASTRO TUTOR TV SK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=006482b5d028cea9803e89daf599a810&key=cf5be288741818ab252dba02533764be
 http://linearjitp-playback.astro.com.my/dash-wv/linear/214/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1002" tvg-name="Astro Tutor TV PT3" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_PT3_v1.png",Astro Tutor TV PT3 
+#EXTINF:-1 tvg-id="" tvg-chno="1002" tvg-name="Astro Tutor TV PT3" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_PT3_v1.png",ASTRO TUTOR TV PT3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a778dba8725013f6f3ceea5f4025110&key=ae73ac1806eca1119473db3515ff4d60
 http://linearjitp-playback.astro.com.my/dash-wv/linear/314/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1003" tvg-name="Astro Tutor TV SPM" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_SPM_v1.png",Astro Tutor TV SPM 
+#EXTINF:-1 tvg-id="" tvg-chno="1003" tvg-name="Astro Tutor TV SPM" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_SPM_v1.png",ASTRO TUTOR TV SPM 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=aa16cabfc85efa0805355cebbea9ed10&key=5cb8814069cfdcbd4f3a50fb025ea585
 http://linearjitp-playback.astro.com.my/dash-wv/linear/313/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1004" tvg-name="Animal Planet" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",Animal Planet 
+#EXTINF:-1 tvg-id="" tvg-chno="1004" tvg-name="Animal Planet" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",ANIMAL PLANET 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d5199f1513a0286e038dae8f7d820010&key=4d4d4d9dc41be43f528a4940cf66f14c
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1005" tvg-name="Animal Planet" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",Animal Planet 
+#EXTINF:-1 tvg-id="" tvg-chno="1005" tvg-name="Animal Planet" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",ANIMAL PLANET 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1006" tvg-name="Food Network" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_v1.png",Food Network 
+#EXTINF:-1 tvg-id="" tvg-chno="1006" tvg-name="Food Network" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_v1.png",FOOD NETWORK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0845d8900e973747e70c9f61ebed2d10&key=4bdb394a43bb955d6d67107620de17db
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1007" tvg-name="Asian Food Network" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png",Asian Food Network 
+#EXTINF:-1 tvg-id="" tvg-chno="1007" tvg-name="Asian Food Network" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png",ASIAN FOOD NETWORK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b0e855d7fb11721129c13d4c1b645e10&key=2ddd4b255921d5c2a331e5f10f302be0
 http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1008" tvg-name="Asian Food Network" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png",Asian Food Network 
+#EXTINF:-1 tvg-id="" tvg-chno="1008" tvg-name="Asian Food Network" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png",ASIAN FOOD NETWORK 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1009" tvg-name="BBC Earth" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png",BBC Earth 
+#EXTINF:-1 tvg-id="" tvg-chno="1009" tvg-name="BBC Earth" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png",BBC EARTH 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1010" tvg-name="Discovery Channel" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png",Discovery Channel 
+#EXTINF:-1 tvg-id="" tvg-chno="1010" tvg-name="Discovery Channel" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png",DISCOVERY CHANNEL 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=398c7f60db4c1639c85be89047de8310&key=7b78f26fd99c7f9e43349547dc8030bc
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1011" tvg-name="Discovery Channel" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png",Discovery Channel 
+#EXTINF:-1 tvg-id="" tvg-chno="1011" tvg-name="Discovery Channel" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png",DISCOVERY CHANNEL 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1012" tvg-name="Discovery Asia" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png",Discovery Asia 
+#EXTINF:-1 tvg-id="" tvg-chno="1012" tvg-name="Discovery Asia" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png",DISCOVERY ASIA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e5ac299099f8bd93d1cc5a96180d7810&key=6d931bb991f70059daba1d552f2b4427
 http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1014" tvg-name="DMAX" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png",DMAX 
+#EXTINF:-1 tvg-id="" tvg-chno="1014" tvg-name="DMAX" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png",DMAX 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ea24fcf5a4e5a1a25a8d118c088dc510&key=effd0dfaddcd0e533314d5305abe031c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1015" tvg-name="History" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png",History 
+#EXTINF:-1 tvg-id="" tvg-chno="1015" tvg-name="History" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png",HISTORY 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c3743253e4717ebb939a814f6a20ac10&key=455e412c13c6369c12555ade2af64a04
 http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1016" tvg-name="History" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png",History 
+#EXTINF:-1 tvg-id="" tvg-chno="1016" tvg-name="History" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png",HISTORY 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1017" tvg-name="HGTV" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png",HGTV 
+#EXTINF:-1 tvg-id="" tvg-chno="1017" tvg-name="HGTV" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png",HGTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9cf5f00d7c35e9a0c4515d93e3938c10&key=2c2d00ff93b69f9e5e6c377fc8c80cc7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1018" tvg-name="HGTV" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png",HGTV 
+#EXTINF:-1 tvg-id="" tvg-chno="1018" tvg-name="HGTV" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png",HGTV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1019" tvg-name="Life" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="https://static.mncnow.id/images/channel/b4078005/ecab_r32.jpg",Life 
+#EXTINF:-1 tvg-id="" tvg-chno="1019" tvg-name="Life" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://static.mncnow.id/images/channel/b4078005/ecab_r32.jpg",LIFE 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://anevia115.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1020" tvg-name="Lifetime" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png",Lifetime 
+#EXTINF:-1 tvg-id="" tvg-chno="1020" tvg-name="Lifetime" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png",LIFETIME 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8762b5ff9680955e720e5ecb5ce78a10&key=187d7e7cb322853a0b485c47a7a12135
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1021" tvg-name="Lifetime" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png",Lifetime 
+#EXTINF:-1 tvg-id="" tvg-chno="1021" tvg-name="Lifetime" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png",LIFETIME 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1022" tvg-name="Life Style Fashion" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="https://static.mncnow.id/images/channel/b55085fd/1291_r32.jpg",Life Style Fashion 
+#EXTINF:-1 tvg-id="" tvg-chno="1022" tvg-name="Life Style Fashion" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://static.mncnow.id/images/channel/b55085fd/1291_r32.jpg",LIFE STYLE FASHION 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1023" tvg-name="National Geographic" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/1000?cb=20170701154034",National Geographic 
+#EXTINF:-1 tvg-id="" tvg-chno="1023" tvg-name="National Geographic" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/1000?cb=20170701154034",NATIONAL GEOGRAPHIC 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=394a40dfff6320fca4a327d7c3127610&key=68633db62849223bb7de00c64f87166f
 http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1024" tvg-name="National Geographic" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/1000?cb=20170701154034",National Geographic 
+#EXTINF:-1 tvg-id="" tvg-chno="1024" tvg-name="National Geographic" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/1000?cb=20170701154034",NATIONAL GEOGRAPHIC 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1025" tvg-name="Nat Geo Wild" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NatGeo_WILD_V3.png",Nat Geo Wild 
+#EXTINF:-1 tvg-id="" tvg-chno="1025" tvg-name="Nat Geo Wild" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NatGeo_WILD_V3.png",NAT GEO WILD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0c626a3022340ea1d7af15e51a118a10&key=543ce4c3e6139f46c4a95c57ef64f540
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1026" tvg-name="Nat Geo Wild" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NatGeo_WILD_V3.png",Nat Geo Wild 
+#EXTINF:-1 tvg-id="" tvg-chno="1026" tvg-name="Nat Geo Wild" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NatGeo_WILD_V3.png",NAT GEO WILD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1029" tvg-name="PRIMEtime" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png",PRIMEtime 
+#EXTINF:-1 tvg-id="" tvg-chno="1029" tvg-name="PRIMEtime" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png",PRIMETIME 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eaaa02f58d19457c6385bf2831706f10&key=7294ff05390550e09df76ef3b697f8da
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1030" tvg-name="TLC" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png",TLC 
+#EXTINF:-1 tvg-id="" tvg-chno="1030" tvg-name="TLC" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png",TLC 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b732fb1488c37774919ae7b4ab0f8010&key=62d4fdbfee0f22b6b0aaa6db9f8410c6
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1031" tvg-name="TLC" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png",TLC 
+#EXTINF:-1 tvg-id="" tvg-chno="1031" tvg-name="TLC" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png",TLC 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
-#EXTINF:-1 tvg-id="5ca671f215a62078d2ec0abf" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png" group-title="LIFESTYLE & KNOWLEDGE",Comedy Central Pluto TV
+#EXTINF:-1 tvg-id="5ca671f215a62078d2ec0abf" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼",COMEDY CENTRAL PLUTO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5e82b55ad0213e00079c509f" tvg-name="AFV TV" tvg-logo="https://images.pluto.tv/channels/5e82b55ad0213e00079c509f/colorLogoPNG.png" group-title="LIFESTYLE & KNOWLEDGE",AFV TV
+#EXTINF:-1 tvg-id="5e82b55ad0213e00079c509f" tvg-name="AFV TV" tvg-logo="https://images.pluto.tv/channels/5e82b55ad0213e00079c509f/colorLogoPNG.png" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼",AFV TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82b55ad0213e00079c509f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="554158e864526b29254ff105" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="LIFESTYLE & KNOWLEDGE",FailArmy
+#EXTINF:-1 tvg-id="554158e864526b29254ff105" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼",FailArmy
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/554158e864526b29254ff105/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5812b3a4249444e05d09cc46" tvg-name="Pluto TV Cars" tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" group-title="LIFESTYLE & KNOWLEDGE",Pluto TV Carshttp://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5812b3a4249444e05d09cc46" tvg-name="Pluto TV Cars" tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼",Pluto TV Carshttp://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="56b27f85ff3037045055037e" tvg-name="Pluto TV Animals" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="LIFESTYLE & KNOWLEDGE",Pluto TV Animals
+#EXTINF:-1 tvg-id="56b27f85ff3037045055037e" tvg-name="Pluto TV Animals" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼",PLUTO TV ANIMALS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5adf96e3e738977e2c31cb04" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" group-title="LIFESTYLE & KNOWLEDGE",Pluto TV Paranormal
+#EXTINF:-1 tvg-id="5adf96e3e738977e2c31cb04" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼",PLUTO TV PARANORMAL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 ########## TV AGAMA ##########
 
-#EXTINF:-1 tvg-id="" tvg-chno="1100" tvg-name="tvMU" radio="false" group-title="RELIGOUS" tvg-logo="https://cdn.macan.tv/img/tvmu.png",tvMU 
+#EXTINF:-1 tvg-id="" tvg-chno="1100" tvg-name="tvMU" radio="false" group-title="🕋 RELIGOUS 886 🕋" tvg-logo="https://cdn.macan.tv/img/tvmu.png",TVMU 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1101" tvg-name="tv9 Nusantara" radio="false" group-title="RELIGOUS" tvg-logo="https://cdn.macan.tv/img/tv9.png",tv9 Nusantara 
+#EXTINF:-1 tvg-id="" tvg-chno="1101" tvg-name="tv9 Nusantara" radio="false" group-title="🕋 RELIGOUS 886 🕋" tvg-logo="https://cdn.macan.tv/img/tv9.png",TV9 NUSANTARA 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1102" tvg-name="Muslim TV" radio="false" group-title="RELIGOUS" tvg-logo="https://www.lyngsat.com/logo/tv/mm/muslim-tv-id.png",Muslim TV 
+#EXTINF:-1 tvg-id="" tvg-chno="1102" tvg-name="Muslim TV" radio="false" group-title="🕋 RELIGOUS 886 🕋" tvg-logo="https://www.lyngsat.com/logo/tv/mm/muslim-tv-id.png",MUSLIM TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1103" tvg-name="Surau TV" radio="false" group-title="RELIGOUS" tvg-logo="https://i.imgur.com/z3Ljuee.png",Surau TV 
+#EXTINF:-1 tvg-id="" tvg-chno="1103" tvg-name="Surau TV" radio="false" group-title="🕋 RELIGOUS 886 🕋" tvg-logo="https://i.imgur.com/z3Ljuee.png",SURAU TV 
 http://119.235.249.58:1935/surautv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="1104" tvg-name="Al Quran Al Kareem TV" radio="false" group-title="RELIGOUS" tvg-logo="",Al Quran Al Kareem TV 
+#EXTINF:-1 tvg-id="" tvg-chno="1104" tvg-name="Al Quran Al Kareem TV" radio="false" group-title="🕋 RELIGOUS 886 🕋" tvg-logo="",AL QURAN AL KAREEM TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1105" tvg-name="Tawaf TV" radio="false" group-title="RELIGOUS" tvg-logo="https://cdn.macan.tv/img/tawaftv.jpg",Tawaf TV 
+#EXTINF:-1 tvg-id="" tvg-chno="1105" tvg-name="Tawaf TV" radio="false" group-title="🕋 RELIGOUS 886 🕋" tvg-logo="https://cdn.macan.tv/img/tawaftv.jpg",TAWAF TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1106" tvg-name="Reformed 21" radio="false" group-title="RELIGOUS" tvg-logo="https://static.mncnow.id/images/channel/2b3bc0b8/f09b_r32.jpeg",Reformed 21 
+#EXTINF:-1 tvg-id="" tvg-chno="1106" tvg-name="Reformed 21" radio="false" group-title="🕋 RELIGOUS 886 🕋" tvg-logo="https://static.mncnow.id/images/channel/2b3bc0b8/f09b_r32.jpeg",REFORMED 21 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://anevia115.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
@@ -1112,89 +1112,84 @@ https://anevia115.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 ########### MUSIC ###########
 
-#EXTINF:-1 tvg-id="" tvg-chno="1200" tvg-name="MTV Asia" radio="false" group-title="MUSIC" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607170970968i.png",MTV Asia 
+#EXTINF:-1 tvg-id="" tvg-chno="1200" tvg-name="MTV Asia" radio="false" group-title="💃 MUSIC 886 💃" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607170970968i.png",MTV ASIA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=835f1c94b9a333eea1e7bb78b0a79010&key=57f68cdc4023fc8511dc1ea6b5502a1c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1202" tvg-name="MUSIC'TV" radio="false" group-title="MUSIC" tvg-logo="https://www.mncchannels.com/files/logo/1579059453_logo_music%20tv.png",MUSIC'TV 
+#EXTINF:-1 tvg-id="" tvg-chno="1202" tvg-name="MUSIC'TV" radio="false" group-title="💃 MUSIC 886 💃" tvg-logo="https://www.mncchannels.com/files/logo/1579059453_logo_music%20tv.png",MUSIC'TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1203" tvg-name="Maleo" radio="false" group-title="MUSIC" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png",Maleo 
+#EXTINF:-1 tvg-id="" tvg-chno="1203" tvg-name="Maleo" radio="false" group-title="💃 MUSIC 886 💃" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png",MALEO 
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Carolina TV (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/eaHPbqd.png",Carolina TV (BR)
+#EXTINF:-1 tvg-name="Carolina TV (BR)" tvg-id="" group-title="💃 MUSIC 886 💃" tvg-logo="https://i.imgur.com/eaHPbqd.png",CAROLINA TV (BR)
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="MUSIC",MTV Biggest Pop (720p)
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="💃 MUSIC 886 💃",MTV BIGGEST POP (720p)
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
-#EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-name="1HD Music Television" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png" group-title="MUSIC",1HD Music Television
+#EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-name="1HD Music Television" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png" group-title="💃 MUSIC 886 💃",1HD MUSIC TELEVISION
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8 
 
 
 ######### TV BERITA ###########
 
-#EXTINF:-1 tvg-id="" tvg-chno="1300" tvg-name="Astro Awani" radio="false" group-title="NEWS" tvg-logo="https://img.astroawani.com/template/awani.jpg",Astro Awani
+#EXTINF:-1 tvg-id="" tvg-chno="1300" tvg-name="Astro Awani" radio="false" group-title="🗞️ NEWS 886 🗞️" tvg-logo="https://img.astroawani.com/template/awani.jpg",ASTRO Awani
 https://awanitv.akamaized.net:443/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="1301" tvg-name="Berita RTM" radio="false" group-title="NEWS" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM 
+#EXTINF:-1 tvg-id="" tvg-chno="1301" tvg-name="Berita RTM" radio="false" group-title="🗞️ NEWS 886 🗞️" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",BERITA RTM 
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1303" tvg-name="TVOne" radio="false" group-title="NEWS" tvg-logo="https://cdn.macan.tv/img/tvone.png",TVOne 
+#EXTINF:-1 tvg-id="" tvg-chno="1303" tvg-name="TVOne" radio="false" group-title="🗞️ NEWS 886 🗞️" tvg-logo="https://cdn.macan.tv/img/tvone.png",TVONE 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1304" tvg-name="KOMPAS TV" radio="false" group-title="NEWS" tvg-logo="https://cdn.macan.tv/img/kompastv.png",KOMPAS TV 
+#EXTINF:-1 tvg-id="" tvg-chno="1304" tvg-name="KOMPAS TV" radio="false" group-title="🗞️ NEWS 886 🗞️" tvg-logo="https://cdn.macan.tv/img/kompastv.png",KOMPAS TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1305" tvg-name="Metro TV" radio="false" group-title="NEWS" tvg-logo="https://cdn.macan.tv/img/metrotv.png",Metro TV 
+#EXTINF:-1 tvg-id="" tvg-chno="1305" tvg-name="Metro TV" radio="false" group-title="🗞️ NEWS 886 🗞️" tvg-logo="https://cdn.macan.tv/img/metrotv.png",METRO TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1306" tvg-name="Berita Satu" radio="false" group-title="NEWS" tvg-logo="https://cdn.macan.tv/img/beritasatu.png",Berita Satu 
+#EXTINF:-1 tvg-id="" tvg-chno="1306" tvg-name="Berita Satu" radio="false" group-title="🗞️ NEWS 886 🗞️" tvg-logo="https://cdn.macan.tv/img/beritasatu.png",BERITA SATU 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1307" tvg-name="IDX" radio="false" group-title="NEWS" tvg-logo="https://cdn.macan.tv/img/idx.png",IDX 
+#EXTINF:-1 tvg-id="" tvg-chno="1307" tvg-name="IDX" radio="false" group-title="🗞️ NEWS 886 🗞️" tvg-logo="https://cdn.macan.tv/img/idx.png",IDX 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1308" tvg-name="Arirang TV" radio="false" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png",Arirang TV 
+#EXTINF:-1 tvg-id="" tvg-chno="1308" tvg-name="Arirang TV" radio="false" group-title="🗞️ NEWS 886 🗞️" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png",ARIRANG TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1312" tvg-name="CNBC Asia" radio="false" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/707_1920x1080_HTV.png",CNBC Asia 
+#EXTINF:-1 tvg-id="" tvg-chno="1312" tvg-name="CNBC Asia" radio="false" group-title="🗞️ NEWS 886 🗞️" tvg-logo="https://poster.starhubgo.com/Linear_channels2/707_1920x1080_HTV.png",CNBC ASIA 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1313" tvg-name="CNN" radio="false" group-title="NEWS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN 
+#EXTINF:-1 tvg-id="" tvg-chno="1313" tvg-name="CNN" radio="false" group-title="🗞️ NEWS 886 🗞️" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="1316" tvg-name="Fox News Channel" radio="false" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/702_1920x1080_HTV.png",Fox News Channel 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
-
-#EXTINF:-1 tvg-id="" tvg-chno="1317" tvg-name="France 24" radio="false" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FRANCE_24_logo.svg/240px-FRANCE_24_logo.svg.png",France 24 
+#EXTINF:-1 tvg-id="" tvg-chno="1317" tvg-name="France 24" radio="false" group-title="🗞️ NEWS 886 🗞️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FRANCE_24_logo.svg/240px-FRANCE_24_logo.svg.png",FRANCE 24 
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u
 
-#EXTINF:-1 tvg-id="" tvg-chno="1319" tvg-name="RT" radio="false" group-title="NEWS" tvg-logo="https://static.epg.best/ch/RTS1.ch.png",RT 
+#EXTINF:-1 tvg-id="" tvg-chno="1319" tvg-name="RT" radio="false" group-title="🗞️ NEWS 886 🗞️" tvg-logo="https://static.epg.best/ch/RTS1.ch.png",RT 
 https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="1320" tvg-name="TRT World" radio="false" group-title="NEWS" tvg-logo="https://static.epg.best/tr/TRTWorld.tr.png",TRT World 
+#EXTINF:-1 tvg-id="" tvg-chno="1320" tvg-name="TRT World" radio="false" group-title="🗞️ NEWS 886 🗞️" tvg-logo="https://static.epg.best/tr/TRTWorld.tr.png",TRT WORLD 
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 
