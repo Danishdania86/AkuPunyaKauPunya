@@ -1195,203 +1195,203 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 ########## ASTRO SPORTS ###########
 
-#EXTINF:-1 tvg-id="701" group-title="SPORTS"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1
+#EXTINF:-1 tvg-id="701" group-title="⚽ SPORTS 886 ⚽"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",UNIFI SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 group-title="SPORTS" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109",unifi Sports 2
+#EXTINF:-1 group-title="⚽ SPORTS 886 ⚽" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109",UNIFI SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#EXTINF:-1 tvg-id="AstroUHD" ch-number="780" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",780 Astro UHD
+#EXTINF:-1 tvg-id="AstroUHD" ch-number="780" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",ASTRO UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1602/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default_primary.mpd
 
-#EXTINF:-1 tvg-id="eGGNetwork" ch-number="800" group-title="SPORTS" tvg-logo="https://aqfadtv.astradamy.com/logos/eGGNetworkWhite.png",800 eGG Network HD AstGO
+#EXTINF:-1 tvg-id="eGGNetwork" ch-number="800" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https://aqfadtv.astradamy.com/logos/eGGNetworkWhite.png",EGG NETWORK HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e2a4758854ddf83f1e8f465a3d3d8910&key=a464e1f2f904d40f3235a57304e72d78
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroArena" group-title="SPORTS" ch-number="801" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",801 Astro Arena AstGO
+#EXTINF:-1 tvg-id="AstroArena" group-title="⚽ SPORTS 886 ⚽" ch-number="801" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",ASTRO ARENA ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroArena2" group-title="SPORTS" ch-number="802" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/802.png",802 Astro Arena 2 AstGO
+#EXTINF:-1 tvg-id="AstroArena2" group-title="⚽ SPORTS 886 ⚽" ch-number="802" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/802.png",ASTRO ARENA 2 ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/9989/
-#EXTINF:-1 tvg-id="CHN" ch-number="806" group-title="SPORTS" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro GO Live Event 1 
+#EXTINF:-1 tvg-id="CHN" ch-number="806" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",ASTRO GO LIVE EVENT 1 
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/9988/
-#EXTINF:-1 tvg-id="CHN" ch-number="807" group-title="SPORTS" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro GO Live Event 2 
+#EXTINF:-1 tvg-id="CHN" ch-number="807" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",ASTRO GO LIVE EVENT 2 
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/9987/
-#EXTINF:-1 tvg-id="CHN" ch-number="808" group-title="SPORTS" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
+#EXTINF:-1 tvg-id="CHN" ch-number="808" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",ASTRO GO LIVE EVENT 3 
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
     
-#EXTINF:-1 tvg-id="AOTGLive1" group-title="SPORTS" ch-number="810" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/810.png",810 Astro SuperSport HD AstGO
+#EXTINF:-1 tvg-id="AOTGLive1" group-title="⚽ SPORTS 886 ⚽" ch-number="810" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/810.png",ASTRO SUPERSPORT HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",811 Astro SuperSport HD AstGO
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="⚽ SPORTS 886 ⚽" ch-number="811" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",ASTRO SUPERSPORT HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
 https://linears-playback.astro.com.my/vsg/41deCWy__ae_6P_LUQ57j54bqkPiKJmsiWBL_8WTvdu1c=j6Pd/dash-wv/jitp-linearwm/601/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",811 Astro SuperSport HD⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="⚽ SPORTS 886 ⚽" ch-number="811" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",ASTRO SUPERSPORT HD⁽ᴮᵃᶜᵏᵘᵖ⁾
 http://axcestv.vip:8080/freeview/axcestv/594
 
-#EXTINF:-1 tvg-id="AstroSupersport2" group-title="SPORTS" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",812 Astro SuperSport 2 HD AstGO
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="⚽ SPORTS 886 ⚽" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",ASTRO SUPERSPORT 2 HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 https://linears-playback.astro.com.my/vsg/41deCWy__ae_6P_LUQ57j54bqkPiKJmsiWBL_8WTvdu1c=j6Pd/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport2" group-title="SPORTS" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",812 Astro SuperSport HD⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="⚽ SPORTS 886 ⚽" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",ASTRO SUPERSPORT HD⁽ᴮᵃᶜᵏᵘᵖ⁾
 http://axcestv.vip:8080/freeview/axcestv/596
 
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",813 Astro SuperSport 3 HD AstGO
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="⚽ SPORTS 886 ⚽" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",ASTRO SUPERSPORT 3 HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
 https://linears-playback.astro.com.my/vsg/411aAdpUORq1ipLVthkITKe7wEdh7NWeJkFmW_tmV31Yk=A_Lm/dash-wv/jitp-linearwm/2701/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperspor3t" group-title="SPORTS" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",813 Astro SuperSport HD⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTINF:-1 tvg-id="AstroSuperspor3t" group-title="⚽ SPORTS 886 ⚽" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",ASTRO SUPERSPORT HD⁽ᴮᵃᶜᵏᵘᵖ⁾
 http://axcestv.vip:8080/freeview/axcestv/598
     
-#EXTINF:-1 tvg-id="AstroSupersport4" group-title="SPORTS" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",814 Astro SuperSport 4 HD AstGO
+#EXTINF:-1 tvg-id="AstroSupersport4" group-title="⚽ SPORTS 886 ⚽" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",ASTRO SUPERSPORT 4 HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
 https://linears-playback.astro.com.my/vsg/41UfpQ6-vWB66ZAp5DuLe4eZmVNDShNSPuVdJtH3X6-hE=amAG/dash-wv/jitp-linearwm/2506/default_primary.mpd
     
-#EXTINF:-1 tvg-id="AstroSupersport4" group-title="SPORTS" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",814 Astro SuperSport 4 HD⁽ᴮᵃᶜᵏᵘᵖ⁾    
+#EXTINF:-1 tvg-id="AstroSupersport4" group-title="⚽ SPORTS 886 ⚽" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",ASTRO SUPERSPORT 4 HD⁽ᴮᵃᶜᵏᵘᵖ⁾    
 http://axcestv.vip:8080/freeview/axcestv/600
 
-#EXTINF:-1 tvg-id="AstroSupersport5" group-title="SPORTS" ch-number="815" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/815.png",815 Astro SuperSport 5 HD AstGO
+#EXTINF:-1 tvg-id="AstroSupersport5" group-title="⚽ SPORTS 886 ⚽" ch-number="815" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/815.png",ASTRO SUPERSPORT 5 HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
       
-#EXTINF:-1 tvg-id="SPOTV" group-title="SPORTS" ch-number="816" tvg-logo="https://aqfadtv.astradamy.com/logos/SPOTV.png",816 SPOTV AstGO
+#EXTINF:-1 tvg-id="SPOTV" group-title="⚽ SPORTS 886 ⚽" ch-number="816" tvg-logo="https://aqfadtv.astradamy.com/logos/SPOTV.png",SPOTV ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=01cde7c31b1a3ea2aa7a6f579a0f4610&key=710f5ebe6bb2d50978ef0e5aa5fc69d4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
     
-#EXTINF:-1 tvg-id="SPOTV2" ch-number="707" group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",707 SPOTV2 HD AstGO
+#EXTINF:-1 tvg-id="SPOTV2" ch-number="707" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV2 HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5068
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
 
-#EXTINF:-1 tvg-id="SpoTV2.kr" group-title="SPORTS" ch-number="" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
+#EXTINF:-1 tvg-id="SpoTV2.kr" group-title="⚽ SPORTS 886 ⚽" ch-number="" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-id="beINSports" group-title="SPORTS" ch-number="818" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",BEIN SPORTS HD AstGO
+#EXTINF:-1 tvg-id="beINSports" group-title="⚽ SPORTS 886 ⚽" ch-number="818" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",BEIN SPORTS HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 
-#EXTINF:-1 tvg-id="beINSports1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/BeINSports1.png" group-title="SPORTS",BEIN SPORTS 1
+#EXTINF:-1 tvg-id="beINSports1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/BeINSports1.png" group-title="⚽ SPORTS 886 ⚽",BEIN SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#EXTINF:-1 tvg-id="beINSports2" ch-number="817" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Bein-sports-2-hero.png/revision/latest?cb=20170624055814",BEIN SPORTS 2 HD AstGO
+#EXTINF:-1 tvg-id="beINSports2" ch-number="817" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Bein-sports-2-hero.png/revision/latest?cb=20170624055814",BEIN SPORTS 2 HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
 
-#EXTINF:-1 tvg-id="beINSports3" group-title="SPORTS" ch-number="819" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bein-sports-3-hero.png/revision/latest?cb=20170624060242",BEIN SPORTS 3 HD AstGO
+#EXTINF:-1 tvg-id="beINSports3" group-title="⚽ SPORTS 886 ⚽" ch-number="819" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bein-sports-3-hero.png/revision/latest?cb=20170624060242",BEIN SPORTS 3 HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Eurosport" group-title="SPORTS" ch-number="820" tvg-logo="https://i.postimg.cc/Hk9h8WsS/Eurosport-White.png",820 Eurosport HD AstGO
+#EXTINF:-1 tvg-id="Eurosport" group-title="⚽ SPORTS 886 ⚽" ch-number="820" tvg-logo="https://i.postimg.cc/Hk9h8WsS/Eurosport-White.png",EUROSPORT HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7299bdb9de13b235cda94cd5063ab810&key=247ed97854d185349998873672294cad
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 
-#EXTINF:-1 tvg-id="WWENetwork" group-title="SPORTS" ch-number="821" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",821 WWE Network HD AstGO
+#EXTINF:-1 tvg-id="WWENetwork" group-title="⚽ SPORTS 886 ⚽" ch-number="821" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",WWE NETWORK HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
-#EXTINF:-1 tvg-id="GolfChannel" group-title="SPORTS" ch-number="822" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",822 Golf Channel HD AstGO
+#EXTINF:-1 tvg-id="GolfChannel" group-title="⚽ SPORTS 886 ⚽" ch-number="822" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",GOLF CHANNEL HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bef29d5caac3628eb1efae8a215fae10&key=645a0014ea459a86cfa72cf8137bb4a7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 
-#EXTINF:-1 tvg-id="PremierSports" group-title="SPORTS" ch-number="823" tvg-logo="https://aqfadtv.astradamy.com/logos/PremierSports2021.png",823 Premier Sports HD AstGO
+#EXTINF:-1 tvg-id="PremierSports" group-title="⚽ SPORTS 886 ⚽" ch-number="823" tvg-logo="https://aqfadtv.astradamy.com/logos/PremierSports2021.png",PREMIER SPORTS HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfc32f4dc3dac49b34708ded20364610&key=025dcec778861dd1e40cce4dd35e73a4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroCricket" group-title="SPORTS" ch-number="824" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",824 Astro Cricket AstGO
+#EXTINF:-1 tvg-id="AstroCricket" group-title="⚽ SPORTS 886 ⚽" ch-number="824" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",ASTRO CRICKET ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
-#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://image.makewebeasy.net/makeweb/0/HSqZMq6g7/NewsActivity/FIGHT_SPORTS.png" group-title="SPORTS",Fight Sports
+#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://image.makewebeasy.net/makeweb/0/HSqZMq6g7/NewsActivity/FIGHT_SPORTS.png" group-title="⚽ SPORTS 886 ⚽",FIGHT SPORTS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-logo="https://cdn.imgbin.com/9/1/0/imgbin-mnc-sports-mnc-vision-soccer-channel-mnc-play-media-nusantara-citra-others-6PJNnz8WKMG6ZxJ1Ehgzx3Zq9.jpg" group-title="SPORTS",Soccer Channel
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-logo="https://cdn.imgbin.com/9/1/0/imgbin-mnc-sports-mnc-vision-soccer-channel-mnc-play-media-nusantara-citra-others-6PJNnz8WKMG6ZxJ1Ehgzx3Zq9.jpg" group-title="⚽ SPORTS 886 ⚽",SOCCER CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/New_mnc_sports_logo_2020.png" group-title="SPORTS",MNC SPORTS
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/New_mnc_sports_logo_2020.png" group-title="⚽ SPORTS 886 ⚽",MNC SPORTS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
     
-#EXTINF:-1 tvg-id="MNCSports2.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/New_mnc_sports_logo_2020.png" group-title="SPORTS",MNC SPORTS 2
+#EXTINF:-1 tvg-id="MNCSports2.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/New_mnc_sports_logo_2020.png" group-title="⚽ SPORTS 886 ⚽",MNC SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-id="CHN" group-title="SPORTS" tvg-logo="https://play-lh.googleusercontent.com/HRQNOOpk39txGiz9oEFmarKb7woOGep8qJms8UU4wInVqQRFMzZCSzZpXs78tqKRfSw",MediaCorp MeWatch
+#EXTINF:-1 tvg-id="CHN" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https://play-lh.googleusercontent.com/HRQNOOpk39txGiz9oEFmarKb7woOGep8qJms8UU4wInVqQRFMzZCSzZpXs78tqKRfSw",MEDIACORP MEWATCH
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cdb834a4f2fd413a8e50d1a7170701d2&key=3d6ae85b34e8aac7488c780cea215306
 https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.3visiondistribution.com/uploads/images/Motorvision_story_TV_dark_landscape_whitetypo_copy.png" group-title="SPORTS",MOTORVISION.TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.3visiondistribution.com/uploads/images/Motorvision_story_TV_dark_landscape_whitetypo_copy.png" group-title="⚽ SPORTS 886 ⚽",MOTORVISION.TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
     
-#EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/49-490124_btsport-espn-black-red-bt-sport-espn-uk.png" group-title="SPORTS",BT Sport ESPN
+#EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/49-490124_btsport-espn-black-red-bt-sport-espn-uk.png" group-title="⚽ SPORTS 886 ⚽",BT SPORT ESPN
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://uload.ru.com/cdn/premium34/chunks.m3u8
     
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/120px-BT_Sport_logo_2019.svg.png" group-title="SPORTS",BT Sport 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/120px-BT_Sport_logo_2019.svg.png" group-title="⚽ SPORTS 886 ⚽",BT SPORT 1
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://uload.ru.com/cdn/premium31/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/120px-BT_Sport_logo_2019.svg.png" group-title="SPORTS",BT Sport 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/120px-BT_Sport_logo_2019.svg.png" group-title="⚽ SPORTS 886 ⚽",BT SPORT 2
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://uload.ru.com/cdn/premium32/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/120px-BT_Sport_logo_2019.svg.png" group-title="SPORTS",BT Sport 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/120px-BT_Sport_logo_2019.svg.png" group-title="⚽ SPORTS 886 ⚽",BT SPORT 3
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://uload.ru.com/cdn/premium33/chunks.m3u8
 
-#EXTINF:-1 tvg-id="5fac431fc1ffbc0007e6b6a7" tvg-name="Pluto TV Pro Wrestling" tvg-logo="https://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="SPORTS",Pluto TV Pro Wrestling
+#EXTINF:-1 tvg-id="5fac431fc1ffbc0007e6b6a7" tvg-name="Pluto TV Pro Wrestling" tvg-logo="https://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="⚽ SPORTS 886 ⚽",PLUTO TV PRO WRESTLING
 http://194.233.70.176:25461/live/lifetime/user/110.m3
 
 
@@ -1676,27 +1676,27 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=6655271
 
 ##### MUSIC ######
 
-#EXTINF:-1 tvg-id="" tvg-name="Dangdut TIVI [Nin]" tvg-logo="" group-title="MUSIC",Dangdut TIVI [Nin]
+#EXTINF:-1 tvg-id="" tvg-name="Dangdut TIVI [Nin]" tvg-logo="" group-title="💃 MUSIC 886 💃",DANGDUT TIVI [Nin]
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MolaHitsTV" tvg-logo="https://static.colectivosvip.com/public/colectivos/390/logo.png" group-title="MUSIC",MolaHitsTV
+#EXTINF:-1 tvg-id="" tvg-name="MolaHitsTV" tvg-logo="https://static.colectivosvip.com/public/colectivos/390/logo.png" group-title="💃 MUSIC 886 💃",MOLAHITSTV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC TOP" tvg-logo="https://i.imgur.com/9zqt0UH.png" group-title="MUSIC",MUSIC TOP
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TOP" tvg-logo="https://i.imgur.com/9zqt0UH.png" group-title="💃 MUSIC 886 💃",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1194587568_b964000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ONE HD" tvg-logo="" group-title="MUSIC",ONE HD
+#EXTINF:-1 tvg-id="" tvg-name="ONE HD" tvg-logo="" group-title="💃 MUSIC 886 💃",ONE HD
 http://rtmp.one.by:1300
-#EXTINF:-1 tvg-id="" tvg-name="Play MUSIC" tvg-logo="" group-title="MUSIC",Play MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="Play MUSIC" tvg-logo="" group-title="💃 MUSIC 886 💃",PLAY MUSIC
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BOOGLE BOLLYWOOD" tvg-logo="" group-title="MUSIC",BOOGLE BOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="BOOGLE BOLLYWOOD" tvg-logo="" group-title="💃 MUSIC 886 💃",BOOGLE BOLLYWOOD
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/booglebollywood/booglebolly1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BRITASIA TV" tvg-logo="" group-title=" MUSIC",BRITASIA TV
+#EXTINF:-1 tvg-id="" tvg-name="BRITASIA TV" tvg-logo="" group-title=" 💃 MUSIC 886 💃",BRITASIA TV
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 
-#EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-name="1HD Music Television" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png" group-title="MUSIC",1HD Music Television
+#EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-name="1HD Music Television" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png" group-title="💃 MUSIC 886 💃",1HD MUSIC TELEVISION
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 
