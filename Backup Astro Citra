@@ -28,3 +28,7 @@ http://syok.tv:2082/fred/fred/26
 #EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra 5  
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://link.zozotv.xyz:443/Aina_90/abc1234/37
+
+
+#EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="MALAY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png", ASTRO CITRA 6
+http://zalogitv.tech:8080/live/4587530/7530/26068.ts
