@@ -1834,7 +1834,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e
 
 ####### VOD KIDS886 ########
 
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/t16RjZq.jpg" group-title="VOD KIDS886",Altered Carbon: Resleeved (2020)
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/t16RjZq.jpg" group-title="🐿️ VOD KIDZ S886 🐿️",Altered Carbon: Resleeved (2020)
 https://lh3.googleusercontent.com/7OLP6M9nxhHH94oZF0Lli45nYDntGTmvmHqb9OnTeTvdb1jSPnjBcDxP1CJ89Dr8aw-IZdYuG9UGJUymew=m22
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/xUmHVVm.jpg" group-title="VOD KIDS886",Onward (2020)
@@ -2102,7 +2102,7 @@ https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ie
 
 ###### BOLLYWOOD #####
 
-#EXTINF: -1 tvg-id="B4U MOVIES" tvg-logo="https://i.imgur.com/oP3sEtc.jpg" group-title="BOLLYWOOD 886", B4U MOVIES 
+#EXTINF: -1 tvg-id="B4U MOVIES" tvg-logo="https://i.imgur.com/oP3sEtc.jpg" group-title="🇮🇳🎥 BOLLYWOOD 886 🎥🇮🇳", B4U MOVIES 
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2137,7 +2137,7 @@ http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/55354
 
 ####### ASTRO FIRST ########
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Jaga-Jaga Senariounion" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO FIRST",Astro First- Jaga-Jaga Senariounion
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Jaga-Jaga Senariounion" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="🍿 ASTRO FIRST 886 🍿",Astro First- Jaga-Jaga Senariounion
 http://axcestv.vip:8080/freeview/axcestv/486
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro First- Gila Gusti" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO FIRST",Astro First- Gila Gusti
