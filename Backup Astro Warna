@@ -32,3 +32,8 @@ https://tv.kpsvpn.com/warna.mpd
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="MALAY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna 6
 http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1706
 #http://syok.tv:2082/fred/fred/22
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="MALAY", Astro Warna 7
+http://axcestv.vip:8080/freeview/axcestv/456
+#http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
+#https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782409
