@@ -40,3 +40,8 @@ http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/1705
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="MALAY",Astro Ria 8
 http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1705
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAY", Astro Ria 9
+http://axcestv.vip:8080/freeview/axcestv/454
+#http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m00378573028916844794&ct=18379&tsum=9900378928b8fa3fd19f87fbd03f4a1a
+#https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782407
