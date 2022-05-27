@@ -41,3 +41,8 @@ https://tv.kpsvpn.com/citra.mpd
 #EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra 8 
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 http://axcestv.vip:8080/freeview/axcestv/459
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="MALAY", Astro Citra 9
+http://axcestv.vip:8080/freeview/axcestv/459
+#http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
+#https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782413
