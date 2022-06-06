@@ -2164,8 +2164,7 @@ http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳" tvg-id="333" tvg-name="333", Colors Cineplex
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/435118/435118/6768
+
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳" tvg-id="301" tvg-name="301", Yupp Thirai HD
 http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
@@ -2175,8 +2174,7 @@ http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YQP3hDH/ZING.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳" tvg-id="ZingAsia.in" tvg-name="ZingAsia.in", Zing Asia
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/55354
+
 
 ###### ASTRO FIRST ######
 
