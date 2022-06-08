@@ -956,7 +956,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 ##### HBO & DISNEY #####
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 1" tvg-logo="hhttps://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",DISNEY+ ACTION 1
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 1" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",DISNEY+ ACTION 1
 http://new-pro.tv:8080/mazen1/123456/133730
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ action 2" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",DISNEY+ ACTION 2
@@ -1764,24 +1764,24 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=6655271
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",MUSIC TV
+#EXTINF:-1 group-title="💃 MUSIC 886 💃" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",MUSIC TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999120/300x300.png?type=smartCast_channelTile" group-title="MUSIC",GREATEST HITS
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999120/300x300.png?type=smartCast_channelTile" group-title="💃 MUSIC 886 💃",GREATEST HITS
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-hit-list/thumbh_20200717_232723.jpg" group-title="MUSIC",HIT LIST
+#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-hit-list/thumbh_20200717_232723.jpg" group-title="💃 MUSIC 886 💃",HIT LIST
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-pop-adult/poster_20200717_232723.jpg" group-title="MUSIC",POP ADULT
+#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-pop-adult/poster_20200717_232723.jpg" group-title="💃 MUSIC 886 💃",POP ADULT
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://epg.it999.ru/img/2024.png" ,BRIDGE TV HITS
+#EXTINF:-1 group-title="💃 MUSIC 886 💃" tvg-logo="http://epg.it999.ru/img/2024.png" ,BRIDGE TV HITS
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgehitstv
 
 
 
-💃 MUSIC 886 💃
+
 
 ##### MOVIES PLUTO US #######
 
