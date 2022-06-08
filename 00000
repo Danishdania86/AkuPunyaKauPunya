@@ -17,7 +17,7 @@ window.location = "https://www.astro.com.my"
 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/DarkSide2109/MuZu/main/index.html*
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
-
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://weareblahs.github.io/epg/astro.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml" refresh="3600"
 
 
 
@@ -1779,6 +1779,8 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 #EXTINF:-1 group-title="💃 MUSIC 886 💃" tvg-logo="http://epg.it999.ru/img/2024.png" ,BRIDGE TV HITS
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgehitstv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/db3J7xh/1-music-channel-logo-FB300-DCF9-A-seeklogo-com.png" group-title="💃 MUSIC 886 💃",1 MUSIC
+http://hz1.teleport.cc/HLS/HD.m3u8
 
 
 
