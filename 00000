@@ -16,7 +16,6 @@ window.location = "https://www.astro.com.my"
 
 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/DarkSide2109/MuZu/main/index.html*
-
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
 
 
@@ -950,9 +949,74 @@ http://axcestv.vip:8080/freeview/axcestv/511
 
 #EXTINF:-1 tvg-id="https://pbs.twimg.com/profile_images/1067481188162576385/G5mYz3At_400x400.jpg" tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="🍿 MOVIES 886 🍿",MOVIE 24/7
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos-download.com/wp-content/uploads/2018/09/Flixbus_Logo_green_background.png" group-title="🍿 MOVIES 886 🍿",FLIXBUS
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+
+
+##### HBO & DISNEY #####
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 1" tvg-logo="hhttps://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",DISNEY+ ACTION 1
+http://new-pro.tv:8080/mazen1/123456/133730
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 2" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",DISNEY+ ACTION 2
+http://new-pro.tv:8080/mazen1/123456/133731
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 3" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",DISNEY+ ACTION 3
+http://new-pro.tv:8080/mazen1/123456/133732
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 4" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",DISNEY+ ACTION 4
+http://new-pro.tv:8080/mazen1/123456/133733
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 5" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",DISNEY+ ACTION 5
+http://new-pro.tv:8080/mazen1/123456/133734
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 6" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",DISNEY+ ACTION 6
+http://new-pro.tv:8080/mazen1/123456/133735
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 7" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",DISNEY+ ACTION 7
+http://new-pro.tv:8080/mazen1/123456/133736
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 8" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",DISNEY+ ACTION 8
+http://new-pro.tv:8080/mazen1/123456/133737
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 9" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",DISNEY+ ACTION 9
+http://new-pro.tv:8080/mazen1/123456/133738
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 10" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",DISNEY+ ACTION 10
+http://new-pro.tv:8080/mazen1/123456/133739
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 1" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",HBO Action VIP 1
+http://new-pro.tv:8080/mazen1/123456/114534
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 2" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",HBO Action VIP 2
+http://new-pro.tv:8080/mazen1/123456/114535
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 3" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",HBO Action VIP 3
+http://new-pro.tv:8080/mazen1/123456/118958
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 4" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",HBO Action VIP 4
+http://new-pro.tv:8080/mazen1/123456/118959
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 5" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",HBO Action VIP 5
+http://new-pro.tv:8080/mazen1/123456/118960
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 6" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",HBO Action VIP 6
+http://new-pro.tv:8080/mazen1/123456/149174
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 7" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",HBO Action VIP 7
+http://new-pro.tv:8080/mazen1/123456/149175
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 8" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",HBO Action VIP 8
+http://new-pro.tv:8080/mazen1/123456/149176
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 9" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",HBO Action VIP 9
+http://new-pro.tv:8080/mazen1/123456/149177
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 10" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",HBO Action VIP 10
+http://new-pro.tv:8080/mazen1/123456/149178
+
+
 
 ##### LIFESTYLE #####
 
@@ -1154,31 +1218,6 @@ https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://anevia115.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
-
-
-########### MUSIC ###########
-
-#EXTINF:-1 tvg-id="" tvg-chno="1200" tvg-name="MTV Asia" radio="false" group-title="💃 MUSIC 886 💃" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607170970968i.png",MTV ASIA 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=835f1c94b9a333eea1e7bb78b0a79010&key=57f68cdc4023fc8511dc1ea6b5502a1c
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
-
-#EXTINF:-1 tvg-id="" tvg-chno="1202" tvg-name="MUSIC'TV" radio="false" group-title="💃 MUSIC 886 💃" tvg-logo="https://www.mncchannels.com/files/logo/1579059453_logo_music%20tv.png",MUSIC'TV 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-
-#EXTINF:-1 tvg-id="" tvg-chno="1203" tvg-name="Maleo" radio="false" group-title="💃 MUSIC 886 💃" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png",MALEO 
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Carolina TV (BR)" tvg-id="" group-title="💃 MUSIC 886 💃" tvg-logo="https://i.imgur.com/eaHPbqd.png",CAROLINA TV (BR)
-https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="💃 MUSIC 886 💃",MTV BIGGEST POP (720p)
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-
-#EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-name="1HD Music Television" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png" group-title="💃 MUSIC 886 💃",1HD MUSIC TELEVISION
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8 
 
 
 ######### TV BERITA ###########
@@ -1722,30 +1761,27 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=6655271
 
 ##### MUSIC ######
 
-#EXTINF:-1 tvg-id="" tvg-name="Dangdut TIVI [Nin]" tvg-logo="" group-title="💃 MUSIC 886 💃",DANGDUT TIVI [Nin]
-http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MolaHitsTV" tvg-logo="https://static.colectivosvip.com/public/colectivos/390/logo.png" group-title="💃 MUSIC 886 💃",MOLAHITSTV
-http://ventdelnord.tv:8080/mola/directe.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",MUSIC TV
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC TOP" tvg-logo="https://i.imgur.com/9zqt0UH.png" group-title="💃 MUSIC 886 💃",MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1194587568_b964000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999120/300x300.png?type=smartCast_channelTile" group-title="MUSIC",GREATEST HITS
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ONE HD" tvg-logo="" group-title="💃 MUSIC 886 💃",ONE HD
-http://rtmp.one.by:1300
-#EXTINF:-1 tvg-id="" tvg-name="Play MUSIC" tvg-logo="" group-title="💃 MUSIC 886 💃",PLAY MUSIC
-http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-hit-list/thumbh_20200717_232723.jpg" group-title="MUSIC",HIT LIST
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BOOGLE BOLLYWOOD" tvg-logo="" group-title="💃 MUSIC 886 💃",BOOGLE BOLLYWOOD
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/booglebollywood/booglebolly1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-pop-adult/poster_20200717_232723.jpg" group-title="MUSIC",POP ADULT
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BRITASIA TV" tvg-logo="" group-title=" 💃 MUSIC 886 💃",BRITASIA TV
-https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
-
-#EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-name="1HD Music Television" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png" group-title="💃 MUSIC 886 💃",1HD MUSIC TELEVISION
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://epg.it999.ru/img/2024.png" ,BRIDGE TV HITS
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgehitstv
 
 
+
+💃 MUSIC 886 💃
 
 ##### MOVIES PLUTO US #######
 
@@ -1905,7 +1941,7 @@ https://lh3.googleusercontent.com/c0U7OGUBnkPTdncJ2Ok8ZCZryJ3P6dK82BsWpZX5eNM7Ue
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/6doKB2T.jpg" group-title="🐿️ VOD KIDZ 886 🐿️",Abominable (2019)
 https://lh3.googleusercontent.com/DBEpUjAT0ysRq-iJ2CLdJr07Y0bB1SusTr3FoL2ukNiymfYndRmWvIeq3H12dilQw6wXG4RFVj6vt_yUQw=m22
 
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg" group-title="🐿️ VOD KIDZ S886 🐿️",A Shaun the Sheep Movie: Farmageddon (2019)
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg" group-title="🐿️ VOD KIDZ 886 🐿️",A Shaun the Sheep Movie: Farmageddon (2019)
 https://lh3.googleusercontent.com/femImuOfQRBRN-S1obc8NotK4oV-rtlTN_sQnxjCtiUO8OXlipD3-veBM2IoRNr3R-H10fZUzMJPzdZLdw=m22
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iTLF7UE.jpg" group-title="🐿️ VOD KIDZ 886 🐿️",BoBoiBoy Movie 2 (2019)
