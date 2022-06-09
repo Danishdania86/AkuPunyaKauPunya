@@ -42,4 +42,58 @@ http://axcestv.vip:8080/freeview/axcestv/456
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 https://tv.kpsvpn.com/warna.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 1
+#http://f4.tvxweb.net:8082/24263/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 2
+#http://f4.tvxweb.net:8082/24264/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 3
+#http://f4.tvxweb.net:8082/24265/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 4
+#http://f4.tvxweb.net:8082/24266/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 5
+#http://f4.tvxweb.net:8082/24267/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 6
+#http://f4.tvxweb.net:8082/24268/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 7
+#http://f4.tvxweb.net:8082/24269/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 8
+#http://f4.tvxweb.net:8082/24270/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 9
+#http://f4.tvxweb.net:8082/24271/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 10
+#http://f4.tvxweb.net:8082/242722/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 11
+#http://f4.tvxweb.net:8082/24266/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 12
+#http://f4.tvxweb.net:8082/24316/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 13
+#http://f4.tvxweb.net:8082/35970/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 14
+#http://f4.tvxweb.net:8082/35974/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 15
+#http://f4.tvxweb.net:8082/35975/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 16
+#http://f4.tvxweb.net:8082/35976/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 17
+#http://f4.tvxweb.net:8082/35977/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX34924474.jpg" group-title="Movie Premium (Tanpa Iklan)",Movie 18
+#http://f4.tvxweb.net:8082/35979/video.m3u8
+
 
