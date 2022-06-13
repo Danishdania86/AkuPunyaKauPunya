@@ -1,20 +1,3 @@
-<!DOCTYPE>
- 
-<html>
-<head>
-<link rel="icon" type="image/png" href="https://www.astro.com.my">
-<script type="text/javascript">
-window.location = "https://www.astro.com.my"
-</script>
-</head>
-</html>
-
-<noscript>
-
-    
-
-
-
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/DarkSide2109/MuZu/main/index.html*
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://weareblahs.github.io/epg/astro.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml" refresh="3600"
@@ -218,12 +201,12 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8
 #EXTVLCOPT:http-referrer=https://www.dailymotion.com
 https://raw.githubusercontent.com/raizoml123/workers/main/8.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="113" tvg-name="TV9" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TV9_2021.png",TV9 
+#EXTINF:-1 tvg-id="" tvg-chno="113" tvg-name="TV9" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/1200px-TV9_%28Malaysia%29_logo.svg.png",TV9 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="113" tvg-name="TV9" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TV9_2021.png",TV9 (B)
+#EXTINF:-1 tvg-id="" tvg-chno="113" tvg-name="TV9" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/1200px-TV9_%28Malaysia%29_logo.svg.png",TV9 (B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dailymotion.com
 https://raw.githubusercontent.com/raizoml123/workers/main/9.m3u8
@@ -270,16 +253,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 https://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bhbw3mQxjdKqCqpSQ8r_1xM=fZq6/dash-wv/jitp-linearwm/1004/default_primary.mpd  
 
 #EXTINF:-1 group-title="🇲🇾 MALAY 886 🇲🇾" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",ASTRO RIA      
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https://tv.kpsvpn.com/ria.mpd
+http://iptv12k.com:35461/live/8032022060101/452381/735.ts
 
 http://w.nasvpn.xyz:8080/@iptvfreenet/@iptvfreenet/11 cover ria
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Ria.jpg" tvg-country="" tvg-url="" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA ⁽ᴮᵃᶜᵏᵘᵖ⁾    
-http://axcestv.vip:8080/freeview/axcestv/454
-#http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m00378573028916844794&ct=18379&tsum=9900378928b8fa3fd19f87fbd03f4a1a
-#https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782407
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",ASTRO CITRA ASTGO  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -289,11 +268,10 @@ https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9NwcvOf0A-TR8n3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTINF:-1, group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", ASTRO CITRA
-https://link.zozotv.xyz:443/Aina_90/abc1234/37
+http://iptv12k.com:35461/live/8032022060101/452381/721.ts
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",ASTRO CITRA ⁽ᴮᵃᶜᵏᵘᵖ⁾    
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/4941426710&key=d5b52aabca5afe002eb495804f8ec944
 https://tv.kpsvpn.com/citra.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -312,19 +290,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 https://tv.kpsvpn.com/warna.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",ASTRO WARNA 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
+http://iptv12k.com:35461/live/8032022060101/452381/721.ts
 https://tv.kpsvpn.com/warna.mpd
     
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",ASTRO WARNA ⁽ᴮᵃᶜᵏᵘᵖ⁾
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://tv.kpsvpn.com/warna.mpd
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV OKEY
-http://w.nasvpn.xyz:8080/@iptvfreenet/@iptvfreenet/11
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5072
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
 #EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
