@@ -7,7 +7,9 @@
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
-
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml
 
 
 
@@ -876,10 +878,10 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="🍿 MOVIES 886 🍿",星卫HD电影台
-http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+****ERROR
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="🍿 MOVIES 886 🍿",卫视电影台
-http://59.125.101.187:8599/.m3u8
+****ERROR
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://play.kobar.online:8080/images/f459bf66a176547908a96e42bfd3d083.png" group-title="🍿 MOVIES 886 🍿",MY CINEMA
 http://axcestv.vip:8080/freeview/axcestv/507
@@ -893,25 +895,27 @@ http://axcestv.vip:8080/freeview/axcestv/513
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="" group-title="🍿 MOVIES 886 🍿",SONY PIX 
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" tvg-id="" tvg-name="" group-title="🍿 MOVIES 886 🍿",SONY PIX 
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 #http://live.flixhub.net/hls/sonypixhd.m3u8
 
 #EXTINF:-1 tvg-id="&Flix" group-title="🍿 MOVIES 886 🍿" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png",&FLIX
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+****ERROR
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES 886 🍿",STARMOVIES
-
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142744
 
 #EXTINF:-1 tvg-id="&Prive" group-title="🍿 MOVIES 886 🍿" tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png",&PRIVE
 http://axcestv.vip:8080/freeview/axcestv/511
 
 #EXTINF:-1 tvg-id="https://pbs.twimg.com/profile_images/1067481188162576385/G5mYz3At_400x400.jpg" tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="🍿 MOVIES 886 🍿",MOVIE 24/7
+****ERROR
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos-download.com/wp-content/uploads/2018/09/Flixbus_Logo_green_background.png" group-title="🍿 MOVIES 886 🍿",FLIXBUS
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png" group-title="🍿 MOVIES 886 🍿",M&X
+http://103.55.144.46/hls/mnx-hd.m3u8
 
 ##### HBO & DISNEY #####
 
@@ -2171,6 +2175,9 @@ http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vrMDmM/ZEEC.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳" tvg-id="ZeeCinemaAsia.in" tvg-name="ZeeCinemaAsia.in", Zee Cinema Asia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",&PICTURES
+http://103.55.144.46/hls/andpictures.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YQP3hDH/ZING.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳" tvg-id="ZingAsia.in" tvg-name="ZingAsia.in", Zing Asia
 
