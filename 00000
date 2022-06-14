@@ -254,11 +254,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 #EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://iili.io/1Nfma1.png",ASTRO OASIS HD 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d1
+
 #EXTINF:-1 group-title="🇲🇾 MALAY 886 🇲🇾" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",ASTRO RIA      
-http://iptv12k.com:35461/8032022060101/452381/4354
-http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJX_-tDg=Fj8c/dash-wv/jitp-linearwm/1004/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
+https://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bttnYNSDs4WMWkSiC_K12L8=_zwl/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" tvg-country="" tvg-url="" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA ⁽ᴮᵃᶜᵏᵘᵖ⁾    
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
@@ -267,7 +267,9 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",ASTRO CITRA ⁽ᴮᵃᶜᵏᵘᵖ⁾    
-http://iptv12k.com:35461/8032022060101/452381/6608
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9PwvuLdEESKN4lE68ZAfUmA=UJNw/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -280,7 +282,9 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",ASTRO WARNA 
-http://iptv12k.com:35461/8032022060101/452381/5075
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9CGKADgadNCIlRhfmAIXFBA=lMsC/dash-wv/jitp-linearwm/2402/default_ott.mpd
     
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",ASTRO WARNA ⁽ᴮᵃᶜᵏᵘᵖ⁾
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
