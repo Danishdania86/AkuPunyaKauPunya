@@ -163,7 +163,7 @@ https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="102" tvg-name="TV1" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1 
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-chno="104" tvg-name="TV2" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2 
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
