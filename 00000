@@ -1,4 +1,8 @@
+#EXTM3U x-tvg-url="https://m3u-editor.com/xml/jack"
 
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
+
+#EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg"
 
 
 
@@ -243,7 +247,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 #EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://iili.io/1Nfma1.png",ASTRO OASIS HD 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
-#EXTINF:-1 group-title="🇲🇾 MALAY 886 🇲🇾" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",ASTRO RIA      
+#EXTINF:-1 group-title="🇲🇾 MALAY 886 🇲🇾" " tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",ASTRO RIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
 https://Astro.kpsboyserver.com/AstroRia.mpd
@@ -269,7 +273,8 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a4fb03a7f0b51c6264b70203ebcde10&key=abf3210c7882b3838b66e256d3d72840
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",ASTRO WARNA 
+
+#EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",ASTRO WARNA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
 https://Astro.kpsboyserver.com/AstroWarna.mpd
