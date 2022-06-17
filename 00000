@@ -913,6 +913,15 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png" group-title="🍿 MOVIES 886 🍿",M&X
 http://103.55.144.46/hls/mnx-hd.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES 886 🍿", MOVIE STREAM
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES 886 🍿", MOVIES STREAM 1
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES 886 🍿", MOVIES STREAM 2
+http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+
 ##### HBO & DISNEY #####
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ action 1" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",DISNEY+ ACTION 1
@@ -975,6 +984,8 @@ http://new-pro.tv:8080/mazen1/123456/149177
 #EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 10" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="🍿 MOVIES HBO & DISNEY+ 🍿",HBO Action VIP 10
 http://new-pro.tv:8080/mazen1/123456/149178
 
+
+ 
 
 
 ##### LIFESTYLE #####
