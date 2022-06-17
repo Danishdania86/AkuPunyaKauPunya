@@ -49,5 +49,16 @@ http://axcestv.vip:8080/freeview/axcestv/459
 
 
 
+K K_喜劇電影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+K K_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/disney_plus_660_050220013057_060220075157.jpg" group-title="MALAY", DISNEY HOTSTAR
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/disney_plus_660_050220013057_060220075157.jpg" group-title="MALAY", DISNEY HOTSTAR
+K_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/disney_plus_660_050220013057_060220075157.jpg" group-title="MALAY", DISNEY HOTSTAR
+K_喜劇電影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
