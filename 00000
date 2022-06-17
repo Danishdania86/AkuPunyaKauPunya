@@ -916,10 +916,10 @@ http://103.55.144.46/hls/mnx-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES 886 🍿", MOVIE STREAM
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES 886 🍿", MOVIES STREAM 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES 886 🍿", MOVIES STREAM 
 http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES 886 🍿", MOVIES STREAM 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🍿 MOVIES 886 🍿", MOVIES STREAM 
 http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 
 ##### HBO & DISNEY #####
