@@ -248,9 +248,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Astro_Ria_%282D%29.png" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA HD
-http://linears-playback.astro.com.my/vsg/41IhI656uf4OCO9ouNYf6tFdL4-AoAZejuCZf14sOKVLI=qgfe/dash-wv/jitp-linearwm/1004/default_primary.mpd
 http://iptv12k.com:35461/80201051217/424567/4353
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" tvg-country="" tvg-url="" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA ⁽ᴮᵃᶜᵏᵘᵖ⁾    
