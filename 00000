@@ -248,21 +248,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Astro_Ria_%282D%29.png" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https://links.aqfadtv.xyz/ria.mpd
-https://linears-playback.astro.com.my/vsg/41KPzKMI9pj8KlBCMu4dx_bh4Km8kYGpF3q5-mLufjmTM=uy0t/dash-wv/jitp-linearwm/1004/default_primary.mpd
-https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704165
-https://Astro.kpsboyserver.com/AstroRia.mpd
+http://zalogitv.tech:8080/live/4587530/7530/25740.ts
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" tvg-country="" tvg-url="" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA ⁽ᴮᵃᶜᵏᵘᵖ⁾    
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 
 #EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",ASTRO CITRA 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-https://links.aqfadtv.xyz/citra.mpd
-https://Astro.kpsboyserver.com/AstroCitra.mpd
+http://zalogitv.tech:8080/live/4587530/7530/26068.ts
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",ASTRO CITRA ⁽ᴮᵃᶜᵏᵘᵖ⁾    
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
@@ -278,11 +270,7 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Astro_Warna.jpg" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO WARNA 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://links.aqfadtv.xyz/warna.mpd
-https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704167
-https://Astro.kpsboyserver.com/AstroWarna.mpd
+http://zalogitv.tech:8080/live/4587530/7530/25740.ts
     
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",ASTRO WARNA ⁽ᴮᵃᶜᵏᵘᵖ⁾
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
