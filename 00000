@@ -260,10 +260,10 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 
 #EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",ASTRO CITRA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://links.aqfadtv.xyz/warna.mpd
-https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704167
-https://Astro.kpsboyserver.com/AstroWarna.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
+https://links.aqfadtv.xyz/citra.mpd
+https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704170
+https://Astro.kpsboyserver.com/AstroCitra.mpd.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",ASTRO CITRA ⁽ᴮᵃᶜᵏᵘᵖ⁾    
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
