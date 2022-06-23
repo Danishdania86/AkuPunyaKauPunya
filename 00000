@@ -236,11 +236,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/ecfe9297-7c2d-4ee3-b6ad-a398094cca50
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
-
 #EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://iili.io/1Nft6B.png",ASTRO PRIMA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+http://linears-playback.astro.com.my/vsgN/418gwX_3XHX2T2HRWDn8jpR_h1yPyJjj2FB2TekK7OP-4=pJsB/dash-wv/jitp-linearwm/1000/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b65e3d6ee807842a109821fba96b510:7827b9cf05fda4c3b77f48dea0acfa48
@@ -250,7 +249,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-id="104" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Astro_Ria_%282D%29.png" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA 
-http://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bnr06J86aR5jtNGT610RDME=9gGb/dash-wv/jitp-linearwm/1004/default_primary.mpd
+==http://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bnr06J86aR5jtNGT610RDME=9gGb/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" tvg-country="" tvg-url="" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA ⁽ᴮᵃᶜᵏᵘᵖ⁾    
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
