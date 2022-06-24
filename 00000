@@ -1,4 +1,63 @@
-https://raw.githubusercontent.com/sant1ago-da-hanoi/moviezz/master/403.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="assets/css/bootstrap-reboot.min.css">
+	<link rel="stylesheet" href="assets/css/bootstrap-grid.min.css">
+	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="assets/css/slider-radio.css">
+	<link rel="stylesheet" href="assets/css/select2.min.css">
+	<link rel="stylesheet" href="assets/css/magnific-popup.css">
+	<link rel="stylesheet" href="assets/css/plyr.css">
+	<link rel="stylesheet" href="assets/css/main.css">
+
+	<!-- Favicons -->
+	<link rel="icon" type="image/png" href="assets/icon/favicon-32x32.png" sizes="32x32">
+	<link rel="apple-touch-icon" href="assets/icon/favicon-32x32.png">
+
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="author" content="Hoài Nam">
+	<title>
+		Page not found
+	</title>
+
+</head>
+<body>
+<!-- page 404 -->
+<div class="page-404 section--full-bg" data-bg="assets/img/bg.jpg" style="background: url('assets/img/bg.jpg') center center / cover no-repeat;">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="page-404__wrap">
+					<div class="page-404__content">
+						<h1 class="page-404__title">404</h1>
+						<p class="page-404__text">The page you are looking for not available!</p>
+						<button class="page-404__btn" onclick="history.back()">go back</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- end page 404 -->
+
+<script src="assets/js/jquery-3.5.1.min.js"></script>
+<script src="assets/js/bootstrap.bundle.min.js"></script>
+<script src="assets/js/owl.carousel.min.js"></script>
+<script src="assets/js/slider-radio.js"></script>
+<script src="assets/js/select2.min.js"></script>
+<script src="assets/js/smooth-scrollbar.js"></script>
+<script src="assets/js/jquery.magnific-popup.min.js"></script>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v9.0" nonce="Vq1R8wtC"></script>
+</body>
+
+</html>
+
 
 #EXTM3U x-tvg-url="https://m3u-editor.com/xml/jack"
 
