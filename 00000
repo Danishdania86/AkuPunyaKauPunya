@@ -253,7 +253,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-id="104" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Astro_Ria_%282D%29.png" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA
 http://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_btcxcetmmesib8BTOzPRiC0=KO1b/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA ⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
 #https://linears-playback.astro.com.my/vsg/41KPzKMI9pj8KlBCMu4dx_bh4Km8kYGpF3q5-mLufjmTM=uy0t/dash-wv/jitp-linearwm/1004/default_primary.mpd
