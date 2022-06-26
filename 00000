@@ -240,10 +240,12 @@ https://stream.zeehanzgadget.com/rania.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/ecfe9297-7c2d-4ee3-b6ad-a398094cca50
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
-#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://iili.io/1Nft6B.png",ASTRO PRIMA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
-http://linears-playback.astro.com.my/vsgN/418gwX_3XHX2T2HRWDn8jpR_h1yPyJjj2FB2TekK7OP-4=pJsB/dash-wv/jitp-linearwm/1000/default_primary.mpd
+#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",ASTRO PRIMA
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://stream.zeehanzgadget.com/prima.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b65e3d6ee807842a109821fba96b510:7827b9cf05fda4c3b77f48dea0acfa48
