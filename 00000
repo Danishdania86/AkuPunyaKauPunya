@@ -325,6 +325,9 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dd600869fd5f4bfee286825f6d778b10&key=eb5b83acbbd79af479a00db92935a34b
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
+#EXTINF:-1 tvg-id="CHN" ch-number="" tvg-logo="https://1.bp.blogspot.com/-7VCmfo92Zls/YTWfhHNpbGI/AAAAAAAAiEM/WBDJq1lf2FABp1IqDlqnU7BnN-RlNevpQCLcBGAsYHQ/s16000/SUKE_TV_Logo.png" group-title="🇲🇾 MALAY 886 🇲🇾",SUKE TV
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
+
 
 
 ###### TV SINGAPORE ########
