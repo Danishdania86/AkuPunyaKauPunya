@@ -2,46 +2,31 @@
 ###### BACKUP ASTRO RIA #####
 
 
-
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="MALAY",Astro Ria 1
-http://w.nasvpn.xyz:8080/@iptvfreenet/@iptvfreenet/11
-#http://axcestv.vip:8080/freeview/axcestv/453
-
-
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/hyDJ483/ria.png"  group-title="MALAY",Astro Ria 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://axcestv.vip:8080/live/freeview/axcestv/453.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAY",ASTRO RIA 
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAY",ASTRO RIA 3
-http://iptv12k.com:35461/80301051401/878900/735
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAY",ASTRO RIA
 
 
-#EXTINF:-1 group-title="MALAY" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https://tv.kpsvpn.com/ria.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAY",ASTRO RIA
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAY",ASTRO RIA
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="MALAY",Astro Ria 5
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=4353
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="MALAY",Astro Ria 6
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1705
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAY",ASTRO RIA
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="MALAY",Astro Ria 7
-http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/1705
-#http://syok.tv:2082/fred/fred/19
-#http://iptv12k.com:35461/80201033004/324542/4353
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="MALAY",Astro Ria 8
-http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1705
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAY", Astro Ria 9
-http://axcestv.vip:8080/freeview/axcestv/454
-#http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m00378573028916844794&ct=18379&tsum=9900378928b8fa3fd19f87fbd03f4a1a
-#https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782407
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAY",ASTRO RIA
