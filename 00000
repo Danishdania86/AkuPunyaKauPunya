@@ -171,14 +171,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://iili.io/1NKfxR.png",TV3 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb-hypptv-8064.astradamy.com/deviceId/tv3/
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+https://live.astradamy.com/tv3/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb-hypptv-8064.astradamy.com/deviceId/tv3/
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://iili.io/1NKfxR.png",TV3 HD
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+https://Astro.kpsboyserver.com/tv3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="108" tvg-name="TV6" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-Logo-JPG.jpg",TV6 
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
