@@ -285,6 +285,7 @@ https://links.aqfadtv.xyz/citra.mpd
 #http://iptv12k.com:35461/live/8032022060101/452381/721.ts
 #http://axcestv.vip:8080/freeview/axcestv/458
 #https://link.zozotv.xyz/shukrisinar/shukrisinar/36
+#https://bit.ly/3u2e5SW
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",ASTRO CITRA ⁽ᴮᵃᶜᵏᵘᵖ⁾.   
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
@@ -775,12 +776,13 @@ http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
 
 ####### ASTRO MOVIE ########
 
+
+#EXTINF:-1 tvg-id="404" tvg-name="BOO HD" group-title="MOVIES" tvg-logo="🍿 MOVIES 886 🍿",ASTRO BOO 
+http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m07914804849118012561&ct=18379&tsum=928362cd8c4fd38ad67aad257ef24c35
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09e9d9037bbc6d4eac45bdee4b718b10:05db97174848670a152d0b15f3dab994
-#EXTINF:-1 tvg-id="404" tvg-name="BOO HD" group-title="🍿 MOVIES 886 🍿" tvg-logo="https://iili.io/1NC1Cx.png",BOO 
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://stream.zeehanzgadget.com/boo.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+https://links.aqfadtv.xyz/boo.mpd
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Boo.jpg" tvg-country="" tvg-url="" group-title="🍿 MOVIES 886 🍿",ASTRO BOO ( B )
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m07914804849118012561&ct=18379&tsum=928362cd8c4fd38ad67aad257ef24c35
