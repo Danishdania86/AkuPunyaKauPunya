@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://m3u-editor.com/xml/jack"
-
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
-
 #EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg"
+#EXTM3U x-tvg-url="https://bit.ly/393pqud"
+#EXTM3U x-tvg-url="https://bit.ly/3wUnGvj"
 
 
 
@@ -170,8 +170,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 #EXTINF:-1 tvg-id="" tvg-chno="104" tvg-name="TV2" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2 
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://iili.io/1NKfxR.png",TV3 
-https://live.astradamy.com/tv3/index.m3u8
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://iili.io/1NKfxR.png",TV3 HD
 https://Astro.kpsboyserver.com/tv3.m3u8
