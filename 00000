@@ -268,7 +268,7 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://links.aqfadtv.xyz/ria.mpd
 #http://linears-playback.astro.com.my/vsg/41EOIb7Z8FPp0c3RC7XL3c9dit9akRTrTHeWECdiK6_XQ=YetH/dash-wv/jitp-linearwm/1004/default_primary.mpd
-https://stream.zeehanzgadget.com/ria
+#https://stream.zeehanzgadget.com/ria
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" tvg-country="" tvg-url="" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA ⁽ᴮᵃᶜᵏᵘᵖ⁾.   
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
@@ -282,7 +282,7 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://links.aqfadtv.xyz/citra.mpd
 #http://linears-playback.astro.com.my/vsg/41oDAQyscM3NO4v09e0JcxG52v4OMVOG_4tHMaVqCOVXc=PvUA/dash-wv/jitp-linearwm/2700/default_primary.mpd
-https://stream.zeehanzgadget.com/citra
+#https://stream.zeehanzgadget.com/citra
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",ASTRO CITRA ⁽ᴮᵃᶜᵏᵘᵖ⁾.   
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
@@ -308,7 +308,7 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://links.aqfadtv.xyz/warna.mpd
 #http://linears-playback.astro.com.my/vsg/41oDAQyscM3NO4v09e0JcxG8l4BfLjs2duKxH0CLfFY-M=eZfN/dash-wv/jitp-linearwm/2402/default_primary.mpd
-https://stream.zeehanzgadget.com/warna
+#https://stream.zeehanzgadget.com/warna
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",ASTRO WARNA ⁽ᴮᵃᶜᵏᵘᵖ⁾.
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
