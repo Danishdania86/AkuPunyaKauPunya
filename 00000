@@ -260,7 +260,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-id="104" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Astro_Ria_%282D%29.png" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
+#https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
+https://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bkAwkLOtBaGfvzlXIdYnN4s=qkCv/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -275,7 +276,12 @@ http://51.81.208.129:35461/80301070602/456776/735
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 
 #EXTINF:-1 tvg-id="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO CITRA 
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#https://links.aqfadtv.xyz/citra.mpd
+#https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9DDyanZY_5gWvdb6XNyxRJE=6nZu/dash-wv/jitp-linearwm/2700/defa
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",ASTRO CITRA ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -302,7 +308,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 #EXTINF:-1 tvg-id="107" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Astro_Warna.jpg" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO WARNA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
+#https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9Evt3ntK8RNs1XiwLwwKIIE=LjF6/dash-wv/jitp-linearwm/2402/default_ott.mpd?7
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",ASTRO WARNA ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
