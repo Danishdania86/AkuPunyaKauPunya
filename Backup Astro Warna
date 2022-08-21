@@ -46,7 +46,7 @@ https://tv.kpsvpn.com/warna.mpd
 #EXTINF:-1 tvg-id="AstroWarna" group-title="MALAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna 9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-http://vp2p2s.my6868.cc/20424/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+https://my.odtv.uk:443/live/3028968008/9141808032/18.ts
 
 
 
