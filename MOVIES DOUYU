@@ -109,14 +109,14 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
 http://huanqiuzhibo.cn/manifest/douyu.php?id=6655271
 
 
-#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 36,
-http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 36
+http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
 
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 37
-http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
+http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
 
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 38
-http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
+http://txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
 
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 39
 http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
