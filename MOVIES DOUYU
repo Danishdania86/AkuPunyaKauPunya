@@ -122,13 +122,13 @@ http://txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019
 http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
 
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 40
-http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
+http://epg.112114.xyz/douyu/434971
 
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 41
-http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
+http://epg.112114.xyz/douyu/315457
 
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP42
-http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
+3.华语院线,http://epg.112114.xyz/douyu/5581257
 
 #EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 43
 http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
