@@ -284,9 +284,9 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 #https://links.aqfadtv.xyz/citra.mpd
 #https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9DDyanZY_5gWvdb6XNyxRJE=6nZu/dash-wv/jitp-linearwm/2700/default_ott.mpd
 #http://104.238.221.63:9138/stream/live/c20425.m3u8?idstream=citra
-#https://smetv.live:443/play/NkmAq3gXObo1bORTZDGEMxOoV29CS93LS6EEnsDh15M
+https://smetv.live:443/play/NkmAq3gXObo1bORTZDGEMxOoV29CS93LS6EEnsDh15M
 #https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
-https://stream.zeehanzgadget.com/citra
+#https://stream.zeehanzgadget.com/citra
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",ASTRO CITRA ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -294,8 +294,8 @@ https://stream.zeehanzgadget.com/citra
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://links.aqfadtv.xyz/citra.mpd
 #http://linears-playback.astro.com.my/vsg/41oDAQyscM3NO4v09e0JcxG52v4OMVOG_4tHMaVqCOVXc=PvUA/dash-wv/jitp-linearwm/2700/default_primary.mpd
-#https://stream.zeehanzgadget.com/citra
-http://51.81.208.129:35461/80301070602/456776/721
+https://stream.zeehanzgadget.com/citra
+#http://51.81.208.129:35461/80301070602/456776/721
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",ASTRO CITRA ⁽ᴮᵃᶜᵏᵘᵖ⁾.   
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
