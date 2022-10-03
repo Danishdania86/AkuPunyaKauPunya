@@ -262,13 +262,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http://app.iptv8k.org/mobile//GetLiveAdv.aspx?version=android&area=&type=%E7%9B%B4%E6%92%AD&name=RIA%28B%29+Astro&stream=true
-https://aqfadtv.xyz/ria.mpd
-https://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bkAwkLOtBaGfvzlXIdYnN4s=qkCv/dash-wv/jitp-linearwm/1004/default_ott.mpd
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-http://linears-playback.astro.com.my/vsg/41vAXlAACyku7QLCfqwC0p1LxE5VFZfWLMXNR_JleTLVY=1Bx6/dash-wv/jitp-linearwm/1004/default_primary.mpd
-https://aqfadtv.xyz/ria.m3u8
-http://linears-playback.astro.com.my/vsg/41EOIb7Z8FPp0c3RC7XL3c9dit9akRTrTHeWECdiK6_XQ=YetH/dash-wv/jitp-linearwm/1004/default_primary.mpd
-https://tv.kpsvpn.com/ria
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -322,18 +316,18 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://links.aqfadtv.xyz/warna.mpd
 #https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9Evt3ntK8RNs1XiwLwwKIIE=LjF6/dash-wv/jitp-linearwm/2402/default_ott.mpd?7
-https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
+#https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
 #https://smetv.live:443/play/NkmAq3gXObo1bORTZDGEMztcMyr3_qnJFfuOgt6eEaM
-#https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 #http://172.96.160.37:9138/stream/live/c20424.m3u8?idstream=warna
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",ASTRO WARNA ⁽ᴮᵃᶜᵏᵘᵖ⁾
-#https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
-https://stream.zeehanzgadget.com/warna
+https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
+#https://stream.zeehanzgadget.com/warna
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",ASTRO WARNA ⁽ᴮᵃᶜᵏᵘᵖ⁾.
-#https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
-https://stream.zeehanzgadget.com/warna
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
+#https://stream.zeehanzgadget.com/warna
 
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8
