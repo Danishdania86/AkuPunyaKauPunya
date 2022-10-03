@@ -322,9 +322,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://links.aqfadtv.xyz/warna.mpd
 #https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9Evt3ntK8RNs1XiwLwwKIIE=LjF6/dash-wv/jitp-linearwm/2402/default_ott.mpd?7
-#https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
+https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
 #https://smetv.live:443/play/NkmAq3gXObo1bORTZDGEMztcMyr3_qnJFfuOgt6eEaM
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
+#https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 #http://172.96.160.37:9138/stream/live/c20424.m3u8?idstream=warna
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",ASTRO WARNA ⁽ᴮᵃᶜᵏᵘᵖ⁾
