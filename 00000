@@ -264,6 +264,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTVLCOPT:http://app.iptv8k.org/mobile//GetLiveAdv.aspx?version=android&area=&type=%E7%9B%B4%E6%92%AD&name=RIA%28B%29+Astro&stream=true
 https://aqfadtv.xyz/ria.mpd
 https://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bkAwkLOtBaGfvzlXIdYnN4s=qkCv/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/41vAXlAACyku7QLCfqwC0p1LxE5VFZfWLMXNR_JleTLVY=1Bx6/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://aqfadtv.xyz/ria.m3u8
+http://linears-playback.astro.com.my/vsg/41EOIb7Z8FPp0c3RC7XL3c9dit9akRTrTHeWECdiK6_XQ=YetH/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://tv.kpsvpn.com/ria
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -283,10 +288,11 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://links.aqfadtv.xyz/citra.mpd
 #https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9DDyanZY_5gWvdb6XNyxRJE=6nZu/dash-wv/jitp-linearwm/2700/default_ott.mpd
-#http://104.238.221.63:9138/stream/live/c20425.m3u8?idstream=citra
+http://104.238.221.63:9138/stream/live/c20425.m3u8?idstream=citra
 https://smetv.live:443/play/NkmAq3gXObo1bORTZDGEMxOoV29CS93LS6EEnsDh15M
-#https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
-#https://stream.zeehanzgadget.com/citra
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
+https://stream.zeehanzgadget.com/citra
+http://104.238.221.63:9138/stream/live/c20425.m3u8?idstream=citra
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",ASTRO CITRA ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -330,7 +336,7 @@ https://stream.zeehanzgadget.com/warna
 https://stream.zeehanzgadget.com/warna
 
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV OKEY
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
