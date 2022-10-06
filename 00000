@@ -295,7 +295,7 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",ASTRO WARNA
-P2p://ns1.hellotvvod.com:9906/3e63ae3789d04d31b5682a17f76a5722
+mitv://ns2.hellotvvod.com:9906/e8cedfe66fee48659944adf7598d61a9
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",ASTRO WARNA ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
