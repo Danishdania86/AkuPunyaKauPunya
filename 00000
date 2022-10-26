@@ -8,34 +8,34 @@
 
 ######## RADIO #########
 
-#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="CHN" ch-number="724" ch-number="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM
+#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="CHN" ch-number="724" ch-number="724" tvg-logo="https://bit.ly/CZuLL",8FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
-#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="CHN" ch-number="724" ch-number="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM 
+#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="CHN" ch-number="724" ch-number="724" tvg-logo="https://bit.ly/CZuLL",8FM 
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
 
-#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="CHN" ch-number="956" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
+#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="CHN" ch-number="956" tvg-logo="https://bit.ly/CZuLL",988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
 
-#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="AIFM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/303_144.png",AI FM
+#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="AIFM" tvg-logo="https://bit.ly/CZuLL",AI FM
 https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
 
-#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="ASYIKFM" tvg-logo="https://i.postimg.cc/rwd95Xd8/AsyikFM.png",ASYIK FM
+#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="ASYIKFM" tvg-logo="https://bit.ly/CZuLL",ASYIK FM
 https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="2" tvg-name="Bapakku FM" group-title="☢️RADIO 886☢️" tvg-logo="https://i.imgur.com/ZqhhK3e.png",BAPAKKU FM
+#EXTINF:-1 tvg-id="" tvg-chno="2" tvg-name="Bapakku FM" group-title="☢️RADIO 886☢️" tvg-logo="https://bit.ly/CZuLL",BAPAKKU FM
 http://radio.bapakku.fm:8000/stream/1/
 
-#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="CHN" ch-number="722" ch-number="722" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624",BULETIN FM
+#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="CHN" ch-number="722" ch-number="722" tvg-logo="https://bit.ly/CZuLL",BULETIN FM
 https://mediaprima.rastream.com/mediaprima-koolfm
 
-#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="CHN" ch-number="722" ch-number="722" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624",BULETIN FM 
+#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="CHN" ch-number="722" ch-number="722" tvg-logo="https://bit.ly/CZuLL",BULETIN FM 
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/BuletinFM.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="4" tvg-name="Era FM" group-title="☢️RADIO 886☢️" tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170851/27341435.png",ERA FM
+#EXTINF:-1 tvg-id="" tvg-chno="4" tvg-name="Era FM" group-title="☢️RADIO 886☢️" tvg-logo="https://bit.ly/CZuLL",ERA FM
 http://astro2.rastream.com/era
 
-#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA FM 
+#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="ERA" tvg-logo="https://bit.ly/CZuLL",ERA FM 
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/ERA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="5" tvg-name="Era Sarawak FM" group-title="☢️RADIO 886☢️" tvg-logo="https://d3at9g37w1ky0l.cloudfront.net/station-logos/amp-era-kch/amp-era-kch@3x.png",ERA SARAWAK FM
