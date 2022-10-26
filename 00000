@@ -323,27 +323,27 @@ https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
 
 ###### TV SINGAPORE ########
 
-#EXTINF:-1  tvg-id="Ch 5" group-title="🇸🇬 MEDIACORP 886 🇸🇬" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",CHANNEL 5 
+#EXTINF:-1  tvg-id="Ch 5" group-title="🇸🇬 MEDIACORP 886 🇸🇬" tvg-logo="https://bit.ly/CZuLL",CHANNEL 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/316e8644-f2c1-4a8c-80b5-4cadf397f4c9
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
-#EXTINF:-1 tvg-id="Ch 8" group-title="🇸🇬 MEDIACORP 886 🇸🇬" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",CHANNEL 8 
+#EXTINF:-1 tvg-id="Ch 8" group-title="🇸🇬 MEDIACORP 886 🇸🇬" tvg-logo="https://bit.ly/CZuLL",CHANNEL 8 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/536e68ce-e1f2-493c-9095-a83932d06cdf
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
-#EXTINF:-1 tvg-id="Ch U" group-title="🇸🇬 MEDIACORP 886 🇸🇬" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",CHANNEL U 
+#EXTINF:-1 tvg-id="Ch U" group-title="🇸🇬 MEDIACORP 886 🇸🇬" tvg-logo="https://bit.ly/CZuLL",CHANNEL U 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/0eca714c-3695-4b08-9705-2e2a62cbe1b6
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 tvg-id="Suria" group-title="🇸🇬 MEDIACORP 886 🇸🇬" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",SURIA 
+#EXTINF:-1 tvg-id="Suria" group-title="🇸🇬 MEDIACORP 886 🇸🇬" tvg-logo="https://bit.ly/CZuLL",SURIA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/d8ed7731-7bc7-4993-9f9d-c98ba9291b5c
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
-#EXTINF:-1 tvg-id="Vasantham" group-title="🇸🇬 MEDIACORP 886 🇸🇬" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",VASANTHAM 
+#EXTINF:-1 tvg-id="Vasantham" group-title="🇸🇬 MEDIACORP 886 🇸🇬" tvg-logo="https://bit.ly/CZuLL",VASANTHAM 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/2263da79-3818-41f1-9ec4-eff68fd5466c
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
@@ -351,99 +351,99 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 
 ###### ASTRO CARTOON #########
 
-#EXTINF:-1 tvg-id="" tvg-chno="200" tvg-name="Astro Ceria" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",ASTRO CERIA 
+#EXTINF:-1 tvg-id="" tvg-chno="200" tvg-name="Astro Ceria" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://bit.ly/CZuLL",ASTRO CERIA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="202" tvg-name="TA-DAA!" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png",TA-DAA! 
+#EXTINF:-1 tvg-id="" tvg-chno="202" tvg-name="TA-DAA!" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://bit.ly/CZuLL",TA-DAA! 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="203" tvg-name="Animax" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",ANIMAX 
+#EXTINF:-1 tvg-id="" tvg-chno="203" tvg-name="Animax" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://bit.ly/CZuLL",ANIMAX 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="204" tvg-name="Animax" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",ANIMAX 
+#EXTINF:-1 tvg-id="" tvg-chno="204" tvg-name="Animax" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://bit.ly/CZuLL",ANIMAX 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="205" tvg-name="Boomerang" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070341348vur.png",BOOMERANG 
+#EXTINF:-1 tvg-id="" tvg-chno="205" tvg-name="Boomerang" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://bit.ly/CZuLL",BOOMERANG 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dac64e0ed7eec1cde6777b7616917710&key=6fcec68baae0c9822b8ec3f29f7cd0bc
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="206" tvg-name="Boomerang" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070341348vur.png",BOOMERANG 
+#EXTINF:-1 tvg-id="" tvg-chno="206" tvg-name="Boomerang" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://bit.ly/CZuLL",BOOMERANG 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="207" tvg-name="besmart" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://cdn.macan.tv/img/besmart.jpg",BESMART 
+#EXTINF:-1 tvg-id="" tvg-chno="207" tvg-name="besmart" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://bit.ly/CZuLL",BESMART 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="208" tvg-name="Cartoon Network" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png",CARTOON NETWORK 
+#EXTINF:-1 tvg-id="" tvg-chno="208" tvg-name="Cartoon Network" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://bit.ly/CZuLL",CARTOON NETWORK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=435bb823afb75f32a891cc235dda1210&key=aebc4002b1d9a18388f7bab70c0a7cc8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="209" tvg-name="Cartoon Network" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png",CARTOON NETWORK 
+#EXTINF:-1 tvg-id="" tvg-chno="209" tvg-name="Cartoon Network" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://bit.ly/CZuLL",CARTOON NETWORK 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="210" tvg-name="CBeebies" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071141326xhe.png",CBEEBIES 
+#EXTINF:-1 tvg-id="" tvg-chno="210" tvg-name="CBeebies" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://bit.ly/CZuLL",CBEEBIES 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="213" tvg-name="Nickelodeon" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073133989duz.png",NICKELODEON 
+#EXTINF:-1 tvg-id="" tvg-chno="213" tvg-name="Nickelodeon" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://bit.ly/CZuLL",NICKELODEON 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f609722db16e34f7f808179d29ba1b10&key=f8b715f81b33aeb2e5680263fe31d904
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="214" tvg-name="Nickelodeon" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073133989duz.png",NICKELODEON 
+#EXTINF:-1 tvg-id="" tvg-chno="214" tvg-name="Nickelodeon" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://bit.ly/CZuLL",NICKELODEON 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="215" tvg-name="Nick Jr." radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/201907080716212262b1.png",NICK JR. 
+#EXTINF:-1 tvg-id="" tvg-chno="215" tvg-name="Nick Jr." radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://bit.ly/CZuLL",NICK JR. 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3e4bcc300dc5f243ba5d5b4efca9fd10&key=364bdb669b85e49ef93d0de8b9f31cf3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="216" tvg-name="Nick Jr." radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/201907080716212262b1.png",NICK JR. 
+#EXTINF:-1 tvg-id="" tvg-chno="216" tvg-name="Nick Jr." radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://bit.ly/CZuLL",NICK JR. 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="217" tvg-name="Kids Channel" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",KIDS CHANNEL 
+#EXTINF:-1 tvg-id="" tvg-chno="217" tvg-name="Kids Channel" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://bit.ly/CZuLL",KIDS CHANNEL 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="218" tvg-name="Miao Mi" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png",Miao Mi 
+#EXTINF:-1 tvg-id="" tvg-chno="218" tvg-name="Miao Mi" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://bit.ly/CZuLL",Miao Mi 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
-#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-name="Anime All Day" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="🐿️ KIDZ 886 🐿️",Anime All Day
+#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-name="Anime All Day" tvg-logo="https://bit.ly/CZuLL" group-title="🐿️ KIDZ 886 🐿️",Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png" group-title="🐿️ KIDZ 886 🐿️",one piece
+#EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-name="One Piece" tvg-logo="https://bit.ly/CZuLL" group-title="🐿️ KIDZ 886 🐿️",one piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5da0c85bd2c9c10009370984" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="🐿️ KIDZ 886 🐿️",NARUTO
+#EXTINF:-1 tvg-id="5da0c85bd2c9c10009370984" tvg-name="Naruto" tvg-logo="https://bit.ly/CZuLL" group-title="🐿️ KIDZ 886 🐿️",NARUTO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5f4ec10ed9636f00089b8c89" tvg-name="Yu-Gi-Oh" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="🐿️ KIDZ 886 🐿️",YU-GI-OH
+#EXTINF:-1 tvg-id="5f4ec10ed9636f00089b8c89" tvg-name="Yu-Gi-Oh" tvg-logo="https://bit.ly/CZuLL" group-title="🐿️ KIDZ 886 🐿️",YU-GI-OH
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-name="TokuSHOUTsu" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="🐿️ KIDZ 886 🐿️",TOKUSHOUTSU
+#EXTINF:-1 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-name="TokuSHOUTsu" tvg-logo="https://bit.ly/CZuLL" group-title="🐿️ KIDZ 886 🐿️",TOKUSHOUTSU
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
