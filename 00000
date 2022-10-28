@@ -901,7 +901,7 @@ http://iamsomx.herokuapp.com/zee5.php?id=0-9-channel_2105335046
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", STARMOVIES
 ****ERROR
 
-#EXTINF:-1 tvg-id="&Prive" group-title="🍿 MOVIES 886 🍿" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",&PRIVE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", &PRIVE
 http://103.179.246.243:8000/play/a01d
 
 #EXTINF:-1 tvg-id="https://pbs.twimg.com/profile_images/1067481188162576385/G5mYz3At_400x400.jpg" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿",MOVIE 24/7
@@ -910,10 +910,10 @@ http://103.179.246.243:8000/play/a01d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", FLIXBUS
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", M&X
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", M&X
 http://103.55.144.46/hls/mnx-hd.m3u8
 
-#EXTINF:-1 tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", Hi-YAH!
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", Hi-YAH!
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 
 
