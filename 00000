@@ -2083,36 +2083,36 @@ https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ie
 
 ###### BOLLYWOOD #####
 
-#EXTINF: -1 tvg-id="B4U MOVIES" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", B4U MOVIES 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", BOLLYWOOD 886 🇮🇳", B4U MOVIES 
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",ZEE BIOSKOP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", BOLLYWOOD 886 🇮🇳", ZEE BIOSKOP
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳" tvg-id="StarGoldHDIndia.hk" tvg-name="StarGoldHDIndia.hk", Star Gold HD India
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", Star Gold HD India
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳" tvg-id="" tvg-name="", Sony Max 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", Sony Max 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳" tvg-id="333" tvg-name="333", Colors Cineplex
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", Colors Cineplex
 ******ERROR
 
-#EXTINF:-1 tvg-logo="https//bit.ly/CZuLL" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳" tvg-id="301" tvg-name="301", Yupp Thirai HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", Yupp Thirai HD
 http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳" tvg-id="ZeeCinemaAsia.in" tvg-name="ZeeCinemaAsia.in", Zee Cinema Asia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", Zee Cinema Asia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",&PICTURES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", &PICTURES
 http://103.55.144.46/hls/andpictures.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YQP3hDH/ZING.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳" tvg-id="ZingAsia.in" tvg-name="ZingAsia.in", Zing Asia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", Zing Asia
 ******ERROR
 
 
