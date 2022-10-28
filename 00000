@@ -1179,203 +1179,203 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 ########## ASTRO SPORTS ###########
 
-#EXTINF:-1 tvg-id="701" group-title="⚽ SPORTS 886 ⚽"  tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",UNIFI SPORTS 1
+#EXTINF:-1 tvg-id="701" group-title="⚽ SPORTS 886 ⚽"  tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",UNIFI SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 group-title="⚽ SPORTS 886 ⚽" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",UNIFI SPORTS 2
+#EXTINF:-1 group-title="⚽ SPORTS 886 ⚽" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",UNIFI SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#EXTINF:-1 tvg-id="AstroUHD" ch-number="780" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO UHD
+#EXTINF:-1 tvg-id="AstroUHD" ch-number="780" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1602/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default_primary.mpd
 
-#EXTINF:-1 tvg-id="eGGNetwork" ch-number="800" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",EGG NETWORK HD ASTGO
+#EXTINF:-1 tvg-id="eGGNetwork" ch-number="800" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",EGG NETWORK HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e2a4758854ddf83f1e8f465a3d3d8910&key=a464e1f2f904d40f3235a57304e72d78
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroArena" group-title="⚽ SPORTS 886 ⚽" ch-number="801" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO ARENA ASTGO
+#EXTINF:-1 tvg-id="AstroArena" group-title="⚽ SPORTS 886 ⚽" ch-number="801" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO ARENA ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroArena2" group-title="⚽ SPORTS 886 ⚽" ch-number="802" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO ARENA 2 ASTGO
+#EXTINF:-1 tvg-id="AstroArena2" group-title="⚽ SPORTS 886 ⚽" ch-number="802" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO ARENA 2 ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/9989/
-#EXTINF:-1 tvg-id="CHN" ch-number="806" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO GO LIVE EVENT 1 
+#EXTINF:-1 tvg-id="CHN" ch-number="806" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO GO LIVE EVENT 1 
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/9988/
-#EXTINF:-1 tvg-id="CHN" ch-number="807" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO GO LIVE EVENT 2 
+#EXTINF:-1 tvg-id="CHN" ch-number="807" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO GO LIVE EVENT 2 
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/9987/
-#EXTINF:-1 tvg-id="CHN" ch-number="808" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO GO LIVE EVENT 3 
+#EXTINF:-1 tvg-id="CHN" ch-number="808" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO GO LIVE EVENT 3 
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
     
-#EXTINF:-1 tvg-id="AOTGLive1" group-title="⚽ SPORTS 886 ⚽" ch-number="810" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT HD ASTGO
+#EXTINF:-1 tvg-id="AOTGLive1" group-title="⚽ SPORTS 886 ⚽" ch-number="810" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="⚽ SPORTS 886 ⚽" ch-number="811" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT HD ASTGO
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="⚽ SPORTS 886 ⚽" ch-number="811" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
 https://linears-playback.astro.com.my/vsg/41deCWy__ae_6P_LUQ57j54bqkPiKJmsiWBL_8WTvdu1c=j6Pd/dash-wv/jitp-linearwm/601/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="⚽ SPORTS 886 ⚽" ch-number="811" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT HD⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="⚽ SPORTS 886 ⚽" ch-number="811" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT HD⁽ᴮᵃᶜᵏᵘᵖ⁾
 http://axcestv.vip:8080/freeview/axcestv/594
 
-#EXTINF:-1 tvg-id="AstroSupersport2" group-title="⚽ SPORTS 886 ⚽" ch-number="812" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT 2 HD ASTGO
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="⚽ SPORTS 886 ⚽" ch-number="812" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT 2 HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 https://linears-playback.astro.com.my/vsg/41deCWy__ae_6P_LUQ57j54bqkPiKJmsiWBL_8WTvdu1c=j6Pd/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport2" group-title="⚽ SPORTS 886 ⚽" ch-number="812" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT HD⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="⚽ SPORTS 886 ⚽" ch-number="812" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT HD⁽ᴮᵃᶜᵏᵘᵖ⁾
 http://axcestv.vip:8080/freeview/axcestv/596
 
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="⚽ SPORTS 886 ⚽" ch-number="813" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT 3 HD ASTGO
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="⚽ SPORTS 886 ⚽" ch-number="813" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT 3 HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
 https://linears-playback.astro.com.my/vsg/411aAdpUORq1ipLVthkITKe7wEdh7NWeJkFmW_tmV31Yk=A_Lm/dash-wv/jitp-linearwm/2701/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperspor3t" group-title="⚽ SPORTS 886 ⚽" ch-number="813" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT HD⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTINF:-1 tvg-id="AstroSuperspor3t" group-title="⚽ SPORTS 886 ⚽" ch-number="813" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT HD⁽ᴮᵃᶜᵏᵘᵖ⁾
 http://axcestv.vip:8080/freeview/axcestv/598
     
-#EXTINF:-1 tvg-id="AstroSupersport4" group-title="⚽ SPORTS 886 ⚽" ch-number="814" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT 4 HD ASTGO
+#EXTINF:-1 tvg-id="AstroSupersport4" group-title="⚽ SPORTS 886 ⚽" ch-number="814" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT 4 HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
 https://linears-playback.astro.com.my/vsg/41UfpQ6-vWB66ZAp5DuLe4eZmVNDShNSPuVdJtH3X6-hE=amAG/dash-wv/jitp-linearwm/2506/default_primary.mpd
     
-#EXTINF:-1 tvg-id="AstroSupersport4" group-title="⚽ SPORTS 886 ⚽" ch-number="814" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT 4 HD⁽ᴮᵃᶜᵏᵘᵖ⁾    
+#EXTINF:-1 tvg-id="AstroSupersport4" group-title="⚽ SPORTS 886 ⚽" ch-number="814" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT 4 HD⁽ᴮᵃᶜᵏᵘᵖ⁾    
 http://axcestv.vip:8080/freeview/axcestv/600
 
-#EXTINF:-1 tvg-id="AstroSupersport5" group-title="⚽ SPORTS 886 ⚽" ch-number="815" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT 5 HD ASTGO
+#EXTINF:-1 tvg-id="AstroSupersport5" group-title="⚽ SPORTS 886 ⚽" ch-number="815" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO SUPERSPORT 5 HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
       
-#EXTINF:-1 tvg-id="SPOTV" group-title="⚽ SPORTS 886 ⚽" ch-number="816" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SPOTV ASTGO
+#EXTINF:-1 tvg-id="SPOTV" group-title="⚽ SPORTS 886 ⚽" ch-number="816" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SPOTV ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=01cde7c31b1a3ea2aa7a6f579a0f4610&key=710f5ebe6bb2d50978ef0e5aa5fc69d4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
     
-#EXTINF:-1 tvg-id="SPOTV2" ch-number="707" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SPOTV2 HD ASTGO
+#EXTINF:-1 tvg-id="SPOTV2" ch-number="707" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SPOTV2 HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5068
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
 
-#EXTINF:-1 tvg-id="SpoTV2.kr" group-title="⚽ SPORTS 886 ⚽" ch-number="" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SPOTV 2
+#EXTINF:-1 tvg-id="SpoTV2.kr" group-title="⚽ SPORTS 886 ⚽" ch-number="" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-id="beINSports" group-title="⚽ SPORTS 886 ⚽" ch-number="818" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",BEIN SPORTS HD AstGO
+#EXTINF:-1 tvg-id="beINSports" group-title="⚽ SPORTS 886 ⚽" ch-number="818" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",BEIN SPORTS HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 
-#EXTINF:-1 tvg-id="beINSports1" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",BEIN SPORTS 1
+#EXTINF:-1 tvg-id="beINSports1" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",BEIN SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#EXTINF:-1 tvg-id="beINSports2" ch-number="817" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",BEIN SPORTS 2 HD ASTGO
+#EXTINF:-1 tvg-id="beINSports2" ch-number="817" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",BEIN SPORTS 2 HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
 
-#EXTINF:-1 tvg-id="beINSports3" group-title="⚽ SPORTS 886 ⚽" ch-number="819" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",BEIN SPORTS 3 HD ASTGO
+#EXTINF:-1 tvg-id="beINSports3" group-title="⚽ SPORTS 886 ⚽" ch-number="819" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",BEIN SPORTS 3 HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Eurosport" group-title="⚽ SPORTS 886 ⚽" ch-number="820" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",EUROSPORT HD ASTGO
+#EXTINF:-1 tvg-id="Eurosport" group-title="⚽ SPORTS 886 ⚽" ch-number="820" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",EUROSPORT HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7299bdb9de13b235cda94cd5063ab810&key=247ed97854d185349998873672294cad
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 
-#EXTINF:-1 tvg-id="WWENetwork" group-title="⚽ SPORTS 886 ⚽" ch-number="821" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",WWE NETWORK HD ASTGO
+#EXTINF:-1 tvg-id="WWENetwork" group-title="⚽ SPORTS 886 ⚽" ch-number="821" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",WWE NETWORK HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
-#EXTINF:-1 tvg-id="GolfChannel" group-title="⚽ SPORTS 886 ⚽" ch-number="822" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",GOLF CHANNEL HD ASTGO
+#EXTINF:-1 tvg-id="GolfChannel" group-title="⚽ SPORTS 886 ⚽" ch-number="822" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",GOLF CHANNEL HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bef29d5caac3628eb1efae8a215fae10&key=645a0014ea459a86cfa72cf8137bb4a7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 
-#EXTINF:-1 tvg-id="PremierSports" group-title="⚽ SPORTS 886 ⚽" ch-number="823" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",PREMIER SPORTS HD ASTGO
+#EXTINF:-1 tvg-id="PremierSports" group-title="⚽ SPORTS 886 ⚽" ch-number="823" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",PREMIER SPORTS HD ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfc32f4dc3dac49b34708ded20364610&key=025dcec778861dd1e40cce4dd35e73a4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroCricket" group-title="⚽ SPORTS 886 ⚽" ch-number="824" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CRICKET ASTGO
+#EXTINF:-1 tvg-id="AstroCricket" group-title="⚽ SPORTS 886 ⚽" ch-number="824" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CRICKET ASTGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
-#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",FIGHT SPORTS
+#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",FIGHT SPORTS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",SOCCER CHANNEL
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",SOCCER CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",MNC SPORTS
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",MNC SPORTS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
     
-#EXTINF:-1 tvg-id="MNCSports2.id" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",MNC SPORTS 2
+#EXTINF:-1 tvg-id="MNCSports2.id" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",MNC SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-id="CHN" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MEDIACORP MEWATCH
+#EXTINF:-1 tvg-id="CHN" group-title="⚽ SPORTS 886 ⚽" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MEDIACORP MEWATCH
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cdb834a4f2fd413a8e50d1a7170701d2&key=3d6ae85b34e8aac7488c780cea215306
 https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https//bit.ly/CZuLL" group-title="⚽ SPORTS 886 ⚽",MOTORVISION.TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",MOTORVISION.TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
     
-#EXTINF:-1 tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",BT SPORT ESPN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",BT SPORT ESPN
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://uload.ru.com/cdn/premium34/chunks.m3u8
     
-#EXTINF:-1 tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",BT SPORT 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",BT SPORT 1
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://uload.ru.com/cdn/premium31/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",BT SPORT 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",BT SPORT 2
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://uload.ru.com/cdn/premium32/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",BT SPORT 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",BT SPORT 3
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://uload.ru.com/cdn/premium33/chunks.m3u8
 
-#EXTINF:-1 tvg-id="5fac431fc1ffbc0007e6b6a7" tvg-name="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",PLUTO TV PRO WRESTLING
+#EXTINF:-1 tvg-id="5fac431fc1ffbc0007e6b6a7" tvg-name="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",PLUTO TV PRO WRESTLING
 http://194.233.70.176:25461/live/lifetime/user/110.m3
 
 
@@ -1956,7 +1956,7 @@ https://lh3.googleusercontent.com/F-ZaqB6AZRfu2sre6CegW0Ag039Xx0UNgAqXxKq4HkVn0H
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🐿️ VOD KIDZ 886 🐿️", Kung Fu Panda 3 (2016)
 https://lh3.googleusercontent.com/vf_QmvXXYq6uJQF8FVzUln20qss9OaFmfmVvPIiUV8yFr44b_SYJ5VhJsQxBnlTjsjPWAwkO7HBoglpUAg=m22
 
-#EXTINF:-1 tvg-logo="https//raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🐿️ VOD KIDZ 886 🐿️", Moana (2016)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🐿️ VOD KIDZ 886 🐿️", Moana (2016)
 https://lh3.googleusercontent.com/ITnmgKbhDUWbrD29kZvDCcXdtic-NFEZ5nzhy0Xw_P2_Fn0RfYL5dhmaCKXSi1EYHaNimQK25mfWWPvI2A=m22
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🐿️ VOD KIDZ 886 🐿️", Scooby-Doo! and WWE: Curse of the Speed Demon (2016)
