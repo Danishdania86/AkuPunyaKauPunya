@@ -198,16 +198,10 @@ https://raw.githubusercontent.com/raizoml123/workers/main/7.m3u8
 #EXTVLCOPT:http-referrer=https://www.dailymotion.com
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdlTSVhKxFZpSs5vnNLfPuTatYU0wJLtdl_luh1yLbBq)/dm/3/x6qud17/s/live-4.m3u8#cell=lsg1
 
-
-#EXTINF:-1 tvg-id="" tvg-chno="113" tvg-name="TV9" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TV9 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dailymotion.com
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHetgPasXun_t_D6CGGAaCZrp4b5-kYFFqb3Shod2lRSQ)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1
-
 #EXTINF:-1 tvg-id="" tvg-chno="113" tvg-name="TV9" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TV9 (B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dailymotion.com
-https://raw.githubusercontent.com/raizoml123/workers/main/9.m3u8
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHetgPasXun_t_D6CGGAaCZrp4b5-kYFFqb3Shod2lRSQ)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1
 
 #EXTINF:-1 tvg-id="" tvg-chno="115" tvg-name="Drama Sangat" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",DRAMA SANGAT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
