@@ -172,12 +172,14 @@ https://raw.githubusercontent.com/raizoml123/workers/main/7.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="111" tvg-name="8TV" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",8TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dailymotion.com
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdlTSVhKxFZpSs5vnNLfPuTatYU0wJLtdl_luh1yLbBq)/dm/3/x6qud17/s/live-4.m3u8#cell=lsg1
+#https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdlTSVhKxFZpSs5vnNLfPuTatYU0wJLtdl_luh1yLbBq)/dm/3/x6qud17/s/live-4.m3u8#cell=lsg1
+http://streamz.us:2082/live/J1528/Aa1234/11.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="113" tvg-name="TV9" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TV9 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dailymotion.com
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHetgPasXun_t_D6CGGAaCZrp4b5-kYFFqb3Shod2lRSQ)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1
+#https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHetgPasXun_t_D6CGGAaCZrp4b5-kYFFqb3Shod2lRSQ)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1
+http://streamz.us:2082/live/J1528/Aa1234/12.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="115" tvg-name="Drama Sangat" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",DRAMA SANGAT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
@@ -223,7 +225,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 #http://172.96.160.37:9138/stream/live/c20629.m3u8?idstream=ria
 #http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJX_-tDg=Fj8c/dash-wv/jitp-linearwm/1004/default_ott.mpd
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
+http://streamz.us:2082/live/J1528/Aa1234/18.m3u8
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -238,7 +240,8 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://links.aqfadtv.xyz/citra.mpd
-https://aqfadtv.xyz/live/citra/index.mpd
+#https://aqfadtv.xyz/live/citra/index.mpd
+http://streamz.us:2082/live/J1528/Aa1234/27.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -265,7 +268,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA 
 #https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
-https://stream.zeehanzgadget.com/warna
+#https://stream.zeehanzgadget.com/warna
+http://streamz.us:2082/live/J1528/Aa1234/22.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
