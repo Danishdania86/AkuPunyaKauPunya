@@ -17,15 +17,6 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
 #EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="CHN" ch-number="956" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
 
-#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="AIFM" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",AI FM
-https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
-
-#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="ASYIKFM" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASYIK FM
-https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-chno="2" tvg-name="Bapakku FM" group-title="☢️RADIO 886☢️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",BAPAKKU FM
-http://radio.bapakku.fm:8000/stream/1/
-
 #EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="CHN" ch-number="722" ch-number="722" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",BULETIN FM
 https://mediaprima.rastream.com/mediaprima-koolfm
 
@@ -95,17 +86,11 @@ http://astro1.rastream.com/amp-myfm-kch
 #EXTINF:-1 tvg-id="" tvg-chno="19" tvg-name="My Sabah FM" group-title="☢️RADIO 886☢️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MY SABAH FM
 http://astro1.rastream.com/amp-myfm-kk
 
-#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="NASFM" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",NASIONAL FM
-https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-chno="20" tvg-name="One FM" group-title="☢️RADIO 886☢️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ONE FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
 #EXTINF:-1 tvg-id="" tvg-chno="21" tvg-name="Raaga FM" group-title="☢️RADIO 886☢️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",RAAGA FM
 https://astro3.rastream.com/raaga
-
-#EXTINF:-1 tvg-id="" tvg-chno="22" tvg-name="Sarawak FM" group-title="☢️RADIO 886☢️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SARAWAK FM
-http://sarawakfmmobile.secureswiftcontent.com:80/rtm-ch044/rtm-ch044/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="23" tvg-name="Sandakan FM" group-title="☢️RADIO 886☢️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SANDAKAN FM
 http://192.111.140.6:8142
@@ -143,17 +128,8 @@ http://astro4.rastream.com/opus
 #EXTINF:-1 tvg-id="" tvg-chno="31" tvg-name="Syok Osai  FM" group-title="☢️RADIO 886☢️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SYOK OSAI  FM
 https://astro4.rastream.com/osai
 
-#EXTINF:-1 tvg-id="" tvg-chno="32" tvg-name="Terengganu FM" group-title="☢️RADIO 886☢️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TERENGGANU FM
-https://terengganufmmobile.secureswiftcontent.com/rtm-ch033/rtm-ch033/chunklist.m3u8
-
-#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="TRAXXFM" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TRAXX FM
-https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
-
-#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="MINNALFM" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MINNAL FM
-https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
-
-#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="VFM" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",VFM
-https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="104" tvg-name="" radio="false" catchup="default" group-title="☢️RADIO 886☢️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASYIK FM
+https://23693.live.streamtheworld.com/ASYIK_FMAAC
 
 
 ######## ASTRO MELAYU #########
