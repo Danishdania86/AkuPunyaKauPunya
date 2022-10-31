@@ -151,6 +151,11 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TV3 HD
 http://51.79.82.208:16003
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇲🇾 MALAY 886 🇲🇾",TV3 ⁽ᴮᵃᶜᵏᵘᵖ⁾
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="108" tvg-name="TV6" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TV6 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
@@ -171,12 +176,6 @@ https://raw.githubusercontent.com/raizoml123/workers/main/7.m3u8
 #https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdlTSVhKxFZpSs5vnNLfPuTatYU0wJLtdl_luh1yLbBq)/dm/3/x6qud17/s/live-4.m3u8#cell=lsg1
 #http://streamz.us:2082/live/J1528/Aa1234/11.m3u8
 http://51.79.82.208:16005
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="🇲🇾 MALAY 886 🇲🇾",TV3 ⁽ᴮᵃᶜᵏᵘᵖ⁾
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
-#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="113" tvg-name="TV9" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TV9 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
