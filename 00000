@@ -153,7 +153,7 @@ http://51.79.82.208:16003
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇲🇾 MALAY 886 🇲🇾",TV3 ⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TV3 ⁽ᴮᵃᶜᵏᵘᵖ⁾
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
