@@ -238,7 +238,7 @@ http://51.79.82.208:16007
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" tvg-country="" tvg-url="" group-title="🇲🇾 MALAY 886 🇲🇾",ASTRO RIA ⁽ᴮᵃᶜᵏᵘᵖ⁾.   
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 
-#EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asstro" tvg-id="",Ass-tro Citra HD
+#EXTINF:-1 tvg-id="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-id="",ASTRO CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73e84f91bd9ae20412e370f98fd3a110:d5b52aabca5afe002eb495804f8ec944
 https://aqfadtv.xyz/live/citra/index.mpd
