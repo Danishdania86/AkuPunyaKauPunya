@@ -285,7 +285,7 @@ https://stream.zeehanzgadget.com/warna
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
-#EXTINF:-1 tvg-id="107" tvg-logo="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA ⁽ᴮᵃᶜᵏᵘᵖ⁾.
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA ⁽ᴮᵃᶜᵏᵘᵖ⁾.
 # https://linears-playback.astro.com.my/vsg/21hSTreDoP4JkZi8acBSiqbX82trGaE4JgYHlYpREKJtA=EKzD/dash-wv/jitp-linearwm/2402/default_ott.mpd
 # https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 # http://172.96.160.37:9138/stream/live/c20424.m3u8?idstream=warna
