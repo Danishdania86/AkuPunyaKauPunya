@@ -269,9 +269,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA 
-#https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
+https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
 #https://stream.zeehanzgadget.com/warna
-#http://streamz.us:2082/live/J1528/Aa1234/22.m3u8
+http://streamz.us:2082/live/J1528/Aa1234/22.m3u8
 #https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 http://51.79.82.208:16010
 
