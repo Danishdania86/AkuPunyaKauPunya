@@ -840,12 +840,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", MOVIESPHERE (1080p)
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", BUMBLEBEE TV POPCORNFLIX ACTION (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", GRAVITAS MOVIES (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", HALLMARK MOVIES & MORE (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
@@ -884,7 +878,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?bySCTV|Refere
 ****ERROR
 
 #EXTINF:-1 tvg-id="StarMovies" group-title="🍿 MOVIES 886 🍿" tvg-logo="https://i.ibb.co/hVhPGgc/SMSHD.png",STAR MOVIES SELECT
-****ERROR
+http://humiptv.live:8080/live/500757885/3356646354/218.ts
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -893,14 +887,16 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?bySCTV|Refere
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 #http://live.flixhub.net/hls/sonypixhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", &FLIX
-http://iamsomx.herokuapp.com/zee5.php?id=0-9-channel_2105335046
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", &FLIX 
+#EXTVLCOPT:http-referrer=https://tvstream.fun/jtv/play.php?c=And_Flix_HD
+https://aqfadtv.xyz/live/&flix/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", STARMOVIES
 ****ERROR
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", &PRIVE
-http://103.179.246.243:8000/play/a01d
+#EXTVLCOPT:http-referrer=https://tvstream.fun/jtv/play.php?c=And_Flix_HD
+https://aqfadtv.xyz/live/&flix/index.m3u8
 
 #EXTINF:-1 tvg-id="https://pbs.twimg.com/profile_images/1067481188162576385/G5mYz3At_400x400.jpg" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿",MOVIE 24/7
 ****ERROR
@@ -913,6 +909,53 @@ http://103.55.144.46/hls/mnx-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", Hi-YAH!
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+
+
+####### MOVIE LIVE #######
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 1
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924692
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 2
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924693
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 4
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924695
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 5
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924696
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 3
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924694
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 6
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924697
+
+#EXTINF:-1 group-title="MOVIES 2",US| 24/7 HBO MAX 1
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924705
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 HBO MAX A
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924706
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 HBO MAX B
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924707
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 HBO MAX C
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924708
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 HBO MAX D
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924709
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 HBO MAX E
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924710
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 HBO MAX F
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924711
+
+
+
+
+
 
 
 ##### LIFESTYLE #####
@@ -1377,283 +1420,124 @@ https://uload.ru.com/cdn/premium33/chunks.m3u8
 http://194.233.70.176:25461/live/lifetime/user/110.m3
 
 
-####### MOVIES CHINESE ##########
+####### MOVIES CHINESE  MIX ##########
 
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 1 (C)
-http://117.148.179.134/PLTV/88888888/224/3221231585/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 2 (C)
-http://117.148.179.134/PLTV/88888888/224/3221231621/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 3 (C)
-http://117.148.179.134/PLTV/88888888/224/3221231733/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 4 (C)
-http://117.148.179.134/PLTV/88888888/224/3221231477/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 5 (C.)
-http://117.148.179.134/PLTV/88888888/224/3221231640/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 6 (P)
-http://117.148.179.134/PLTV/88888888/224/3221231699/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 7 (C.)
-http://117.148.179.134/PLTV/88888888/224/3221231645/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 8 (C.J)
-http://117.148.179.134/PLTV/88888888/224/3221231687/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 9 (C)
-http://117.148.179.134/PLTV/88888888/224/3221231688/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 10 (C.)
-http://117.148.179.134/PLTV/88888888/224/3221231790/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 11 (C)
-http://117.148.179.134/PLTV/88888888/224/3221231568/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU4K 12 (C)
-http://117.148.179.134/PLTV/88888888/224/3221231624/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 13 (C)
-http://117.148.179.134/PLTV/88888888/224/3221231516/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 14 (C.H)
-http://117.148.179.134/PLTV/88888888/224/3221231513/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 15 (C.S)
-http://117.148.179.134/PLTV/88888888/224/3221231562/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 16 (C)
-http://117.148.179.134/PLTV/88888888/224/3221231564/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 17 (C)
-http://117.148.179.134/PLTV/88888888/224/3221231709/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 18 (C)
-http://117.148.179.134/PLTV/88888888/224/3221231754/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 19 (C.)
-http://117.148.179.134/PLTV/88888888/224/3221231757/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 20 (C)
-http://117.148.179.134/PLTV/88888888/224/3221231742/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 21 (C)
-http://117.148.179.134/PLTV/88888888/224/3221231787/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 22 (P)
-http://117.148.179.134/PLTV/88888888/224/3221231652/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 23 (C)
-http://117.148.179.134/PLTV/88888888/224/3221231672/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 24 (P)
-http://117.148.179.134/PLTV/88888888/224/3221231504/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 25 (P)
-http://117.148.179.134/PLTV/88888888/224/3221231556/index.m3u8
-
-#EXTINF:-1 group-title="🎥 C.MOVIES 886 🎥" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MIGU 26 (C)
-http://117.148.179.134/PLTV/88888888/224/3221231570/index.m3u8
-
-#EXTINF:-1 tvg-name="MIGU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES 886 🎥",MIGU (31)
-http://iptv.tvfix.org/hls/mydy2.m3u8
-
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES 886 🎥",MOVIES GROUP 1 (C)
-http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
-
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES 886 🎥",MOVIES GROUP 2 (C)
-https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
-
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES 886 🎥",MOVIES GROUP 3 (P)
-http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
-
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES 886 🎥",MOVIES GROUP 4 (P)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 1 (P)
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES 886 🎥",MOVIES GROUP 5 (C)
-http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
-
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES 886 🎥",MOVIES GROUP 6 (C)
-https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
-
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES 886 🎥",MOVIES GROUP 7 (C)
-http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
-
-
-######C.MOVIES DOUYU######
-
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  1 (C)
-http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
-
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  2 (C.J)
-http://tx2play1.douyucdn.cn/122402rK7MO9bXSq.xs
-
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  3 (C)
-http://zzy789.xyz/douyu1.php?id=3928
-
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  4 (C)
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 2 (C)
 http://epg.112114.xyz/douyu/122402
 
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  5 (C.)
-http://epg.112114.xyz/douyu/3990812
-
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  6 (C.)
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 3 (C.)
 http://epg.112114.xyz/douyu/6763930
 
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  7 (P)
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 4 (P)
 http://epg.112114.xyz/douyu/2436390
 
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  8 (P)
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 5 (P)
 http://epg.112114.xyz/douyu/4332
 
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  9 (P)
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.m3u8
-
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  10 (P)
-http://zzy789.xyz/douyu1.php?id=252802
-
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  11 (P)
-http://zzy789.xyz/douyu1.php?id=2793084
-
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  12 (P)
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 6 (P)
 http://epg.112114.xyz/douyu/413573
 
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  13 (P)
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 7 (P)
 http://epg.112114.xyz/douyu/747764
 
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  14 (P)
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 8 (P)
 http://epg.112114.xyz/douyu/252802
 
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  15 (P)
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 9 (P)
 http://epg.112114.xyz/douyu/36337
 
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  16 (P)
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 10 (P)
 http://epg.112114.xyz/douyu/8814650
 
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  17 (P.F)
-http://epg.112114.xyz/douyu/6655271
-
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  18 (P)
-http://epg.112114.xyz/douyu/315131
-
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  19 (P.M)
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 11 (P.M)
 http://epg.112114.xyz/douyu/9651304
 
-#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES DOUYU 886 🎥",DOUYU  20 (P.M)
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 12 (P.M)
 http://epg.112114.xyz/douyu/2793084
 
-
-#### C.MOVIES.D ####
-
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 1 (C.J)
-http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
-
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 2 (C.)
-http://117.148.179.160/PLTV/88888888/224/3221231621/index.m3u8
-
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 3 (C.T)
-http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
-
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 4 (C.)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 13 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 5 (C.)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 14 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=310926
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 6 (C)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 15 (C)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 7 (C)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 17 (C)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=3637765
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 8 (C.S)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 18 (C.S)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 9 (C)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 19 (C)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 10 (C.)
-http://huanqiuzhibo.cn/manifest/douyu.php?id=925724
-
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 11 (P)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 20 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=1504768
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 12 (C.)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 21 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=9650887
 
-
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 13 (C.)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 22 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=310926
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 14 (C.F)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 23 (C.F)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=315457
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 15 (C.H)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 24 (C.H)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=5033502
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 16 (C.)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 25 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=5423
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 17 (C.)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 26 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=9275635
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 18 (C.J)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 27 (C.J)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=6763930
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 19 (C.)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 28 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7253343
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 20 (C.)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 29 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=8603174
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 21 (C.H)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 30 (C.H)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7356023
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 22 (P)
-http://117.148.179.160/PLTV/88888888/224/3221231564/index.m3u8
-
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 23 (P.F)
-http://111.40.196.9/PLTV/88888888/224/3221225620/index.m3u8
-
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 24 (P)
-http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8
-
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 25 (P)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 31 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=8945323
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 26 (P.I.M)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 32 (P.I.M)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 27 (P.)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 33 (P.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 28 (P)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 34 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
 
-
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 29 (P)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 35 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 30 (P)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 36 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=1504768
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 31 (P.J.B)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 37 (P.J.B)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 32 (P)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 38 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7882691
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 33 (P)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 39 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=248753
 
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 34 (P)
+#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 40 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
-
-#EXTINF:-1 tvg-id= tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 C.MOVIES.D 886 🎥",MOVIES GROUP 35 (P.)
-http://huanqiuzhibo.cn/manifest/douyu.php?id=6655271
-
 
 
 ##### MUSIC ######
@@ -2087,7 +1971,7 @@ http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", BOLLYWOOD 886 🇮🇳", ZEE BIOSKOP
-https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+https://live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", Star Gold HD India
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
@@ -2097,8 +1981,11 @@ http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&xplor HD" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",&XPLOR HD
+http://watchindia.net:8880/live/vvv/vvv/2204.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", Colors Cineplex
-******ERROR
+http://humiptv.live:8080//live/500757885/3356646354/18975.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", Yupp Thirai HD
 http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
@@ -2108,10 +1995,19 @@ http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", &PICTURES
-http://103.55.144.46/hls/andpictures.m3u8
+http://watchindia.net:8880/live/vvv/vvv/783.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", Zing Asia
 ******ERROR
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳" tvg-id="" tvg-name="", BOLLYWOOD HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/2078.t
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮" tvg-id="116" tvg-name="116",Colors Hindi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18fe29fdda1b4ca306b4d8f08786fd10:47f6fa3ca0462021aa1c0c09253ece58
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 
 
 <noscript>
