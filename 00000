@@ -302,7 +302,30 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 #EXTINF:-1 tvg-id="CHN" ch-number="" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇲🇾 MALAY 886 🇲🇾",SUKE TV
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
+#EXTINF:-1 group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="118" tvg-id="118" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",118 Inspirasi
+https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
+#EXTINF:-1 group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="116" tvg-id="116" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",116 Sensasi
+https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
+#EXTINF:-1 group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="120" tvg-id="120" ch-number="120" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", DEGUP
+https://aqfadtv.xyz/live/unifitv/degup/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTRkNjZkMjgtOTY5Mi0zY2JiLTkxOTktNDkzMmE3MjAxYjQy
+#EXTINF:-1 group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="121" tvg-id="121" ch-number="121" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", SIAR
+https://aqfadtv.xyz/live/unifitv/siar/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+#EXTINF:-1 group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="128" tvg-id="128" ch-number="128" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", DUNIA SINEMA HD
+https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 ###### TV SINGAPORE ########
 
@@ -919,19 +942,20 @@ http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924692
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 2
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924693
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 3
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924695
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 4
+
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924696
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 5
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924694
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 6
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924697
 
-#EXTINF:-1 group-title="MOVIES 2",US| 24/7 HBO MAX 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥", group-title="MOVIES 2",US| 24/7 HBO MAX 1
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924705
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 HBO MAX A
