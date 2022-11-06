@@ -596,67 +596,67 @@ https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 ###### ASTRO TAMIL ########
 
 
-#EXTINF:-1 tvg-id="AstroVaanavil" ch-number="201" group-title=="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Astro Vaanavil
+#EXTINF:-1 tvg-id="AstroVaanavil" ch-number="201" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Astro Vaanavil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2309
 https://aqfadtv.xyz/live/vaanavil/index.mpd
 # https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
-#EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title=="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Astro Vinmeen HD
+#EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Astro Vinmeen HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2105
 # https://linears-playback.astro.com.my/vsg/41eMhI4QyeFWjMWsv49tqwkqotPKUUB12aAl3ajwJrq6Q=f1tf/dash-wv/jitp-linearwm/2105/default_primary.mpd
 https://aqfadtv.xyz/live/vinmeen/index.mpd
 
-#EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title=="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Astro Vellithirai
+#EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Astro Vellithirai
 # https://onedrive.aqfadtv.xyz/api/raw/?path=/expired.mp4&raw=true
 
-#EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title=="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Sun TV HD
+#EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2310
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 
-#EXTINF:-1 tvg-id="SunMusic" ch-number="212" group-title=="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Sun Music HD
+#EXTINF:-1 tvg-id="SunMusic" ch-number="212" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5011
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Adithya" ch-number="214" group-title=="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Adithiya
+#EXTINF:-1 tvg-id="Adithya" ch-number="214" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Adithiya
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/915
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
 
-#EXTINF:-1 tvg-id="SunNews" ch-number="215" group-title=="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Sun News
+#EXTINF:-1 tvg-id="SunNews" ch-number="215" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Sun News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5087
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
 
-#EXTINF:-1 tvg-id="KTV" ch-number="216" group-title=="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", KTV
+#EXTINF:-1 tvg-id="KTV" ch-number="216" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", KTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5088
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
 
-#EXTINF:-1 tvg-id="SunLife" ch-number="217" group-title=="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Sun Life
+#EXTINF:-1 tvg-id="SunLife" ch-number="217" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Sun Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5089
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
 
-#EXTINF:-1 tvg-id="StarVijay" ch-number="221" group-title=="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Star Vijay HD
+#EXTINF:-1 tvg-id="StarVijay" ch-number="221" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2707
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
-#EXTINF:-1 tvg-id="ColorsTamilHD" ch-number="222" group-title=="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Colors Tamil HD
+#EXTINF:-1 tvg-id="ColorsTamilHD" ch-number="222" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Colors Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2101
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
-#EXTINF:-1 tvg-id="ZeeTamilHD" ch-number="223" group-title=="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Zee Tamil HD
+#EXTINF:-1 tvg-id="ZeeTamilHD" ch-number="223" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Zee Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2311
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
-#EXTINF:-1 tvg-id="BoxOfficeThangathirai" ch-number="241" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title=="🇮🇳 INDIA 886 🇮🇳", ABO Thangathirai HD
+#EXTINF:-1 tvg-id="BoxOfficeThangathirai" ch-number="241" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳", ABO Thangathirai HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
