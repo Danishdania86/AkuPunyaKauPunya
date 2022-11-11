@@ -2009,48 +2009,48 @@ https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ie
 ###### BOLLYWOOD #####
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", BOLLYWOOD 886 🇮🇳", B4U MOVIES 
-http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", BOLLYWOOD 886 🇮🇳", ZEE BIOSKOP
-https://live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",Sony Max HD
+https://rajveermahida.ml/trash/zilo/live.php?c=Sony_Max_HD&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", Star Gold HD India
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",Zee Cinema HD
+https://rajveermahida.ml/trash/zilo/live.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", Sony Max 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",Sony HD
+https://rajveermahida.ml/trash/zilo/live.php?c=Sony_HD&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&xplor HD" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",&XPLOR HD
-http://watchindia.net:8880/live/vvv/vvv/2204.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",Zee TV HD
+https://rajveermahida.ml/trash/zilo/live.php?c=Zee_TV_HD&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", Colors Cineplex
-http://humiptv.live:8080//live/500757885/3356646354/18975.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",B4U Movies
+https://rajveermahida.ml/trash/zilo/live.php?c=B4U_Movies&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", Yupp Thirai HD
-http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",Zee Bollywood
+https://rajveermahida.ml/trash/zilo/live.php?c=Zee_Classic&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", Zee Cinema Asia
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",Zee Action
+https://rajveermahida.ml/trash/zilo/live.php?c=Zee_Actio&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", &PICTURES
-http://watchindia.net:8880/live/vvv/vvv/783.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",Zee Anmol Cinema
+https://rajveermahida.ml/trash/zilo/live.php?c=Zee_Anmol_Cinema&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", Zing Asia
-******ERROR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",B4U Music
+https://rajveermahida.ml/trash/zilo/live.php?c=B4U_Music&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳" tvg-id="" tvg-name="", BOLLYWOOD HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kkuu12.wanicelife.com:8880//live/12m0310011/24459653/2078.t
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",ZOOM
+https://rajveermahida.ml/trash/zilo/live.php?c=Zoom&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳" tvg-id="116" tvg-name="116",Colors Hindi HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18fe29fdda1b4ca306b4d8f08786fd10:47f6fa3ca0462021aa1c0c09253ece58
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",MTV
+https://rajveermahida.ml/trash/zilo/live.php?c=MTV&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",Colors Cineplex
+https://rajveermahida.ml/trash/zilo/live.php?c=Colors_Cineplex&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",And Pictures HD
+https://rajveermahida.ml/trash/zilo/live.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
+
+
+
 
 
 <noscript>
