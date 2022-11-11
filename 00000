@@ -153,7 +153,7 @@ https://aqfadtv.xyz/live/ria/index.mpd
 https://stream.zeehanzgadget.com/ria.mpd
 
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA
+#EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
 # https://linears-playback.astro.com.my/vsg/41iHxFdzNWPpdT5cA7TKBm9J1ELfM7GimuUJXreKvKD24=pQxl/dash-wv/jitp-linearwm/2700/default_primary.mpd
