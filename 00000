@@ -421,7 +421,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 @EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🐿️ KIDZ 886 🐿️",Horee!
 http://tvn.x10.mx/1/master-4.m3u8?dl=1
 
-#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="KIDS",Disney Channel US
+#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🐿️ KIDZ 886 🐿️",Disney Channel US
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium312/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
