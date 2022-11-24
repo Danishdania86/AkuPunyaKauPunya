@@ -31,13 +31,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 1
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924692
-
-
-#EXTINF:-1 tvg-id="beINSportsCanada.ca" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ EXTRA SPORTS 886 ⚽",beIN Sports HD USA
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
+#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ EXTRA SPORTS 886 ⚽",SuperSport LaLiga
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium425/index.m3u8
+https://webudi.openhd.lol/lb/premium415/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+
+
