@@ -145,17 +145,17 @@ https://aqfadtv.xyz/live/ria/index.mpd
 #EXTINF:-1 tvg-id="104" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-id="",ASTRO RIA ⁽ᴮᵃᶜᵏᵘᵖ⁾  
 #https://linears-playback.astro.com.my/vsg/21hSTreDoP4JkZi8acBSiqbX82trGaE4JgYHlYpREKJtA=EKzD/dash-wv/jitp-linearwm/1004/default_ott.mpd
 #https://ktiptv.cf:443/161/161/694460
-https://stream.zeehanzgadget.com/ria.mpd
-
+#https://stream.zeehanzgadget.com/ria.mpd
+####ERROR
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f437ad29765f253325a84298d9f0d10:d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-id="104" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-id="",ASTRO RIA ⁽ᴮᵃᶜᵏᵘᵖ⁾.   
 #https://linears-playback.astro.com.my/vsg/21hSTreDoP4JkZi8acBSiqbX82trGaE4JgYHlYpREKJtA=EKzD/dash-wv/jitp-linearwm/1004/default_ott.mpd
-https://ktiptv.cf:443/161/161/694460
+#https://ktiptv.cf:443/161/161/694460
 #https://stream.zeehanzgadget.com/ria.mpd
-
+####ERROR
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -216,7 +216,14 @@ https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 https://aqfadtv.xyz/live/tv1/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-chno="104" tvg-name="TV2" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TV2 
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711
+https://aqfadtv.xyz/live/tv1/index.mpd
+
+#EXTINF:-1 tvg-id="TV2" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="102" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TV2 (B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3
@@ -319,6 +326,11 @@ https://aqfadtv.xyz/live/okey/index.mpd
 #https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
+#EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TVS (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5021
+https://aqfadtv.xyz/live/tvs/index.mpd
+
 #EXTINF:-1 tvg-id="CHN" ch-number="" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇲🇾 MALAY 886 🇲🇾",SUKE TV
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
 
@@ -355,8 +367,8 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 #EXTINF:-1  tvg-id="Ch 5" group-title="🇸🇬 MEDIACORP 886 🇸🇬" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CHANNEL 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/316e8644-f2c1-4a8c-80b5-4cadf397f4c9
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
+https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
 
 #EXTINF:-1 tvg-id="Ch 8" group-title="🇸🇬 MEDIACORP 886 🇸🇬" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CHANNEL 8 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -874,6 +886,11 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+#EXTINF:-1 tvg-id="HBO" ch-number="411" group-title="🍿 MOVIES 886 🍿" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",HBO FHD (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
+https://aqfadtv.xyz/hbogo/hbo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", HBO FAMILY 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
