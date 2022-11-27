@@ -215,10 +215,10 @@ https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711
 https://aqfadtv.xyz/live/tv1/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="104" tvg-name="TV2" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TV2 
+#EXTINF:-1 tvg-id="TV2" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="102" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711
-https://aqfadtv.xyz/live/tv1/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5027
+https://aqfadtv.xyz/live/tv2/index.mpd
 
 #EXTINF:-1 tvg-id="TV2" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="102" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TV2 (B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -232,7 +232,7 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TV3 ⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TV3 (B)
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
@@ -303,6 +303,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 #EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO OASIS HD 
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfVTNhMdGOCWgSdHkrMLDr-g
+
+#EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO OASIS (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2505
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/IndonesiaMovieChannels-HD
