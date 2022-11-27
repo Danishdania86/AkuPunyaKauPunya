@@ -918,7 +918,9 @@ https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #EXTINF:-1 tvg-id="HBO" ch-number="411" group-title="🍿 MOVIES 886 🍿" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",HBO FHD (B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
-https://aqfadtv.xyz/hbogo/hbo/index.m3u8
+# http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+# https://aqfadtv.xyz/hbogo/hbo/index.m3u8
+https://aqfadtv.xyz/live/hbo/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", HBO FAMILY 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
