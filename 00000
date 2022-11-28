@@ -968,11 +968,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", THRILL (Sub Indo)
 https://av-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", WARNER TV 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8300c66236b3057410cde9cf0970910&key=f3787e40b34f18ab2dccd809e78ceec1
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", WARNER TV (Sub Indo)
+https://av-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", WARNER TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -995,10 +995,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e5
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", HALLMARK MOVIES & MORE (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#####ERROR
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", ACTION HOLLYWOOD MOVIES
-http://203.154.177.124:8899/live/ch7/playlist.m3u8
+#http://203.154.177.124:8899/live/ch7/playlist.m3u8
+#####ERROR
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
@@ -1032,14 +1034,16 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?bySCTV|Refere
 ****ERROR
 
 #EXTINF:-1 tvg-id="StarMovies" group-title="🍿 MOVIES 886 🍿" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",STAR MOVIES SELECT
-http://humiptv.live:8080/live/500757885/3356646354/218.ts
+#http://humiptv.live:8080/live/500757885/3356646354/218.ts
+****ERROR
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", SONY PIX 
-https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
+#https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 #http://live.flixhub.net/hls/sonypixhd.m3u8
+****ERROR
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", &FLIX 
 #EXTVLCOPT:http-referrer=https://tvstream.fun/jtv/play.php?c=And_Flix_HD
@@ -1059,7 +1063,8 @@ https://aqfadtv.xyz/live/&flix/index.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", M&X
-http://103.55.144.46/hls/mnx-hd.m3u8
+#http://103.55.144.46/hls/mnx-hd.m3u8
+****ERROR
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", Hi-YAH!
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
