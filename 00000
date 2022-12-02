@@ -1853,27 +1853,55 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="WC2022-1" group-title="⚽ W.C.P 886 ⚽" ch-number="825" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",WC2022 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5090
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5090/default_primary.mpd
 
-#EXTINF:-1 tvg-id="WC2022-2" group-title="⚽ W.C.P 886 ⚽" ch-number="826" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",WC2022 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5091
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5091/default_primary.mpd
-
-#EXTINF:-1 tvg-id="WC2022-1" group-title="⚽ W.C.P 886 ⚽" ch-number="825" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",WC2022 1 (B)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-1/
-https://dq4ixj4w2vjju.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTczMjE4MCwiaWF0IjoxNjY5MTI3MzgwfQ.7k2sUvapEG3NIfa0K4VLGpFVB9rW7amUWhI0MjFc9q0
-
-#EXTINF:-1 tvg-id="WC2022-2" group-title="⚽ W.C.P 886 ⚽" ch-number="826" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",WC2022 2 (B)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-2/
-https://d2o8qbnewx81s3.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTczMjE4MCwiaWF0IjoxNjY5MTI3MzgwfQ.7k2sUvapEG3NIfa0K4VLGpFVB9rW7amUWhI0MjFc9q0
+######## 🏆 FiFA WORLD CUP 2022 🏆 ##########
 
 
+
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png"group-title="🏆 FiFA WORLD CUP 2022 🏆",ASTRO FIFA WORLD CUP 
+https://webudi.openhd.lol/lb/premium294/index.m3u8?|Referer=eplayer.click/
+
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png"group-title="🏆 FiFA WORLD CUP 2022 🏆",SUPER SPORT WORLD CUP CENTRE 
+https://webudi.openhd.lol/lb/premium413/index.m3u8?|Referer=eplayer.click/
+
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png"group-title="🏆 FiFA WORLD CUP 2022 🏆",SPORT TV 1
+https://webudi.openhd.lol/lb/premium49/index.m3u8?|Referer=eplayer.click/
+
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png"group-title="🏆 FiFA WORLD CUP 2022 🏆",SPORT TV 2 
+https://webudi.openhd.lol/lb/premium74/index.m3u8?|Referer=eplayer.click/
+
+#EXTINF:-1tvg-logo=""https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png"group-title="🏆 FiFA WORLD CUP 2022 🏆",TSN 1
+https://webudi.openhd.lol/lb/premium111/index.m3u8?|Referer=eplayer.click/
+
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png"group-title="🏆 FiFA WORLD CUP 2022 🏆",TSN 2
+https://webudi.openhd.lol/lb/premium112/index.m3u8?|Referer=eplayer.click/
+
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png"group-title="🏆 FiFA WORLD CUP 2022 🏆",ITV 1
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webudi.openhd.lol/ddy1/premium350/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png"group-title="🏆 FiFA WORLD CUP 2022 🏆,FOX SPORT 1 
+https://webudi.openhd.lol/lb/premium39/index.m3u8?|Referer=https://eplayer.click/
+
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png"group-title="🏆 FiFA WORLD CUP 2022 🏆",BEIN SPORT 1 ENGLISH
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=61
+https://webudi.openhd.lol/lb/premium61/index.m3u8
+
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png"group-title="🏆 FiFA WORLD CUP 2022 🏆",SKY SPORT PREMIER LEAGUE
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=130
+https://webudi.openhd.lol/lb/premium130/index.m3u8
+
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png"group-title="🏆 FiFA WORLD CUP 2022 🏆",BT SPORT 1 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=31BT Sport
+https://webudi.openhd.lol/lb/premium31/index.m3u8
+
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png"group-title="🏆 FiFA WORLD CUP 2022 🏆",BT SPORT 2 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=32
+https://webudi.openhd.lol/lb/premium32/index.m3u8
+
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png"group-title="🏆 FiFA WORLD CUP 2022 🏆",BT SPORT 4 ESPN
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=34
+https://webudi.openhd.lol/lb/premium34/index.m3u8
 
 ####### MOVIES CHINESE  MIX ##########
 
