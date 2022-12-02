@@ -1858,48 +1858,48 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
 
 
 
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",ASTRO FIFA WORLD CUP 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",ASTRO FIFA WORLD CUP 
 https://webudi.openhd.lol/lb/premium294/index.m3u8?|Referer=eplayer.click/
 
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",SUPER SPORT WORLD CUP CENTRE 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",SUPER SPORT WORLD CUP CENTRE 
 https://webudi.openhd.lol/lb/premium413/index.m3u8?|Referer=eplayer.click/
 
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",SPORT TV 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",SPORT TV 1
 https://webudi.openhd.lol/lb/premium49/index.m3u8?|Referer=eplayer.click/
 
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",SPORT TV 2 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",SPORT TV 2 
 https://webudi.openhd.lol/lb/premium74/index.m3u8?|Referer=eplayer.click/
 
-#EXTINF:-1tvg-logo=""https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",TSN 1
+#EXTINF:-1 tvg-logo=""https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",TSN 1
 https://webudi.openhd.lol/lb/premium111/index.m3u8?|Referer=eplayer.click/
 
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",TSN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",TSN 2
 https://webudi.openhd.lol/lb/premium112/index.m3u8?|Referer=eplayer.click/
 
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",ITV 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",ITV 1
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://webudi.openhd.lol/ddy1/premium350/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆,FOX SPORT 1 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆,FOX SPORT 1 
 https://webudi.openhd.lol/lb/premium39/index.m3u8?|Referer=https://eplayer.click/
 
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",BEIN SPORT 1 ENGLISH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",BEIN SPORT 1 ENGLISH
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=61
 https://webudi.openhd.lol/lb/premium61/index.m3u8
 
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",SKY SPORT PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",SKY SPORT PREMIER LEAGUE
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=130
 https://webudi.openhd.lol/lb/premium130/index.m3u8
 
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",BT SPORT 1 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=31BT Sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",BT SPORT 1 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=31BT 
 https://webudi.openhd.lol/lb/premium31/index.m3u8
 
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",BT SPORT 2 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",BT SPORT 2 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=32
 https://webudi.openhd.lol/lb/premium32/index.m3u8
 
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",BT SPORT 4 ESPN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",BT SPORT 4 ESPN
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=34
 https://webudi.openhd.lol/lb/premium34/index.m3u8
 
