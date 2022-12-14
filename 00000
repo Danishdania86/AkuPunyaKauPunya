@@ -882,26 +882,8 @@ https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png"group-title="Korean", tvN Movies HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
-#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",JTBC
-http://mytv.dothome.co.kr/ch/catv/211.php
-
 #EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MBC
 http://mytv.dothome.co.kr/ch/public/21.php
-
-#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",KBS 1TV
-http://mytv.dothome.co.kr/ch/public/1.php
-#http://220.95.92.160:9981/stream/channelid/660474352
-http://222.109.117.27:9981/stream/channelid/2133459073
-http://183.99.22.189:9981/stream/channelid/983691437
-
-#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",KBS 2TV
-http://mytv.dothome.co.kr/ch/public/3.php
-
-#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",KBS Joy
-http://mytv.dothome.co.kr/ch/catv/243.php
-
-#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",KBS Life
-http://mytv.dothome.co.kr/ch/catv/1.php
 
 #EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SBS
 https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
@@ -914,9 +896,6 @@ http://106.246.182.11:9981/stream/channelid/27
 #EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SBS Plus
 https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=sbs&i=S03
 http://106.246.182.11:9981/stream/channelid/32
-
-#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MNet
-http://106.246.182.11:9981/stream/channelid/62
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
