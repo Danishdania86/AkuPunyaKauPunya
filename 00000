@@ -840,55 +840,92 @@ https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5
 
 
 
-#EXTINF:-1 tvg-id="" tvg-chno="601" tvg-name="Arirang" radio="false" catchup="default" group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ARIRANG 
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ONE HD (A)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="600" tvg-name="ONE" radio="false" group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ONE 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba8842e119ee61ac7c613e1e6a1e3e10&key=46ed2370a8cc4cef2665e03e110f9455
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2702
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ONE HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+http://iptv12k.com:35461/80201100806/423322/711
 
-#EXTINF:-1 tvg-id="" tvg-chno="601" tvg-name="ONE" radio="false" group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ONE 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2306
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", KBS World HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9983
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", K-Plus HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", tvN HD (A)
+https://av-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="602" tvg-name="tvN" radio="false" group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TVN 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c1269a58571f4528d585fdccbf8fa510&key=615d2dcc24a8fa6a7342185a6fcb1615
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1001
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", tvN HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="603" tvg-name="tvN" radio="false" group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TVN 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", tvN Movies HD (A)
+https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="604" tvg-name="tvN Movies" radio="false" group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TVN MOVIES 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4667aa2bb9d080471f43e03d40868c10&key=116db8fda0a62355cf24c6acb6aab03d
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png"group-title="Korean", tvN Movies HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="605" tvg-name="tvN Movies" radio="false" group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TVN MOVIES 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",JTBC
+http://mytv.dothome.co.kr/ch/catv/211.php
 
-#EXTINF:-1 tvg-id="" tvg-chno="606" tvg-name="KBS World" radio="false" group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",KBS WORLD 
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MBC
+http://mytv.dothome.co.kr/ch/public/21.php
+
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",KBS 1TV
+http://mytv.dothome.co.kr/ch/public/1.php
+#http://220.95.92.160:9981/stream/channelid/660474352
+http://222.109.117.27:9981/stream/channelid/2133459073
+http://183.99.22.189:9981/stream/channelid/983691437
+
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",KBS 2TV
+http://mytv.dothome.co.kr/ch/public/3.php
+
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",KBS Joy
+http://mytv.dothome.co.kr/ch/catv/243.php
+
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",KBS Life
+http://mytv.dothome.co.kr/ch/catv/1.php
+
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SBS
+https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
+http://222.109.117.27:9981/stream/channelid/2096368258
+
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SBS FunE
+https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=sbs&i=S04
+http://106.246.182.11:9981/stream/channelid/27
+
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SBS Plus
+https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=sbs&i=S03
+http://106.246.182.11:9981/stream/channelid/32
+
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MNet
+http://106.246.182.11:9981/stream/channelid/62
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=76ac661111eadf6ffde0dcdbd16fcb10&key=24b391c868de298804403a024e6ce7de
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Sony GEM
+https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="608" tvg-name="KPlus" radio="false" group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",KPLUS 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ddd9708a62b9e2eb44448dd1a6841310&key=0b248e71fef0c27988fa10049b32f309
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+#EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",K-DAILY TV
+https://asrazunifi.ddns.net:8443/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="610" tvg-name="Oh!K" radio="false" group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",OH!K 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1dcd711054d1b3e2b16b41e2446d8c10&key=f0b97c062a990e4b99cfed4527aed878
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_ott.mpd
 
 #EXTINF:-1 group-title="🇰🇷 KOREA 886 🇰🇷" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",NEW TVKMOVIES
 #KODIPROP:inputstream=inputstream.adaptive
