@@ -1140,167 +1140,160 @@ http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924711
 ##### LIFESTYLE #####
 
 
-#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO TVIQ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0eba51d1df133870b96cc21d0967bf10&key=09eadcb36d84926d1fe167869ae42e4b
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5030/default_ott.mpd
-
-#EXTINF:-1 tvg-id="709" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-title="Knowledge",ASIAN FOOD NETWORK
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASIAN FOOD NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500
 http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 
-#EXTINF:-1 tvg-id="717" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png" group-title="Knowledge",BBC LIFESTYLE
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",BBC LIFESTYLE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 
-#EXTINF:-1 tvg-id="716" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png" group-title="Knowledge",DMAX
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",DMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
 
-#EXTINF:-1 tvg-id="716" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png" group-title="Knowledge",DMAX (A)
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",DMAX (B)
 http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
 
-
-#EXTINF:-1 tvg-id="708" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png" group-title="Knowledge",FOOD NETWORK
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",FOOD NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 
-#EXTINF:-1 tvg-id="715" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png" group-title="Knowledge",HGTV
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2502
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
 
-#EXTINF:-1 tvg-id="707" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-title="Knowledge",TLC
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2709
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
 
-#EXTINF:-1 tvg-id="556" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-title="Knowledge",ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ANIMAL PLANET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051
-#EXTINF:-1 tvg-id="554" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Earth.png" group-title="Knowledge",BBC EARTH
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",BBC EARTH
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 
-#EXTINF:-1 tvg-id="552" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" group-title="Knowledge",DISCOVERY HD
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",DISCOVERY HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2510
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
 
-#EXTINF:-1 tvg-id="553" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-title="Knowledge",DISCOVERY ASIA
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",DISCOVERY ASIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 http://iptv12k.com:35461/80201100806/423322/300
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" group-title="Knowledge",DISCOVERY SCIENE
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",DISCOVERY SCIENE
 http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
 http://iptv12k.com:35461/80201100806/423322/299
 
-EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Knowledge", DISCOVERY TURBO
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", DISCOVERY TURBO
 http://iptv12k.com:35461/80201100806/423322/7590
 
-#EXTINF:-1 tvg-id="555" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png" group-title="Knowledge",HISTORY
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/604
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/600
-#EXTINF:-1 tvg-id="551" tvg-logo="http://linear-poster.astro.com.my/prod/logo/National_Geographic_v1.png" group-title="Knowledge",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",NATIONAL GEOGRAPHIC HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
 
-#EXTINF:-1 tvg-id="550" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NatGeo_WILD_V3.png" group-title="Knowledge",NAT GEO WILD
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",NAT GEO WILD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2103
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2111
-#EXTINF:-1 tvg-id="714" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CI_v1.png" group-title="Knowledge",CRIME+INVESTIGATION
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CRIME+INVESTIGATION
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
-EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="Knowledge",HISTORY 2
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",HISTORY 2
 http://iptv12k.com:35461/80201100806/423322/295
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Knowledge",Love Nature
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="LifestyleFashion.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Lifestyle_%26_Fashion_%282020%29.jpeg" group-title="Knowledge",LIFESTYLE & FASHION
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",LIFESTYLE & FASHION
 https://av-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="NationalGeographicWildAsia.us" group-title="Knowledge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png",NAT GEO WILD HD (A)
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",NAT GEO WILD HD (B)
 https://av-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="NationalGeographicAsia.us" group-title="Knowledge" tvg-logo="http://linear-poster.astro.com.my/prod/logo/National_Geographic_v1.png",NATIONAL GEOGRAPHIC HD (A)
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",NATIONAL GEOGRAPHIC HD (B)
 https://av-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="DiscoveryChannelSoutheastAsia.us" group-title="Knowledge" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png",DISCOVERY HD (A)
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",DISCOVERY HD (B)
 https://av-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
-#EXTINF:-1 tvg-ID="HistoryAsia.us" group-title="Knowledge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",HISTORY (A)
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",HISTORY (B)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://av-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="AnimalPlanetSoutheastAsia.us" group-title="Knowledge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_203.png",ANIMAL PLANET (A)
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ANIMAL PLANET (B)
 https://av-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
-#EXTINF:-1 tvg-id="TLCSoutheastAsia.us" group-title="Knowledge" tvg-logo="https://api.discovery.com/v1/images/558c1c396b66d1023309e791?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",TLC (A)
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png"TLC (B)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://av-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
-#EXTINF:-1 tvg-id="HGTVAsia.us" group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV (A)
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",HGTV (B)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://av-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
-#EXTM3U billed-msg="🔥Free Not For Sale, DILARANG URUSNIAGA GUNA PLAYLIST INI, PRIVATE USE ONLY🔥"
-#EXTINF:-1 tvg-id="BBCEarthAsia.uk" group-title="Knowledge" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png",BBC Earth (A)
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",BBC Earth (B)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://av-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="Knowledge" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",Crime & Investigation (A)
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Crime & Investigation (B)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://av-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Knowledge",Cgtn Documentary
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Cgtn Documentary
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://av-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
-#EXTINF:-1 tvg-id="HistoryAsia.us" group-title="Knowledge" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",History (B)
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",History (B)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://av-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1 tvg-id="HistoryAsia.us" group-title="Knowledge" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",History Asia
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",History Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://av-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-title="Knowledge",Asian Food Network (A)
+#EXTINF:-1 tvg-id="" tvg-chno="1000" tvg-name="Astro TVIQ" radio="false" group-title="🌼 LIFESTYLE & KNOWLEDGE 886 🌼" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Asian Food Network (B)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://av-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
