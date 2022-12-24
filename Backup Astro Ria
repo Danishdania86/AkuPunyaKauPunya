@@ -31,3 +31,9 @@ http://line.premiumpowers.net:80/Manuel/1234567/316988
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAY",ASTRO RIA
 http://line.premiumpowers.net:80/Manuel/1234567/571276
+
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAY",5
+http://line.premiumpowers.net:80/Dave2022/Dave2022/941615
+
+
+
