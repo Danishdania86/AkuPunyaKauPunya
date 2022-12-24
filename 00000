@@ -170,7 +170,7 @@ https://aqfadtv.xyz/live/ria/index.mpd
 #https://stream.zeehanzgadget.com/ria.mpd
 ####ERROR
 
-#EXTINF:-1 tvg-id="" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO FIRST
+#EXTINF:-1 tvg-id="" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", ASTRO FIRST
 http://hotz.vip:2082/live/haziqdanial/abc12345/3252.m3u8
 
 #EXTINF:-1 tvg-id="" ch-number="" group-title="🍿 MOVIES 886 🍿" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", HORROR
