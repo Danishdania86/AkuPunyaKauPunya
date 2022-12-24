@@ -173,11 +173,11 @@ https://aqfadtv.xyz/live/ria/index.mpd
 #EXTINF:-1 tvg-id="" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", ASTRO FIRST
 http://hotz.vip:2082/live/haziqdanial/abc12345/3252.m3u8
 
-#EXTINF:-1 tvg-id="" ch-number="" group-title="🍿 MOVIES 886 🍿" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", HORROR
+#EXTINF:-1 tvg-id="" ch-number="" group-title="🍿 MOVIES 886 🍿" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", ASTRO HORROR
 http://hotz.vip:2082/live/haziqdanial/abc12345/3259.m3u8
 
 #EXTINF:-1 tvg-id="" ch-number="" group-title="🍿 MOVIES 886 🍿" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", FIRST BEST
-http://hotz.vip:2082/live/haziqdanial/abc12345/3522.m3u8
+#http://hotz.vip:2082/live/haziqdanial/abc12345/3522.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA
 http://w.nasvpn.xyz:8080/live/saya/saya/172.ts
