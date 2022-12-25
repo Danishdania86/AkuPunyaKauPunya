@@ -28,3 +28,26 @@ http://line.premiumpowers.net:80/Manuel/1234567/941634
 
 #EXTINF:-1 group-title="",HUB SPORTS 5
 http://line.premiumpowers.net:80/Manuel/1234567/941582
+
+Arena-2,
+
+#EXTINF:-1 group-title="",Arena 1
+http://w.nasvpn.xyz:8080/live/saya/saya/4130.m3u8
+
+#EXTINF:-1 group-title="",Arena 2
+P2p://ns3.hellotvvod.com:9906/7240c8b2f807418cba5b78712fee42cf
+
+#EXTINF:-1 group-title="",Arena 3
+P2p://ns3.hellotvvod.com:9906/390eb6dd86a84186b62ccb5fc0bda391
+
+#EXTINF:-1 group-title="",Arena 4
+http://xiptv.vip:80/123456789/123456/172338
+
+#EXTINF:-1 group-title="",Arena 5
+http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
+
+#EXTINF:-1 group-title="",Arena 6
+http://iptv12k.com:35461/8032022060101/452381/965
+
+#EXTINF:-1 group-title="",Arena 7
+http://syok.tv:2082/1122/1122/123#https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8
