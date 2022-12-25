@@ -5,3 +5,24 @@
 
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAY",ASTRO RIA 
 http://line.premiumpowers.net:80/Dave2022/Dave2022/559541
+
+#EXTINF:-1 group-title="",HUB SPORTS 4
+http://line.premiumpowers.net:80/Manuel/1234567/941571
+
+#EXTINF:-1 group-title="",HUB SPORTS 2
+http://line.premiumpowers.net:80/Manuel/1234567/941572
+
+#EXTINF:-1 group-title="",HUB SPORTS 1
+http://line.premiumpowers.net:80/Manuel/1234567/941573
+
+#EXTINF:-1 group-title="",STARHUB
+http://line.premiumpowers.net:80/Manuel/1234567/941565
+
+#EXTINF:-1 group-title="",STARHUB2
+http://line.premiumpowers.net:80/Manuel/1234567/941566
+
+#EXTINF:-1 group-title="",HUB都会
+http://line.premiumpowers.net:80/Manuel/1234567/941633
+
+#EXTINF:-1 group-title="",HUB娱家
+http://line.premiumpowers.net:80/Manuel/1234567/941634
