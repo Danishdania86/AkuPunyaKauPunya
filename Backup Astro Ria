@@ -54,3 +54,9 @@ http://syok.tv:2082/1122/1122/123
 
 #EXTINF:-1 group-title="",Arena 8
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8
+
+#EXTINF:-1 group-title="",Movie 1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+#EXTINF:-1 group-title="",Movie 2
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
