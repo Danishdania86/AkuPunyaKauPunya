@@ -1865,57 +1865,18 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
 
 
 
-######## 🏆 FiFA WORLD CUP 2022 🏆 ##########
+######## 🏆 AFF MITSUBISHI ELECTRIC 2022 🏆 ##########
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 AFF MITSUBISHI ELECTRIC 2022 🏆, AFF MITSUBISHI ELECTRIC 2022
+https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",ASTRO FIFA WORLD CUP 
-https://webudi.openhd.lol/lb/premium294/index.m3u8?|Referer=eplayer.click/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",SUPER SPORT WORLD CUP CENTRE 
-https://webudi.openhd.lol/lb/premium413/index.m3u8?|Referer=eplayer.click/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",SPORT TV 1
-https://webudi.openhd.lol/lb/premium49/index.m3u8?|Referer=eplayer.click/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",SPORT TV 2 
-https://webudi.openhd.lol/lb/premium74/index.m3u8?|Referer=eplayer.click/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",TSN 1
-https://webudi.openhd.lol/lb/premium111/index.m3u8?|Referer=eplayer.click/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",TSN 2
-https://webudi.openhd.lol/lb/premium112/index.m3u8?|Referer=eplayer.click/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",TSN 3
-https://webudi.openhd.lol/lb/premium114/index.m3u8|referer=https://besthdplayer.click/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",ITV 1
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://webudi.openhd.lol/ddy1/premium350/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",FOX SPORT 1 
-https://webudi.openhd.lol/lb/premium39/index.m3u8?|Referer=https://eplayer.click/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",BEIN SPORT 1 ENGLISH
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=61
-https://webudi.openhd.lol/lb/premium61/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",SKY SPORT PREMIER LEAGUE
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=130
-https://webudi.openhd.lol/lb/premium130/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",BT SPORT 1 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=31BT 
-https://webudi.openhd.lol/lb/premium31/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",BT SPORT 2 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=32
-https://webudi.openhd.lol/lb/premium32/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 FiFA WORLD CUP 2022 🏆",BT SPORT 4 ESPN
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=34
-https://webudi.openhd.lol/lb/premium34/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=f5158194cc4044e699d0df01772f2212&key=072e611a383a2d1e3d4d8ea19e016a71
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🏆 AFF MITSUBISHI ELECTRIC 2022 🏆, AFF MITSUBISHI ELECTRIC 2022
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
 ####### MOVIES CHINESE  MIX ##########
 
