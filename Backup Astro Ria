@@ -60,3 +60,9 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
 #EXTINF:-1 group-title="",Movie 2
 https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+
+#EXTINF:-1 group-title="",Movie 3
+http://x01.live:8080/5jpdeCex5H/aW2QpBqZTV/216226,tvming-NULL
+
+#EXTINF:-1 group-title="",Movie 4
+http://x01.live:8080/5jpdeCex5H/aW2QpBqZTV/216227,tvming-NULL
