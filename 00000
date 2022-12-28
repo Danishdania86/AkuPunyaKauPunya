@@ -1096,50 +1096,6 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 
 
-####### MOVIE LIVE #######
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 1
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924692
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 2
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924693
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 3
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924695
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 4
-
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924696
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 5
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924694
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 BOX OFFICE 2022 6
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924697
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥", group-title="MOVIES 2",HBO MAX G
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924705
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 HBO MAX A
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924706
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 HBO MAX B
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924707
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 HBO MAX C
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924708
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 HBO MAX D
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924709
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 HBO MAX E
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924710
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",US| 24/7 HBO MAX F
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924711
-
-
-
 ##### LIFESTYLE #####
 
 
@@ -1305,38 +1261,6 @@ https://av-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 ########## TV AGAMA ##########
 
 #EXTINF:-1 tvg-id="" tvg-chno="1100" tvg-name="tvMU" radio="false" group-title="🕋 RELIGOUS 886 🕋" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TVMU 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
-
-#EXTINF:-1 tvg-id="" tvg-chno="1101" tvg-name="tv9 Nusantara" radio="false" group-title="🕋 RELIGOUS 886 🕋" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TV9 NUSANTARA 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
-
-#EXTINF:-1 tvg-id="" tvg-chno="1102" tvg-name="Muslim TV" radio="false" group-title="🕋 RELIGOUS 886 🕋" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MUSLIM TV 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
-
-#EXTINF:-1 tvg-id="" tvg-chno="1103" tvg-name="Surau TV" radio="false" group-title="🕋 RELIGOUS 886 🕋" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SURAU TV 
-http://119.235.249.58:1935/surautv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-chno="1104" tvg-name="Al Quran Al Kareem TV" radio="false" group-title="🕋 RELIGOUS 886 🕋" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",AL QURAN AL KAREEM TV 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
-
-#EXTINF:-1 tvg-id="" tvg-chno="1105" tvg-name="Tawaf TV" radio="false" group-title="🕋 RELIGOUS 886 🕋" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TAWAF TV 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
-
-#EXTINF:-1 tvg-id="" tvg-chno="1106" tvg-name="Reformed 21" radio="false" group-title="🕋 RELIGOUS 886 🕋" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",REFORMED 21 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://anevia115.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
-
 
 ######### TV BERITA ###########
 
