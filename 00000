@@ -174,26 +174,26 @@ https://aqfadtv.xyz/live/ria/index.mpd
 http://hotz.vip:2082/live/haziqdanial/abc12345/3252.m3u8
 
 #EXTINF:-1 tvg-id="" ch-number="" group-title="🍿 MOVIES 886 🍿" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", ASTRO HORROR
-http://hotz.vip:2082/live/haziqdanial/abc12345/3259.m3u8
+#http://hotz.vip:2082/live/haziqdanial/abc12345/3259.m3u8
 
 #EXTINF:-1 tvg-id="" ch-number="" group-title="🍿 MOVIES 886 🍿" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", FIRST BEST
 #http://hotz.vip:2082/live/haziqdanial/abc12345/3522.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA
-http://w.nasvpn.xyz:8080/live/saya/saya/172.ts
+#http://w.nasvpn.xyz:8080/live/saya/saya/172.ts
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA (B)
-http://w.nasvpn.xyz:8080/live/saya/saya/7877.ts
+#http://w.nasvpn.xyz:8080/live/saya/saya/7877.ts
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA ⁽ᴮᵃᶜᵏᵘᵖ⁾.   
 #https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 ####ERROR
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA
-http://w.nasvpn.xyz:8080/live/saya/saya/7870.ts
+#http://w.nasvpn.xyz:8080/live/saya/saya/7870.ts
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA (B)
-http://w.nasvpn.xyz:8080/live/saya/saya/7807.ts
+#http://w.nasvpn.xyz:8080/live/saya/saya/7807.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
@@ -279,7 +279,7 @@ https://aqfadtv.xyz/live/tv9/index.mpd
 #EXTINF:-1 tvg-id="" tvg-chno="115" tvg-name="Drama Sangat" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",DRAMA SANGAT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dailymotion.com
-https://stream.zeehanzgadget.com/dramasangat
+#https://stream.zeehanzgadget.com/dramasangat
 
 #EXTINF:-1 tvg-id="" tvg-chno="115" tvg-name="Drama Sangat" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",DRAMA SANGAT (B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
