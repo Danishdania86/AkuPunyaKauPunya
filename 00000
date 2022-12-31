@@ -155,11 +155,11 @@ https://aqfadtv.xyz/live/ria/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f437ad29765f253325a84298d9f0d10:d8e36aeb7416a20a124c2d132c8f74f9
-#EXTINF:-1 tvg-id="104" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-id="",ASTRO RIA ⁽ᴮᵃᶜᵏᵘᵖ⁾  
+#EXTINF:-1 tvg-id="104" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-id="",ASTRO RIA (B) 
 #https://linears-playback.astro.com.my/vsg/21hSTreDoP4JkZi8acBSiqbX82trGaE4JgYHlYpREKJtA=EKzD/dash-wv/jitp-linearwm/1004/default_ott.mpd
 #https://ktiptv.cf:443/161/161/694460
 #https://stream.zeehanzgadget.com/ria.mpd
-####ERROR
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -170,30 +170,43 @@ https://aqfadtv.xyz/live/ria/index.mpd
 #https://stream.zeehanzgadget.com/ria.mpd
 ####ERROR
 
+
 #EXTINF:-1 tvg-id="" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", ASTRO FIRST
 http://hotz.vip:2082/live/haziqdanial/abc12345/3252.m3u8
+
 
 #EXTINF:-1 tvg-id="" ch-number="" group-title="🍿 MOVIES 886 🍿" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", ASTRO HORROR
 #http://hotz.vip:2082/live/haziqdanial/abc12345/3259.m3u8
 
+
 #EXTINF:-1 tvg-id="" ch-number="" group-title="🍿 MOVIES 886 🍿" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", FIRST BEST
 #http://hotz.vip:2082/live/haziqdanial/abc12345/3522.m3u8
 
+
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA
 #http://w.nasvpn.xyz:8080/live/saya/saya/172.ts
+http://hotz.vip:2082/live/haziqdanial/abc12345/27.m3u8
+http://hotz.vip:2082/live/haziqdanial/abc12345/28.m3u8
+
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA (B)
 #http://w.nasvpn.xyz:8080/live/saya/saya/7877.ts
+https://stream.zeehanzgadget.com/citra
+
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA ⁽ᴮᵃᶜᵏᵘᵖ⁾.   
 #https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 ####ERROR
 
+
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA
-#http://w.nasvpn.xyz:8080/live/saya/saya/7870.ts
+http://hotz.vip:2082/live/haziqdanial/abc12345/22.m3u8
+http://hotz.vip:2082/live/haziqdanial/abc12345/24.m3u8
+
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA (B)
 http://w.nasvpn.xyz:8080/live/saya/saya/7807.ts
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
