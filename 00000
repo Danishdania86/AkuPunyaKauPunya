@@ -16,6 +16,7 @@
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml, https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml, https://iptv-org.github.io/epg/guides/uy.xml, https://iptv-org.github.io/epg/guides/vn.xml, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://weareblahs.github.io/epg/astro.xml, https://iptv-org.github.io/epg/guides/ca.xml, https://iptv-org.github.io/epg/guides/tr.xml, https://iptv-org.github.io/epg/guides/pt.xml, https://iptv-org.github.io/epg/guides/ro.xml, https://iptv-org.github.io/epg/guides/rs.xml, https://iptv-org.github.io/epg/guides/qa.xml, https://aqfadtv.xyz/epg, https://weareblahs.github.io/epg/rtmklik.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml, https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml"  refresh="3600
 #EXTM3U billed-msg="🔥 ZuLL LiVe STREAM 886 🔥"
 
 ######## RADIO #########
@@ -195,9 +196,10 @@ http://hotz.vip:2082/live/haziqdanial/abc12345/28.m3u8
 https://stream.zeehanzgadget.com/citra
 
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA ⁽ᴮᵃᶜᵏᵘᵖ⁾.   
-#https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
-####ERROR
+#EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA (C)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
+https://is.gd/y4JAN1.mpd
 
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA
@@ -210,15 +212,10 @@ http://w.nasvpn.xyz:8080/live/saya/saya/7807.ts
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
-#EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA ⁽ᴮᵃᶜᵏᵘᵖ⁾.
-# https://linears-playback.astro.com.my/vsg/21hSTreDoP4JkZi8acBSiqbX82trGaE4JgYHlYpREKJtA=EKzD/dash-wv/jitp-linearwm/2402/default_ott.mpd
-# https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
-# http://172.96.160.37:9138/stream/live/c20424.m3u8?idstream=warna
-#https://aqfadtv.xyz/live/warna/index.mpd
-# https://nonton.site:8443/mustakim/mustakim/37335
-####ERROR
-
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
+#EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA (C)
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://is.gd/zMbeYI.mpd
 
 
 ######## ASTRO MELAYU #########
@@ -290,16 +287,10 @@ http://51.79.82.208:16006
 #EXTINF:-1 tvg-id="" tvg-chno="113" tvg-name="TV9" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TV9 (B)
 https://aqfadtv.xyz/live/tv9/index.mpd
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="" tvg-chno="115" tvg-name="Drama Sangat" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",DRAMA SANGAT 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dailymotion.com
-#https://stream.zeehanzgadget.com/dramasangat
-
-#EXTINF:-1 tvg-id="" tvg-chno="115" tvg-name="Drama Sangat" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",DRAMA SANGAT (B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dailymotion.com
-####ERROR
-
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="122" tvg-name="Astro Aura" radio="false" catchup="default" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO AURA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -444,20 +435,20 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🐿️ KIDZ 886 🐿️",Nickelodeon
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2511
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
+https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🐿️ KIDZ 886 🐿️",Nick JR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9982
-http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+https://av-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #EXTINF:-1 tvg-id="MoonbugKids" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" ch-number="618",Moonbug Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5067
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -485,20 +476,11 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
 #https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/512x288_840400/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="203" tvg-name="Animax" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ANIMAX 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
-
-#EXTINF:-1 tvg-id="" tvg-chno="204" tvg-name="Animax" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ANIMAX 
+#EXTINF:-1 tvg-id="" tvg-chno="203" tvg-name="Animax" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-
-#EXTINF:-1 tvg-id="" tvg-chno="207" tvg-name="besmart" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",BESMART 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-id="" tvg-chno="210" tvg-name="CBeebies" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CBEEBIES 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -510,10 +492,10 @@ https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="218" tvg-name="Miao Mi" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Miao Mi 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-chno="218" tvg-name="Miao Mi" radio="false" group-title="🐿️ KIDZ 886 🐿️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Miao Mi 
+https://av-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 #EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-name="Anime All Day" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🐿️ KIDZ 886 🐿️",Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -781,7 +763,83 @@ https://aqfadtv.xyz/live/zeetelugu/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="",&TV
 https://aqfadtv.xyz/live/&tv/index.m3u
 
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="", AUus Tamil
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="",Tamil Vision TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="", Athavan TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="", 3 Tamil
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="",7Star TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="",Sana TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="",Tirumalai TV KARUR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="",EET TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://eu.streamjo.com/eetlive/eettv.m3u8
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="", WORLD TAMIL TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="",HARI TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="",Santhora Short Flim
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="",Santhora TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="",SRI KRISHNA TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 
 
 ######## TV INDONESIA ########
@@ -810,14 +868,14 @@ https://d322b885qvsbxg.cloudfront.net/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8?|R
 #EXTINF:-1 tvg-id="" tvg-chno="510" tvg-name="MNC TV" radio="false" catchup="default" group-title="🇮🇩 INDO 886 🇮🇩" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MNC TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
 #EXTINF:-1 tvg-id="" tvg-chno="510" tvg-name="MNC TV" radio="false" catchup="default" group-title="🇮🇩 INDO 886 🇮🇩" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MNC TV 
 ##https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8?|Referer=https://m.rctiplus.com/
+#https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8?|Referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-id="" tvg-chno="511" tvg-name="MNC Entertainment" radio="false" catchup="default" group-title="🇮🇩 INDO 886 🇮🇩" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MNC ENTERTAINMENT 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -829,6 +887,11 @@ https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-id="" tvg-chno="519" tvg-name="Vision Prime" radio="false" catchup="default" group-title="🇮🇩 INDO 886 🇮🇩" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",VISION PRIME (B)
+https://av-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #EXTINF:-1 tvg-id="TRANS7HD.id" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇩 INDO 886 🇮🇩",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
@@ -850,6 +913,9 @@ https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5
 ##http://tv.zonanime.my.id/vidio/indosiar.m3u8
 ##http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 ##http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/3.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇩 INDO 886 🇮🇩",Citra Bioskop
+https://dl.dropbox.com/s/5ws9vhnr7pf7n2j/CitraDrama.m3u8?dl=1
 
 
 ###### TV KOREA ########
@@ -2362,50 +2428,6 @@ https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🐿️ VOD KIDZ 886 🐿️", Aladin (1993)
 https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ieLWQPdBQWV1pmTwoUUGr8--AEaA6QZEMkKQwQ=m22
 
-
-
-###### BOLLYWOOD #####
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳", BOLLYWOOD 886 🇮🇳", B4U MOVIES 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",Sony Max HD
-#https://rajveermahida.ml/trash/zilo/live.php?c=Sony_Max_HD&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",Zee Cinema HD
-#https://rajveermahida.ml/trash/zilo/live.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",Sony HD
-#https://rajveermahida.ml/trash/zilo/live.php?c=Sony_HD&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",Zee TV HD
-#https://rajveermahida.ml/trash/zilo/live.php?c=Zee_TV_HD&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",B4U Movies
-#https://rajveermahida.ml/trash/zilo/live.php?c=B4U_Movies&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",Zee Bollywood
-#https://rajveermahida.ml/trash/zilo/live.php?c=Zee_Classic&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",Zee Action
-#https://rajveermahida.ml/trash/zilo/live.php?c=Zee_Actio&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",Zee Anmol Cinema
-#https://rajveermahida.ml/trash/zilo/live.php?c=Zee_Anmol_Cinema&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",B4U Music
-#https://rajveermahida.ml/trash/zilo/live.php?c=B4U_Music&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",ZOOM
-#https://rajveermahida.ml/trash/zilo/live.php?c=Zoom&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",MTV
-#https://rajveermahida.ml/trash/zilo/live.php?c=MTV&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",Colors Cineplex
-#https://rajveermahida.ml/trash/zilo/live.php?c=Colors_Cineplex&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 886 🇮🇳",And Pictures HD
-#https://rajveermahida.ml/trash/zilo/live.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
 
 
 ##### TEST TV  #####
