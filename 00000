@@ -763,83 +763,86 @@ https://aqfadtv.xyz/live/zeetelugu/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="",&TV
 https://aqfadtv.xyz/live/&tv/index.m3u
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="", AUus Tamil
+#EXTINF:0 group-title="INDIAN" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUus Tamil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳",Tamil Vision TV
+#EXTINF:0, group-title="INDIAN" tvg-logo="https://imgur.com/jSWRXdg.png",Tamil Vision TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳", Athavan TV
+#EXTINF:0 group-title="INDIAN" tvg-logo="https://imgur.com/LEVEhTH.png", Athavan TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳", 3 Tamil
+#EXTINF:0 group-title="INDIAN" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png", 3 Tamil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳",7Star TV
+#EXTINF:0 group-title="INDIAN" tvg-logo="https://i.imgur.com/EaHWWNl.jpg",7Star TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳",Sana TV
+#EXTINF:0 group-title="INDIAN" tvg-logo="https://i.imgur.com/zAQSZeC.png",Sana TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳",Tirumalai TV KARUR
+#EXTINF:0 group-title="INDIAN" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngU3LWhh8SErFHPH0yKtfsCt4cYrq-EbNnGjICWLA=s88-c-k-c0x00ffffff-no-rj",Tirumalai TV KARUR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳",EET TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="INDIAN",EET TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://eu.streamjo.com/eetlive/eettv.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳", WORLD TAMIL TV
+#EXTINF:0 group-title="INDIAN" tvg-logo="http://www.worldtamil.tv/img/logo.png", WORLD TAMIL TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳",HARI TV
+#EXTINF:0, group-title="INDIAN" tvg-logo="http://haritv.com/images/logo.png",HARI TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳",Santhora Short Flim
+#EXTINF:0 tvg-logo="https://i.imgur.com/kKFfLMd.jpg" group-title="INDIAN",Santhora Short Flim
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳",Santhora TV
+#EXTINF:0, group-title="INDIAN" tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif",Santhora TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳",SRI KRISHNA TV
+#EXTINF:0, group-title="INDIAN" tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png",SRI KRISHNA TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="&tv" tvg-ID="&tv" tvg-logo="https://i.imgur.com/32W50Y6.png" group-title="INDIAN", &tv
+https://tinyurl.com/Andtvzawawi
 
 
 ######## TV INDONESIA ########
