@@ -188,12 +188,7 @@ http://hotz.vip:2082/live/haziqdanial/abc12345/3252.m3u8
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
-#https://is.gd/tnvqld.mpd
-https://is.gd/m0bTXP.mpd
-https://is.gd/ot19l5.mpd
-https://is.gd/tnvqld.mpd
-https://is.gd/bYat2o.mpd
-#https://aqfadtv.xyz/live/citra/index.mpd 
+https://is.gd/Jv5uUI.mpd 
 
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA (B)
@@ -212,13 +207,7 @@ https://is.gd/y4JAN1.mpd
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA 
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://linears-playback.astro.com.my/vsg/41lw3Drv5xmoP56NwM-MHltS6bs1DHNvL19M_3vfvE8so=xKmE/dash-wv/jitp-linearwm/2402/default_ott.mpd
-#https://is.gd/dlqvnt.mpd
-https://is.gd/k7NYuU.mpd
-https://is.gd/Yf6Fg4.mpd
-https://is.gd/dlqvnt.mpd
-https://is.gd/sdf1Qv.mpd
-#https://aqfadtv.xyz/live/warna/index.mpd 
-
+ https://is.gd/Jv5uUI.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA (B)
 http://w.nasvpn.xyz:8080/live/saya/saya/7807.ts
