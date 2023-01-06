@@ -219,7 +219,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #https://is.gd/dlqvnt.mpd
 #https://is.gd/jk8Ft1.mpd
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA (B)
+#EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
