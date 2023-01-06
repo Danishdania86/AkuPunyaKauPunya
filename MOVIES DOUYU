@@ -284,39 +284,47 @@ http://51.81.208.129:35461/80203091402/213445/5075
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD b
 http://51.79.82.208:16010
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD c
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",Astro Warna HD c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5086/
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5086/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD d
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",Astro Warna HD d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5086
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5086/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD e
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",Astro Warna HD e
 http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJX_-tDg=Fj8c/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",Astro Warna HD a
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD s
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",Astro Warna HD s
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06696372068013250537&ct=18379&tsum=21d9bbb4afc068eeb4fa2ff04af3473a
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD r
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",Astro Warna HD r
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06574883079618621042&ct=18379&tsum=ee53b4e78c5216fc253932b36d615594
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD k
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",Astro Warna HD k
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m09682579275017751642&ct=18379&tsum=732e3cc7f6a900ad8e7ac08fcac88c20
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",Astro Warna HD e
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m08333765977116314800&ct=18379&tsum=ba7d0401fcf8d2a886c06d9109857d49
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD w
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES LIVE 886 🎥",Astro Warna HD w
 #EXT-X-STREAM-INF:PROGRAM-ID=10,BANDWIDTH=1200005
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06859194331516046515&ct=18379&tsum=145f79a3fc4821ce01a0a8c1fb8a72d8
 
