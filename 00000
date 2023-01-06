@@ -212,7 +212,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA 
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://linears-playback.astro.com.my/vsg/41lw3Drv5xmoP56NwM-MHltS6bs1DHNvL19M_3vfvE8so=xKmE/dash-wv/jitp-linearwm/2402/default_ott.mpd
-http://51.79.82.208:16010
+#http://51.79.82.208:16010
 #https://is.gd/Jv5uUI.mpd
 #https://is.gd/bOdoHh.mpd
 #https://is.gd/bAngAn.mpd
@@ -220,7 +220,7 @@ http://51.79.82.208:16010
 #https://is.gd/jk8Ft1.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA (B)
-#http://w.nasvpn.xyz:8080/live/saya/saya/7807.ts
+http://51.79.82.208:16010
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
