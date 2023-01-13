@@ -931,7 +931,8 @@ https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/285.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇩 INDO 886 🇮🇩",OKTV
 https://anv-livechannel-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇩 INDO 886 🇮🇩",Citra Dangdut
+https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/149.ts
 
 
 ###### TV KOREA ########
