@@ -534,135 +534,185 @@ https://webudi.openhd.lol/lb/premium312/index.m3u8|ExoPlayerLib/2.13.2=&referer=
 
 ####### ASTRO CHINESE ########
 
-#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="Celestial Movies" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CELESTIAL MOVIES(ASTRO)
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Astro AEC AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=064b474a4851760b3ac81a7e89437410&key=18eea3fcbfb8313f46d1a2c45a573e02
-https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2400
+#https://linears-playback.astro.com.my/dash-wv/jitp-linearwm/2400/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_ott.mpd
+http://iptv12k.com:35461/live/test167/12345/709.m3u8
+http://iptv12k.com:35461/80203091402/213445/709
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="300" tvg-name="Celestial Movies" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CELESTIAL MOVIES (INDO)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-
-#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="CCM" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCM (ASTRO)
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Astro Hua Hee Dai 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1283d2fab34ca094ab1cfd1238476a10&key=edf87dc4bdc835c6daffdd213c8029df
-https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2308
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="302" tvg-name="CCM" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCM (INDO)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-
-#EXTINF:-1 tvg-id="" tvg-chno="302" tvg-name="TVB Classic" radio="false" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⛩️ A.CHINESE 886 ⛩️",TVB CLASSIC (ASTRO)
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",IQIYI HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9481ab597f06bb7fa40cb2364c126210&key=f2b4b15da2544303c44d3ca0b16d3de8
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd?10
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2711
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO XIAO TAI YANG
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Go Shop 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1005
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TVB Classic HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5016
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
-##EXTINF:-1 tvg-id="" tvg-chno="303" tvg-name="Astro AEC" radio="false" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⛩️ A.CHINESE 886 ⛩️",ASTRO AEC (ASTRO)
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-##https://linears-playback.astro.com.my/vsg/219jKwpfp-gQXIKp3ZrLFpPtkIo7wEhyTEuy-HrtY1dyQ=Sfwm/dash-wv/jitp-linearwm/2400/default_ott.mpd
-
-#EXTINF:-1 tvg-id="" tvg-chno="304" tvg-name="Astro Shuang Xing" radio="false" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⛩️ A.CHINESE 886 ⛩️",ASTRO SHUANG XING (ASTRO)
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Astro Shuang Xing AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2019dd03e75adfc2f58ec94eff26d810&key=79dc64991db24e051b3cb7b39e59e8c3
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2403
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="305" tvg-name="TVB Jade" radio="false" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⛩️ A.CHINESE 886 ⛩️",TVB Jade (ASTRO)
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Astro Quan Jia 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=428c1a9941e2570c3e7e5b4973f55010&key=d354bf92d1de1297e92fc2bf14568719
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2507
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
+http://iptv12k.com:35461/live/test167/12345/710.m3u8
+http://iptv12k.com:35461/80203091402/213445/710
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="306" tvg-name="CTI Asia" radio="false" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⛩️ A.CHINESE 886 ⛩️",CTI ASIA (ASTRO)
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Astro Quan Jia (B)
+http://50.7.220.74:8278/Quanjia/playlist.m3u8?tid=MFFF3293542732935427&ct=19226&tsum=27c80d1bed9942e20443c39f523846fb
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Astro Quan Jia HD (B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5712f6638931e8d701daf8b7b0131310&key=7b34f0cfde27af4f2da14380f05a8d1c
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2507
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="307" tvg-name="TVB Entertainment News" radio="false" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⛩️ A.CHINESE 886 ⛩️",TVB ENTERTAINMENT NEWS (ASTRO)
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TVB Jade HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1cd3bd6eb6c49675dc616b30dcf1db10&key=13017770bc552725d1a0ba20fa1a2ddd
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2600
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="308" tvg-name="TVB Xing He" radio="false" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⛩️ A.CHINESE 886 ⛩️",TVB XING HE (ASTRO)
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Astro AOD HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3dd2a2632a196215cc1833487b25b810&key=c3ebe66b4783f3ea4017b63f6b7efe92
-http://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2706
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="309" tvg-name="TVBS News" radio="false" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⛩️ A.CHINESE 886 ⛩️",TVBS NEWS (ASTRO)
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CTI Asia HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=36886a39c10db1d40b475aa8cf7f6b10&key=1fdf84adbe05d8183d140b9a2e116a96
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5008/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5017
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="310" tvg-name="Phoenix Chinese Channel" radio="false" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⛩️ A.CHINESE 886 ⛩️",Phoenix CHINESE CHANNEL (ASTRO)
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TVB Xing He 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f13760c949c41e64763717e96ec46910&key=2a49f6a488f99fe914d5897e27f20c39
-http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="311" tvg-name="Phoenix Info News" radio="false" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⛩️ A.CHINESE 886 ⛩️",PHOENIX INFO NEWS (ASTRO)
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",TVBS Asia HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ca05d01bbb4bbfa624a34a9d97fca910&key=9e0dee9bf3aa066182f701cec38be004
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/402
+https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
 
-##EXTINF:-1 tvg-id="" tvg-chno="312" tvg-name="Astro Hua Hee Dai" radio="false" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⛩️ A.CHINESE 886 ⛩️",ASTRO HUA HEE DAI (ASTRO)
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=50f975bfac7d0c485fa36d54d2bba610&key=db4f4d75ac6d065e0fa1c0b6400251ab
-##http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
-
-#EXTINF:-1 tvg-id="" tvg-chno="313" tvg-name="CCTV4" radio="false" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⛩️ A.CHINESE 886 ⛩️",CCTV4 (ASTRO)
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Phoenix Chinese Channel 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09db4c1b805ee425c48f2f328e641110&key=280b40db599c53c1620d3fc0e41c7fdd
-http://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/400
+https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
 
-#EXTINF:-1 tvg-id="iQIYI HD" ch-number="300" tvg-name="iQIYI HD" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",iQIYI HD
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV4 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fed51001c357a9224f8221161313f010&key=7e0183501f83df2174844c03011fb491
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/403
+https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="314" tvg-name="Astro AOD 352" radio="false" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⛩️ A.CHINESE 886 ⛩️",ASTRO AOD 352 (ASTRO)
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Astro AOD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=615ed4bcd8cecca6b9703e54252f8c10&key=84b3495bfb163c17a6cc6cf43b1f02e9
-http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/700
+https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="315" tvg-name="Astro AOD 353" radio="false" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⛩️ A.CHINESE 886 ⛩️",ASTRO AOD 353 (ASTRO)
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Astro AOD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=72c97cb54df5626d72ab35a1d6efaf10&key=8d40587f3f21561aa2ca5b5bf008187e
-http://linearjitp-playback.astro.com.my/dash-wv/linear/905/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/905
+https://linearjitp-playback.astro.com.my/dash-wv/linear/905/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="316" tvg-name="Astro AOD 354" radio="false" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⛩️ A.CHINESE 886 ⛩️",ASTRO AOD 354 (ASTRO)
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Astro AOD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d24b39ffd2824eeb3e03eb5da918ad10&key=7ca1866a4eace300a65998d1fc94ac28
-http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/212
+https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="317" tvg-name="Astro AOD 355" radio="false" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⛩️ A.CHINESE 886 ⛩️",ASTRO AOD 355 (ASTRO)
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Astro AOD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=12415fae0e5af6a762e14eee8017ca10&key=0ae4216d6d772906acd1531c12adaead
-http://linearjitp-playback.astro.com.my/dash-wv/linear/307/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/307
+https://linearjitp-playback.astro.com.my/dash-wv/linear/307/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="320" tvg-name="Anhui TV" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ANHUI TV (INDO)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="321" tvg-name="Hunan TV" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",HUNAN TV (INDO)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="322" tvg-name="Jiangsu TV" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",JIANGSU TV (INDO)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="323" tvg-name="Shanghai Dragon TV" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SHANGHAI DRAGON TV (INDO)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+###### CHINA TV ########
 
-#EXTINF:-1 tvg-id="" tvg-chno="324" tvg-name="Xing Kong TV" radio="false" group-title="⛩️ A.CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",XING KONG TV (INDO)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
+
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV16
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV-1综合
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV-2财经
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225500/2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV-3综艺
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225634/2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV-4中文国际
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225621/2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV-5体育
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225633/2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV-5+体育赛事
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225649/2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV-6电影
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225632/2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV-7国防军事
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225499/2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV-8电视剧
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225631/2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV-9纪录
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225626/2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV-10科教
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225496/2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV-11戏曲
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225628/2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV-12社会与法
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225495/2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV-13新闻
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225638/2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV-14少儿
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225494/2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV-15音乐
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="" radio="false" group-title="⛩️ CHINESE 886 ⛩️" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",CCTV-17农村农业
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225907/2/index.m3u8
+
+
+
+
 
 
 ###### ASTRO TAMIL ########
