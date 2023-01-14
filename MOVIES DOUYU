@@ -365,7 +365,17 @@ http://ptv.is:2095//fqAEYSeq/azMUkNnz/115617
 #EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP4 B
 http://ptv.is:2095//fqAEYSeq/azMUkNnz/115617
 
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP1 C
+SUPERSPORTS 1,http://line.premiumpowers.net:80/Manuel/1234567/571245
 
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP2 C
+SUPERSPORTS 2,http://line.premiumpowers.net:80/Manuel/1234567/571248
+
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP3 C
+SUPERSPORTS 3,http://line.premiumpowers.net:80/Manuel/1234567/571247
+
+#EXTINF:-1 group-title="体育SPORT" tvg-logo="https://img.favpng.com/15/10/0/usability-testing-user-experience-software-testing-logo-png-favpng-HW96u2LejK5FkSjEsKtH32HnC.jpg",ASSP4 C
+SUPERSPORTS 4,http://line.premiumpowers.net:80/Manuel/1234567/571246
 
 
 
