@@ -1725,8 +1725,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 http://ptv.is:2095/fqAEYSeq/azMUkNnz/115615
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",ASSP2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/89.ts
+http://n2086.securepoint.io:25461/live/qqbhmpgg/hSgdnb5w/197516.ts
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",ASSP2 (B)
 http://ptv.is:2095/fqAEYSeq/azMUkNnz/115616
@@ -1735,9 +1734,7 @@ http://ptv.is:2095/fqAEYSeq/azMUkNnz/115616
 http://ptv.is:2095//fqAEYSeq/azMUkNnz/115617
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",ASSP3 (B)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
-https://aqfadtv.xyz/live/supersport3/index.mpd
+http://n2086.securepoint.io:25461/live/qqbhmpgg/hSgdnb5w/197516.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1747,10 +1744,8 @@ EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3" tvg-logo="https://raw.gi
 https://webudi.openhd.lol/lb/premium125/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 #http://51.79.82.208:16062
 
-
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",ASSP4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/91.ts
+http://n2086.securepoint.io:25461/live/qqbhmpgg/hSgdnb5w/197517.ts
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",ASSP4 (B)
 http://ptv.is:2095//fqAEYSeq/azMUkNnz/115617
