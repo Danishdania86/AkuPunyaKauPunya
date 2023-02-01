@@ -207,10 +207,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #https://is.gd/jk8Ft1.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-http://51.81.208.129:35461/80203091402/213445/5075
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497741
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA (B)
 http://mxu03.wanicelife.com:8880/12mk0110007/16863251/1706
@@ -218,8 +215,7 @@ http://mxu03.wanicelife.com:8880/12mk0110007/16863251/1706
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",KARISMA SG
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941605&extension=ts&play_token=S5wl7uZ2iP
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", MOVIES+ 
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941594&extension=ts&play_token=uVoSUYA5ly
+
 
 ######## ASTRO MELAYU #########
 
@@ -874,7 +870,7 @@ https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 ##https://d1p83s84hrxz1t.cloudfront.net/RCTI2022-avc1_7000000=7-mp4a_96000=2.m3u8?|Referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI FHD" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇩 INDO 886 🇮🇩", RCTI (B)
-https://d-rcti.rctiplus.id/RCTI2022.m3u8|referer=https://m.rctiplus.com/
+http://103.167.167.5:8111/play/a01c/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
@@ -894,7 +890,7 @@ https://geocities.ws/ariev7xx/antv.m3u8
 https://d322b885qvsbxg.cloudfront.net/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8?|Referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-id="" tvg-chno="509" tvg-name="GTV" radio="false" catchup="default" group-title="🇮🇩 INDO 886 🇮🇩" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",GTV (B)
-https://d-gtv.rctiplus.id/GTV2021.m3u8|referer=https://m.rctiplus.com/
+http://103.167.167.5:8111/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="510" tvg-name="MNC TV" radio="false" catchup="default" group-title="🇮🇩 INDO 886 🇮🇩" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",MNC TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -938,12 +934,12 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b74410
 https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇩 INDO 886 🇮🇩",SCTV
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
+http://103.167.167.5:8111/play/a00o/index.m3u8
 #https://geocities.ws/ariev7xx/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇩 INDO 886 🇮🇩",SCTV (B)
 #http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
+http://103.167.167.5:8111/play/a048/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
@@ -959,10 +955,10 @@ https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5
 https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇩 INDO 886 🇮🇩",Citra Bioskop
-https://dl.dropbox.com/s/5ws9vhnr7pf7n2j/CitraDrama.m3u8?dl=1
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6684.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇩 INDO 886 🇮🇩",Citra Bioskop (B)
-https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/285.ts
+#https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/285.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -970,8 +966,17 @@ https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/285.ts
 https://anv-livechannel-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇩 INDO 886 🇮🇩",Citra Dangdut
-https://live.fortunetv.me:443/FortuneTV@bgl/09FJEHGAOI/149.ts
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6587.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇩 INDO 886 🇮🇩",CITRA ENTERTAINMENT
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6402.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇩 INDO 886 🇮🇩",ZEE BIOSKOP
+http://103.167.167.5:8111/play/a01a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇩 INDO 886 🇮🇩",MOJI
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/206.m3u8
+https://devds.site/api/v.m3u8?ch=moji
 
 ###### TV KOREA ########
 
