@@ -431,7 +431,7 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c06
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BMXq9izXXy2UerTWIfOSVg","k":"dpZ1mJYuenMUorJR6QcHJQ"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/RC4aMZC.png",Prima
+#EXTINF:-1 group-title="prima" tvg-logo="https://i.imgur.com/RC4aMZC.png",Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/RC4aMZC.png",citra
@@ -449,6 +449,14 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941605&ex
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/RC4aMZC.png",Jackie chan
 http://mmitv.top/pltv/yy.php?id=34460526
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/RC4aMZC.png",Prima 2
+#EXTINF:-1 group-title="prima" tvg-logo="https://i.imgur.com/RC4aMZC.png",Prima 2
 http://line.premiumpowers.net:80/Manuel/1234567/571237
 
+#EXTINF:-1 group-title="prima" tvg-logo="https://i.imgur.com/RC4aMZC.png",Prima 3
+http://137.175.36.206:8488/test163/123456/13632
+
+#EXTINF:-1 group-title="prima" tvg-logo="https://i.imgur.com/RC4aMZC.png",Prima 4
+http://137.175.36.206:8488/test163/123456/13631
+
+#EXTINF:-1 group-title="prima" tvg-logo="https://i.imgur.com/RC4aMZC.png",Prima 5
+http://137.175.36.206:8488/test163/123456/13630
