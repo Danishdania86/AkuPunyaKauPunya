@@ -1610,18 +1610,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 https://links.nextv.ga:443/live/freeMY/NEXTV/5.ts
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="⚽ SPORTS 886 ⚽" ch-number="811" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASSP 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52859.ts
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",ASSP 2
-http://n2086.securepoint.io:25461/live/qqbhmpgg/hSgdnb5w/197516.ts
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/premium124/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",ASSP 3
-http://ptv.is:2095//fqAEYSeq/azMUkNnz/115617
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/premium124/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",ASSP 4 
-http://n2086.securepoint.io:25461/live/qqbhmpgg/hSgdnb5w/197517.ts
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/premium126/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="ASSP5" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",ASSP 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
