@@ -427,17 +427,17 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🐿️ KIDZ 886 🐿️",Astro Ceria
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+https://tinyurl.com/w6wvfbcm
 
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🐿️ KIDZ 886 🐿️",Astro Ceria (B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
-https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLezQT8cAh3scghbo1b4vl_Uk=JI1g/dash-wv/jitp-linearwm/2606/default_ott.mpd
+#https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLezQT8cAh3scghbo1b4vl_Uk=JI1g/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🐿️ KIDZ 886 🐿️",Astro Ceria (B) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
-https://tinyurl.com/Cbabikau
+#https://tinyurl.com/Cbabikau
 
 #EXTINF:-1 tvg-id="TA-DAA!" ch-number="612" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🐿️ KIDZ 886 🐿️",TA-DAA!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
