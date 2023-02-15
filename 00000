@@ -2366,6 +2366,35 @@ http://31.14.41.118:8080/chris123/chris123/145760
 
 ##### BOLLYWOOD #####
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name=""
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",Zee Classic
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",Zee Cinema
+http://212.224.84.217:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo%7CUser-Agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",Zee Anmol Cinema
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",Star Gold
+http://212.224.84.217:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo%7CUser-Agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="", &Picture HD
+http://212.224.84.217:2200/R-EX/HINDI_AND_PICTURES_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo%7CUser-Agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",Sony Max 2
+http://212.224.84.217:2200/R-EX/HINDI_SONY_MAX_2-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo%7CUser-Agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",B4U Movies
+http://212.224.84.217:2200/R-EX/HINDI_B4U_MOVIES-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo%7CUser-Agent=REDLINECLIENT
+
+
+
 
 
 <noscript>
