@@ -1,0 +1,13 @@
+
+
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" tvg-id="404" ,BOO HD
+https://brgjd.com/dash-wv/BOO.mpd|license_type=clearkey&license_key=https://skynet-com.stackstaging.com/clearkey/dash-ck/linear/2407
+
+
+#EXTINF:-1 tvg-id="BOO" ch-number="" group-title="🍿 MOVIES 886 🍿" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", BOO HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://skynet-com.stackstaging.com/clearkey/dash-ck/linear/2407
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/manifest.mpd
+
+https://skynet-com.stackstaging.com/clearkey/dash-ck/linear/2407
