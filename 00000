@@ -173,26 +173,27 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
-https://aqfadtv.xyz/live/prima/index.mpd
+#https://aqfadtv.xyz/live/prima/index.mpd
 
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA 
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRt0LlBxxRGFxvosE5iQINNk=3y2m/dash-wv/jitp-linearwm/2402/default_ott.mpd
+#https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRt0LlBxxRGFxvosE5iQINNk=3y2m/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://warna.astradamy.com/dash-wv/jitp-linearwm/2402/defa
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402/
 #EXTINF:-1 tvg-id="AstroWarna" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA (B)
-https://kaytv@7ou3.short.gy/dash-warna.mpd
+#https://kaytv@7ou3.short.gy/dash-warna.mpd
 
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🐿️ KIDZ 886 🐿️",Astro Ceria 
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
 #EXTVLCOPT:referer=https://iplogger.com/2VAkG5
 #EXTVLCOPT:Icy-MetaData=1
 #EXTVLCOPT:Accept-Encoding=identity
-https://tinyurl.com/3526bnpa
+#https://tinyurl.com/3526bnpa
 
 
 #EXTINF:-1 tvg-id="KARISMASG" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",KARISMA SG
