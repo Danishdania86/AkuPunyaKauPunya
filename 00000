@@ -168,7 +168,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
 #https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRs6p1b4QCl1N36gGWJ_UXDg=bnu7/dash-wv/jitp-dashisowm/2700/default_ott.mpd
-https://citra.astradamy.com/dash-wv/jitp-linearwm/2700/default.mpd
+#https://citra.astradamy.com/dash-wv/jitp-linearwm/2700/default.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -180,7 +180,7 @@ https://citra.astradamy.com/dash-wv/jitp-linearwm/2700/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
 #https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRt0LlBxxRGFxvosE5iQINNk=3y2m/dash-wv/jitp-linearwm/2402/default_ott.mpd
-https://warna.astradamy.com/dash-wv/jitp-linearwm/2402/defa
+#https://warna.astradamy.com/dash-wv/jitp-linearwm/2402/defa
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -192,7 +192,7 @@ https://warna.astradamy.com/dash-wv/jitp-linearwm/2402/defa
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🐿️ KIDZ 886 🐿️",Astro Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
-https://ceria.astradamy.com/dash-wv/jitp-linearwm/2606/default.mpd
+#https://ceria.astradamy.com/dash-wv/jitp-linearwm/2606/default.mpd
 
 
 
@@ -857,7 +857,7 @@ http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="", &tv
-https://tinyurl.com/Andtvzawawi
+#https://tinyurl.com/Andtvzawawi
 
 
 ######## TV INDONESIA ########
