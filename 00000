@@ -1609,7 +1609,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #https://links.nextv.ga:443/live/freeMY/NEXTV/5.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5100
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Arena" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",Arena 2 
 https://linears-playback.astro.com.my/vsg/41rPbSnK_JMAtzbS_scmbNiw-0BadKg0M3jOHibdHuGhM=37DG/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
