@@ -2380,6 +2380,10 @@ http://212.224.84.217:2200/R-EX/HINDI_B4U_MOVIES-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",B4U Kadak (BD)
 http://103.113.103.249:18001/play/a02b/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",BOX OFFICE BOLLYONE HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_primary.mpd
 
 
 
