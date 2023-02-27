@@ -60,7 +60,7 @@ http://astro2.rastream.com/gegar
 #EXTINF:-1 tvg-id="" tvg-chno="8" tvg-name="Hitz FM" group-title="RADIO 886" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",HITZ FM
 http://astro1.rastream.com/hitz
 
-#EXTINF:-1 group-title="☢️RADIO 886☢️" tvg-id="HITZ" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",HITZ FM 
+#EXTINF:-1 group-title="RADIO 886☢️" tvg-id="HITZ" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",HITZ FM 
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="9" tvg-name="Hitz Sarawak FM" group-title="RADIO 886" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",HITZ SARAWAK FM
@@ -2310,39 +2310,39 @@ http://31.14.41.118:8080/chris123/chris123/145760
 
 ##### BOLLYWOOD #####
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name=""
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="BOLLYWOOD" tvg-id="" tvg-name=""
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",Zee Classic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="BOLLYWOOD" tvg-id="" tvg-name="",Zee Classic
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",Zee Cinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="BOLLYWOOD" tvg-id="" tvg-name="",Zee Cinema
 http://212.224.84.217:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo%7CUser-Agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",Zee Anmol Cinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="BOLLYWOOD" tvg-id="" tvg-name="",Zee Anmol Cinema
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",Star Gold
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="BOLLYWOOD" tvg-id="" tvg-name="",Star Gold
 http://212.224.84.217:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo%7CUser-Agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="", &Picture HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="BOLLYWOOD" tvg-id="" tvg-name="", &Picture HD
 http://212.224.84.217:2200/R-EX/HINDI_AND_PICTURES_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo%7CUser-Agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",Boogle Bollywood
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="BOLLYWOOD" tvg-id="" tvg-name="",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",Sony Max 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="BOLLYWOOD" tvg-id="" tvg-name="",Sony Max 2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",B4U Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="BOLLYWOOD" tvg-id="" tvg-name="",B4U Movies
 http://212.224.84.217:2200/R-EX/HINDI_B4U_MOVIES-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo%7CUser-Agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",B4U Kadak (BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="BOLLYWOOD" tvg-id="" tvg-name="",B4U Kadak (BD)
 http://103.113.103.249:18001/play/a02b/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🇮🇳 BOLLYWOOD 🇮🇳" tvg-id="" tvg-name="",BOX OFFICE BOLLYONE HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="BOLLYWOOD" tvg-id="" tvg-name="",ASTRO BOX OFFICE BOLLYONE HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_primary.mpd
 
 
