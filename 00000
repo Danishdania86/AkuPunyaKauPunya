@@ -60,7 +60,7 @@ http://astro2.rastream.com/gegar
 #EXTINF:-1 tvg-id="" tvg-chno="8" tvg-name="Hitz FM" group-title="RADIO 886" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",HITZ FM
 http://astro1.rastream.com/hitz
 
-#EXTINF:-1 group-title="RADIO 886☢️" tvg-id="HITZ" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",HITZ FM 
+#EXTINF:-1 group-title="RADIO 886" tvg-id="HITZ" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",HITZ FM 
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="9" tvg-name="Hitz Sarawak FM" group-title="RADIO 886" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",HITZ SARAWAK FM
