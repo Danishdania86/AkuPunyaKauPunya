@@ -812,12 +812,6 @@ http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="INDIA 886" tvg-id="" tvg-name="",Tirumalai TV KARUR
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="INDIA 886" tvg-id="" tvg-name="",EET TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -836,26 +830,26 @@ http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="INDIA 886" tvg-id="" tvg-name="",Santhora Short Flim
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
-
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="INDIA 886" tvg-id="" tvg-name="",Santhora TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="INDIA 886" tvg-id="" tvg-name="",SRI KRISHNA TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="INDIA 886" tvg-id="" tvg-name="", &tv
-#https://tinyurl.com/Andtvzawawi
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="INDIA 886" tvg-id="" tvg-name="",Gemini TV HD
+http://watchindia.net:8880/live/84287/78681/928.ts
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="INDIA 886" tvg-id="" tvg-name="",Gemini Movies HD
+http://watchindia.net:8880/live/84287/78681/930.ts
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="INDIA 886" tvg-id="" tvg-name="",Gemini Comedy
+http://watchindia.net:8880/live/84287/78681/971.ts
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="INDIA 886" tvg-id="" tvg-name="",Gemini Life
+http://watchindia.net:8880/live/84287/78681/931.ts
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="INDIA 886" tvg-id="" tvg-name="",Gemini Music HD
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/198013
 
 
 ######## TV INDONESIA ########
