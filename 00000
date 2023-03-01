@@ -355,7 +355,9 @@ https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
 #EXTINF:-1 group-title="MALAY 886" ch-number="116" tvg-id="116" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",Sensasi
-https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
+#https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+http://w.nasvpn.xyz:8080/saya/saya/16841.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
