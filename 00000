@@ -173,13 +173,13 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 ##http://w.nasvpn.xyz:8080/saya/saya/172.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsn0VYh332GZvFgKqOKJSVs=CLGy/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRheXKI_zeqywKbtNHWwrfTs=gqt3/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="MALAY 886" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRqb5B7NNBalfktE2fFYokDw=_uwi/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRtjhhvaA0NRfW2lNS-19hI0=v51Z/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402/
@@ -1573,7 +1573,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5100
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Arena" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="SPORTS 886",Arena 2 
-https://linears-playback.astro.com.my/vsg/41rPbSnK_JMAtzbS_scmbNiw-0BadKg0M3jOHibdHuGhM=37DG/dash-wv/jitp-linearwm/5100/default_ott.mpd
+#https://linears-playback.astro.com.my/vsg/41rPbSnK_JMAtzbS_scmbNiw-0BadKg0M3jOHibdHuGhM=37DG/dash-wv/jitp-linearwm/5100/default_ott.mpd
+http://bl.skyvod.eu.org:8080/live/AR2_SKY.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="SPORTS 886",Arena Bola
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5098
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
+
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="SPORTS 886",Arena Bola 2
+##https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default.mpd
+http://bl.skyvod.eu.org:8080/live/BL2_SKY.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="SPORTS 886" ch-number="811" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASSP 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
