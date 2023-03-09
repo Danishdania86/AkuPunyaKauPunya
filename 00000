@@ -167,26 +167,26 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY 886" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA (B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
-https://speedtrademarket.com/live/channel/citra.mpd
+#https://speedtrademarket.com/live/channel/citra.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY 886" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA 
 ##EXTVLCOPT:http-user-agent=com.iptvlin k.net
 ##http://w.nasvpn.xyz:8080/saya/saya/172.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRlrnzkLrs7pNe4-4NcG1y5A=B7-8/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRhsrkgVrusYoJwXqBGGPFKc=r23e/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="MALAY 886" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRlhF0f0j6AnGEwj3dv05z5w=98Oc/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRqq3w1e7mFJDgtVPqFibi7Q=IBtY/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="MALAY 886" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA (B)
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
-https://speedtrademarket.com/live/channel/warna.mpd
+#https://speedtrademarket.com/live/channel/warna.mpd
 
 
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="KIDZ 886",Astro Ceria 
