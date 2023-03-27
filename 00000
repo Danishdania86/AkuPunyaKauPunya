@@ -772,7 +772,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 # https://aqfadtv.xyz/bollyone.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="INDIA 886" tvg-id="" tvg-name="",&TV
-http://208.86.19.13:81/7033.stream/index.m3u8
+#http://208.86.19.13:81/7033.stream/index.m3u8
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=945815&extension=ts&play_token=lVn6UGKsOe
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="INDIA 886" tvg-id="" tvg-name="", AUus Tamil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
