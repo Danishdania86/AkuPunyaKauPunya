@@ -151,33 +151,23 @@ https://23693.live.streamtheworld.com/ASYIK_FMAAC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 # https://linears-playback.astro.com.my/vsg/41KPzKMI9pj8KlBCMu4dx_bh4Km8kYGpF3q5-mLufjmTM=uy0t/dash-wv/jitp-linearwm/1004/default_primary.mpd
-https://aqfadtv.xyz/live/ria/index.mpd
+#https://aqfadtv.xyz/live/ria/index.mpd
 
 
+#EXTINF:-1 group-title="MALAY 886" tvg-id="AstroRia" ch-number="" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO RIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="104" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MALAY 886" tvg-id="",ASTRO RIA (B) 
-#https://linears-playback.astro.com.my/vsg/21hSTreDoP4JkZi8acBSiqbX82trGaE4JgYHlYpREKJtA=EKzD/dash-wv/jitp-linearwm/1004/default_ott.mpd
-#https://ktiptv.cf:443/161/161/694460
-#https://stream.zeehanzgadget.com/ria.mpd
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41jurYG1onRfmwJMn79ZqUAsU5FD4EFjpqpnObetVRcQw=al2E/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
  
-#EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY 886" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA (B)
-#EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
-http://hotz.vip:2082/ejumjom/ejumjom/28
-
-
-##http://humiptv.live:8080/live/876465421460/087543135678/143029.ts
-##http://muka03.wanicelife.com:8880/12mm130128/26367772/71146
-
-
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=https://speedtrademarket.com/mytv/results.php?keyid=7c261ac9254a45e8b6739957c7f14abf&key=721e91d78af93ac89e121f5ed30eacaf
-##https://speedtrademarket.com/live/channel/citra.mpd
-
 #EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY 886" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUoJ2arx55fWsrkN_vLgMRwg=ZC80/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY 886" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA (B)
 ##EXTVLCOPT:http-user-agent=com.iptvlin k.net
 ##http://w.nasvpn.xyz:8080/saya/saya/172.m3u8
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -190,15 +180,13 @@ http://humiptv.live:8080/live/876465421460/087543135678/143029.ts
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
 #https://linears-playback.astro.com.my/vsg/41HNO0_WmpBvctDgX6ok38FiJzq3ycgFv8SmPSOTjW9qo=cElh/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="MALAY 886" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA 
+#EXTINF:-1 tvg-id="AstroWarna" group-title="MALAY 886" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA (B)
 http://humiptv.live:8080/live/876465421460/087543135678/143158.ts
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ch6R14r5OsieEh9e0w6srw", "kid":"fCYaySVKRei2c5lXx/FKvw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroWarna" group-title="MALAY 886" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA (B)
-https://sooka.buzz/warna.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+#EXTINF:-1 tvg-id="AstroWarna" group-title="MALAY 886" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA 
+https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUuwAPReN2kBVr95c3oKJ0y8=7Ow9/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="KIDZ 886",Astro Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
