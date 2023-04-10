@@ -159,13 +159,13 @@ https://23693.live.streamtheworld.com/ASYIK_FMAAC
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-https://linears-playback.astro.com.my/vsg/41jurYG1onRfmwJMn79ZqUAsUDbs11NO-T0wqdZ9uOndg=pOxU/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41jurYG1onRfmwJMn79ZqUApnqbDdSoM-lDN5O_vDVkS0=XnU1/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
  
 #EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY 886" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUn-Vw-3ZrgceqRD9NStl0Zo=Evhj/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUhKOZLM-d_fxBvHPRfQi2mc=Wf5F/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY 886" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA (B)
 ##EXTVLCOPT:http-user-agent=com.iptvlin k.net
@@ -186,7 +186,7 @@ http://humiptv.live:8080/live/876465421460/087543135678/143158.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 #EXTINF:-1 tvg-id="AstroWarna" group-title="MALAY 886" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA 
-https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUvEnA6NC8R7tqcxrnjhyKsg=JFqz/dash-wv/jitp-linearwm/2402/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUigfqpkaa1KXPxFVKo8_ODA=gq_l/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="KIDZ 886",Astro Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
