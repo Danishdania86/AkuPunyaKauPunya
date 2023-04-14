@@ -148,7 +148,14 @@ https://23693.live.streamtheworld.com/ASYIK_FMAAC
 
 
 #EXTINF:-1 group-title="MALAY 886" tvg-id="AstroRia" ch-number="" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO RIA (B)
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=DvbUwd0jPoDvbUwd0jPo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXSTJNRGszTTJJdFpqQXlOQzAwTWpKbUxXRTNNREl0TTJWbFpHWTJNMlJrWldOaiIsIndtb3BpZCI6MzIsImV4cCI6MTY4MTgyMDAwMiwiaWF0IjoxNjgxMjE2MDAyfQ.3lpnmM_A7N292wH0h5j-QKIYxEjlcTN4wsmqhTrkZD4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key= {"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
+https://speedtrademarket.com/vip/ria.mpd
+
+#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=DvbUwd0jPoDvbUwd0jPo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 # https://linears-playback.astro.com.my/vsg/41KPzKMI9pj8KlBCMu4dx_bh4Km8kYGpF3q5-mLufjmTM=uy0t/dash-wv/jitp-linearwm/1004/default_primary.mpd
@@ -169,12 +176,17 @@ https://linears-playback.astro.com.my/vsg/41jurYG1onRfmwJMn79ZqUAswWwakN-sz_jTu9
 https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUn64b6MSLR958JodsMKJ-HM=4Y5L/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY 886" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA (B)
+#https://stream.zeehanzgadget.com/citra
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+http://syok.tv:25461/live/ABC/234/26.ts
+
+
 ##EXTVLCOPT:http-user-agent=com.iptvlin k.net
 ##http://w.nasvpn.xyz:8080/saya/saya/172.m3u8
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
 ##https://linears-playback.astro.com.my/vsg/41HNO0_WmpBvctDgX6ok38FhszTo6c79jvWvssjl1Y-Bc=8E7K/dash-wv/jitp-dashisowm/2700/default_ott.mpd
-http://humiptv.live:8080/live/876465421460/087543135678/143029.ts
+#http://humiptv.live:8080/live/876465421460/087543135678/143029.ts
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="MALAY 886" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -182,7 +194,14 @@ http://humiptv.live:8080/live/876465421460/087543135678/143029.ts
 #https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUjfYyCTgY1PDHZ2yMK47vbQ=sHBT/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="MALAY 886" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO WARNA (B)
-http://humiptv.live:8080/live/876465421460/087543135678/143158.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXSTJNRGszTTJJdFpqQXlOQzAwTWpKbUxXRTNNREl0TTJWbFpHWTJNMlJrWldOaiIsIndtb3BpZCI6MzIsImV4cCI6MTY4MTgyMDAwMiwiaWF0IjoxNjgxMjE2MDAyfQ.3lpnmM_A7N292wH0h5j-QKIYxEjlcTN4wsmqhTrkZD4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810": "0a80e20c568e88e53c7087c1c6493318"}
+https://speedtrademarket.com/vip/warna.mpd
+
+#http://humiptv.live:8080/live/876465421460/087543135678/143158.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
