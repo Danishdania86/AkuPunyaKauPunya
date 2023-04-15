@@ -176,7 +176,7 @@ https://linears-playback.astro.com.my/vsg/41jurYG1onRfmwJMn79ZqUAswWwakN-sz_jTu9
 https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUn64b6MSLR958JodsMKJ-HM=4Y5L/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Astr" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
+#EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY 886" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA (B)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXSTJNRGszTTJJdFpqQXlOQzAwTWpKbUxXRTNNREl0TTJWbFpHWTJNMlJrWldOaiIsIndtb3BpZCI6MzIsImV4cCI6MTY4MTgyMDAwMiwiaWF0IjoxNjgxMjE2MDAyfQ.3lpnmM_A7N292wH0h5j-QKIYxEjlcTN4wsmqhTrkZD4"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
