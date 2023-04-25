@@ -170,8 +170,8 @@ https://linears-playback.astro.com.my/vsg/41h68edbwvPYwE_BM4bpdRg_9z-8PP5g_pMTuN
 
  
 #EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY 886" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-#EXTINF:-1 tvg-id="AstroCitra.my" ch-number="108" tvg-name="Astro Citra HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra
 https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNpSClPPpkPpE-z3ynkIJvr4=b9Ll/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 
