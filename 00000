@@ -157,9 +157,9 @@ https://speedtrademarket.com/vip/ria.mpd
 
 
 #EXTINF:-1 group-title="MALAY 886" tvg-id="AstroRia" ch-number="" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO RIA
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=ts&play_token=go_ott
-
+http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=go_ott
  
+
 #EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY 886" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
@@ -1653,6 +1653,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5102/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #https://webudi.onlinewebtv.lol/lb/premium43/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="AstroSupersportUHD" ch-number="805" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="SPORTS 886",ASSP UHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
