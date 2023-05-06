@@ -147,6 +147,12 @@ https://23693.live.streamtheworld.com/ASYIK_FMAAC
 ########## BACKUP R. W. C. ###########
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5105
+#EXTINF:-1 group-title="MALAY 886" tvg-id="AstroRia" ch-number="" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",PROJECT HIGH COUNCIL
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5105/default_primary.mpd
+
+
 #EXTINF:-1 group-title="MALAY 886" tvg-id="AstroRia" ch-number="" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO RIA (B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
