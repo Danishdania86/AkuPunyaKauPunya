@@ -153,20 +153,20 @@ https://23693.live.streamtheworld.com/ASYIK_FMAAC
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5105/default_primary.mpd
 
 
-#EXTINF:-1 group-title="MALAY 886" tvg-id="AstroRia" ch-number="" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO RIA (B)
+#EXTINF:-1 group-title="MALAY 886" tvg-id="AstroRia" ch-number="" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO RIA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
-https://linears-playback.astro.com.my/vsg/41k0uF2evv6rNALWHk5x5aeyRXxIlXI4I-5nLTsWSv8BE=Vo6W/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41k0uF2evv6rNALWHk5x5ae1cRaVaIt9gL204oxrChs2g=sJGe/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 
-#EXTINF:-1 group-title="MALAY 886" tvg-id="AstroRia" ch-number="" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO RIA
+#EXTINF:-1 group-title="MALAY 886" tvg-id="AstroRia" ch-number="" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO RIA (B)
 http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=go_ott
  
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY 886" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41HZi5AYDG3cTm2l116mBW82ghs1ncjtwnIQJa6CDMYhI=Iifg/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41HZi5AYDG3cTm2l116mBW8wgKXlExV9ajp3kLuBdijww=rYjP/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="MALAY 886" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASTRO CITRA (B)
