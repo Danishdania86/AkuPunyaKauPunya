@@ -2367,6 +2367,373 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="BOLLYWOOD 886" tvg-id="" tvg-name="",BOLLYWOOD CLASSIC HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87417&ads.show_id=3259&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-14&ads.episodeRating=PG&ads.language=en&ads.showtitle=Bollywood%20Classic&ads.episodetitle=Bollywood%20Classic&ads.keywords=Bollywood%2CHindu%2CClassic&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
 
+
+################### MOVIE 24/7 ###################
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",CINEBOX: ANIMATION
+http://fortv.cc:8080/live/jonathan/jonathan/119420.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",CINEBOX: BLOCKBUSTERS
+http://fortv.cc:8080/live/jonathan/jonathan/119421.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",CINEBOX: CLASSIC
+http://fortv.cc:8080/live/jonathan/jonathan/119422.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",CINEBOX: COMEDY
+http://fortv.cc:8080/live/jonathan/jonathan/119423.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",CINEBOX: CULT
+http://fortv.cc:8080/live/jonathan/jonathan/119424.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",CINEBOX: FAMILY
+http://fortv.cc:8080/live/jonathan/jonathan/119425.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",CINEBOX: GREATS
+http://fortv.cc:8080/live/jonathan/jonathan/119426.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",CINEBOX: GREATS TWO
+http://fortv.cc:8080/live/jonathan/jonathan/119427.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",CINEBOX: HISTORICAL
+http://fortv.cc:8080/live/jonathan/jonathan/119428.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7 Horror Movies
+http://fortv.cc:8080/live/jonathan/jonathan/119429.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",CINEBOX: MUSICAL
+http://fortv.cc:8080/live/jonathan/jonathan/119430.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",CINEBOX: MYSTERY
+http://fortv.cc:8080/live/jonathan/jonathan/119431.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",CINEBOX: PREMIERE
+http://fortv.cc:8080/live/jonathan/jonathan/119432.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",CINEBOX: ROMANCE
+http://fortv.cc:8080/live/jonathan/jonathan/119433.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",CINEBOX: SCI-FI
+http://fortv.cc:8080/live/jonathan/jonathan/119434.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",CINEBOX: WESTERN
+http://fortv.cc:8080/live/jonathan/jonathan/119435.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",CINEBOX: HITS
+http://fortv.cc:8080/live/jonathan/jonathan/119436.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name=""",CINEBOX: THRILLER
+http://fortv.cc:8080/live/jonathan/jonathan/119437.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTION MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764511.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: AL PACINO
+http://62.182.86.121:80/live/Cal/Cal/764512.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: ANDY SERKIS
+http://62.182.86.121:80/live/Cal/Cal/764513.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: ANTHONY HOPKINS
+http://62.182.86.121:80/live/Cal/Cal/764514.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: ANTHONY MARKIE
+http://62.182.86.121:80/live/Cal/Cal/764515.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: ARNOLD SCHWARZENEGGER
+http://62.182.86.121:80/live/Cal/Cal/764516.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: BENEDICT CUMBERBATCH
+http://62.182.86.121:80/live/Cal/Cal/764517.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: BRAD PITT
+http://62.182.86.121:80/live/Cal/Cal/764518.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: BRADLEY COOPER
+http://62.182.86.121:80/live/Cal/Cal/764519.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: BRENDAN FRASER
+http://62.182.86.121:80/live/Cal/Cal/764520.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: BRUCE LEE
+http://62.182.86.121:80/live/Cal/Cal/764521.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: BRUCE WILLIS
+http://62.182.86.121:80/live/Cal/Cal/764522.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: CHRIS EVANS
+http://62.182.86.121:80/live/Cal/Cal/764523.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: CHRIS HEMSWORTH
+http://62.182.86.121:80/live/Cal/Cal/764524.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: CHRIS PINE
+http://62.182.86.121:80/live/Cal/Cal/764525.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: CHRISTIAN BALE
+http://62.182.86.121:80/live/Cal/Cal/764526.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: CHRISTOPHER WALKEN
+http://62.182.86.121:80/live/Cal/Cal/764527.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: CLINT EASTWOOD
+http://62.182.86.121:80/live/Cal/Cal/764528.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: COLIN FIRTH
+http://62.182.86.121:80/live/Cal/Cal/764529.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: DANIEL DAY LEWIS
+http://62.182.86.121:80/live/Cal/Cal/764530.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: DANIEL RADCLIFFE
+http://62.182.86.121:80/live/Cal/Cal/764531.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: DENZEL WASHINGTON
+http://62.182.86.121:80/live/Cal/Cal/764532.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: DWAYNE JOHNSON
+http://62.182.86.121:80/live/Cal/Cal/764533.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: GARY OLDMAN
+http://62.182.86.121:80/live/Cal/Cal/764534.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: HARRISON FORD
+http://62.182.86.121:80/live/Cal/Cal/764535.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: HENRY CAVILL
+http://62.182.86.121:80/live/Cal/Cal/764536.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: HUGH JACKMAN
+http://62.182.86.121:80/live/Cal/Cal/764537.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: HUGO WEAVING
+http://62.182.86.121:80/live/Cal/Cal/764538.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: JACKIE CHAN
+http://62.182.86.121:80/live/Cal/Cal/764539.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: JAKE GYLLENHAAL
+http://62.182.86.121:80/live/Cal/Cal/764540.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: JAMES FRANCO
+http://62.182.86.121:80/live/Cal/Cal/764541.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: JAMIE FOXX
+http://62.182.86.121:80/live/Cal/Cal/764542.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: JASON BATEMAN
+http://62.182.86.121:80/live/Cal/Cal/764543.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: JASON STATHAM
+http://62.182.86.121:80/live/Cal/Cal/764544.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: JOAQUIN PHOENIX
+http://62.182.86.121:80/live/Cal/Cal/764545.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: JOHN CENA
+http://62.182.86.121:80/live/Cal/Cal/764546.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: JOHNNY DEPP
+http://62.182.86.121:80/live/Cal/Cal/764547.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: KEANU REEVES
+http://62.182.86.121:80/live/Cal/Cal/764548.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: LEONARDO DICAPRIO
+http://62.182.86.121:80/live/Cal/Cal/764549.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: LIAM NEESON
+http://62.182.86.121:80/live/Cal/Cal/764550.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: MARK RUFFALO
+http://62.182.86.121:80/live/Cal/Cal/764551.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: MATT DAMON
+http://62.182.86.121:80/live/Cal/Cal/764552.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: MATTHEW MCCONAUGHEY
+http://62.182.86.121:80/live/Cal/Cal/764553.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: MICHAEL CAINE
+http://62.182.86.121:80/live/Cal/Cal/764554.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: MORGAN FREEMAN
+http://62.182.86.121:80/live/Cal/Cal/764555.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: PAUL WALKER
+http://62.182.86.121:80/live/Cal/Cal/764556.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: ROBERT DE NIRO
+http://62.182.86.121:80/live/Cal/Cal/764557.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: ROBERT DOWNEY JR
+http://62.182.86.121:80/live/Cal/Cal/764558.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: ROBERT PATTINSON
+http://62.182.86.121:80/live/Cal/Cal/764559.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: RYAN REYNOLDS
+http://62.182.86.121:80/live/Cal/Cal/764560.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: SAMUEL L JACKSON
+http://62.182.86.121:80/live/Cal/Cal/764561.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: SYLVESTER STALLONE
+http://62.182.86.121:80/live/Cal/Cal/764562.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: TOBEY MAGUIRE
+http://62.182.86.121:80/live/Cal/Cal/764563.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: TOM CRUISE
+http://62.182.86.121:80/live/Cal/Cal/764564.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: TOMMY LEE JONES
+http://62.182.86.121:80/live/Cal/Cal/764565.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: VIN DIESEL
+http://62.182.86.121:80/live/Cal/Cal/764566.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: WILL SMITH
+http://62.182.86.121:80/live/Cal/Cal/764567.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ACTORS: WILLEM DAFOE
+http://62.182.86.121:80/live/Cal/Cal/764568.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ALIEN
+http://62.182.86.121:80/live/Cal/Cal/764569.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ARCHIVE MOVIE 2
+http://62.182.86.121:80/live/Cal/Cal/764570.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: AVERAGE MOVIES 1
+http://62.182.86.121:80/live/Cal/Cal/764571.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: BATMAN MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764572.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: BLADE MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764573.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: BOXING MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764574.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: BRUCE LEE MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764575.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: CHRISTMAS MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764576.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: COMEDY MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764577.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: COMEDY MOVIES 1
+http://62.182.86.121:80/live/Cal/Cal/764578.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: COMEDY MOVIES 2
+http://62.182.86.121:80/live/Cal/Cal/764579.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: CRIME MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764580.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: DC CINEMATIC UNIVERSE
+http://62.182.86.121:80/live/Cal/Cal/764581.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: DIE HARD
+http://62.182.86.121:80/live/Cal/Cal/764582.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: FAMILY MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764583.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: FAST AND FURIOUS
+http://62.182.86.121:80/live/Cal/Cal/764584.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: FINAL DESTINATION
+http://62.182.86.121:80/live/Cal/Cal/764585.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: FRIDAY THE 13TH
+http://62.182.86.121:80/live/Cal/Cal/764586.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: HARRY POTTER
+http://62.182.86.121:80/live/Cal/Cal/764587.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: HOME ALONE
+http://62.182.86.121:80/live/Cal/Cal/764588.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: HORROR MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764589.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: HWF DISNEY
+http://62.182.86.121:80/live/Cal/Cal/764590.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: INDIANA JONES
+http://62.182.86.121:80/live/Cal/Cal/764591.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: INSIDIOUS MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764592.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: JACKIE CHAN MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764593.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: JAMES BOND
+http://62.182.86.121:80/live/Cal/Cal/764594.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: JASON BOURNE
+http://62.182.86.121:80/live/Cal/Cal/764595.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: JCVD MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764596.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: JET LI MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764597.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: JUMANJI
+http://62.182.86.121:80/live/Cal/Cal/764598.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: JURASSIC PARK
+http://62.182.86.121:80/live/Cal/Cal/764599.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: KING OF THE HILL
+http://62.182.86.121:80/live/Cal/Cal/764600.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: MARVEL CINEMATIC UNIVERSE
+http://62.182.86.121:80/live/Cal/Cal/764601.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: MEN IN BLACK
+http://62.182.86.121:80/live/Cal/Cal/764602.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: MISSION IMPOSSIBLE
+http://62.182.86.121:80/live/Cal/Cal/764603.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: NATHAN FOR YOU
+http://62.182.86.121:80/live/Cal/Cal/764604.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: PIRATES OF THE CARIBBEAN
+http://62.182.86.121:80/live/Cal/Cal/764605.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: PLANET OF THE APES
+http://62.182.86.121:80/live/Cal/Cal/764606.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: PREDATOR/ALIEN MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764607.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: QUENTIN TARANTINO MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764608.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: RAMBO
+http://62.182.86.121:80/live/Cal/Cal/764609.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: RESIDENT EVIL
+http://62.182.86.121:80/live/Cal/Cal/764610.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ROB ZOMBIE MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764611.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ROCKY
+http://62.182.86.121:80/live/Cal/Cal/764612.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ROMANCE MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764613.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: SCARY MOVIE
+http://62.182.86.121:80/live/Cal/Cal/764614.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: SCI-FI MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764615.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: SPIDER MAN
+http://62.182.86.121:80/live/Cal/Cal/764616.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: SPIDERMAN
+http://62.182.86.121:80/live/Cal/Cal/764617.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: SPORTS MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764618.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: STAR TREK
+http://62.182.86.121:80/live/Cal/Cal/764619.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: STAR TREK MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764620.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: STAR WARS
+http://62.182.86.121:80/live/Cal/Cal/764622.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: SUPERMAN
+http://62.182.86.121:80/live/Cal/Cal/764623.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: TALES FROM THE LOOP
+http://62.182.86.121:80/live/Cal/Cal/764624.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: TEXAS CHAINSAW MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764625.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: THE CHRONICLES OF NARNIA
+http://62.182.86.121:80/live/Cal/Cal/764626.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: THE CONJURING
+http://62.182.86.121:80/live/Cal/Cal/764627.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: THE HUNGER GAMES
+http://62.182.86.121:80/live/Cal/Cal/764628.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: THE LORD OF THE RINGS
+http://62.182.86.121:80/live/Cal/Cal/764629.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: THE MARINE
+http://62.182.86.121:80/live/Cal/Cal/764630.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: THE MATRIX
+http://62.182.86.121:80/live/Cal/Cal/764631.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: THE MUMMY
+http://62.182.86.121:80/live/Cal/Cal/764632.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: THE TERMINATOR
+http://62.182.86.121:80/live/Cal/Cal/764633.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: THE TRANSPORTER
+http://62.182.86.121:80/live/Cal/Cal/764634.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: THE TWILIGHT SAGA
+http://62.182.86.121:80/live/Cal/Cal/764635.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: THRILLER MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764636.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: TRANSFORMERS
+http://62.182.86.121:80/live/Cal/Cal/764637.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: UNIVERSAL SOLDIER
+http://62.182.86.121:80/live/Cal/Cal/764638.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: VAMPIRE MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764639.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: WAR MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764640.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: X-MEN
+http://62.182.86.121:80/live/Cal/Cal/764641.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: US MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764642.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: BACK TO THE FUTURE MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764643.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: CARRY ON MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764644.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: CHRISTMAS MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764645.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: DIE HARD MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764646.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: FAST AND FURIOUS MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764647.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: FIFTY SHADES MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764648.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: HARRY POTTER MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764649.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: INDIANA JONES MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764650.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: INSIDIOUS MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764651.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: JOHNNY ENGLISH MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764652.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: LORD OF THE RINGS MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764653.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: MARVEL MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764654.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: PIRATES OF THE CARIBBEAN MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764655.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: PITCH PERFECT MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764656.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: RAMBO MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764657.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: ROCKY MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764658.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: TAKEN MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764659.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: STAR WARS MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764660.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: THE GODFATHER MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764661.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: THE HOBBIT MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764662.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: THE MATRIX MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764663.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="MOVIE 24/7 886" tvg-id="" tvg-name="",24/7: THE PURGE MOVIES
+http://62.182.86.121:80/live/Cal/Cal/764664.ts
+
 <noscript>
 <script type="text/javascript">(function(){window['__CF$cv$params']={r:'71e279c4799f4ca7',m:'rRvjkdTqUzsA72dNMgVPBdmi8eFUUm0TaezDWTdg6Ss-1655706834-0-AWCILmLNi01muIBGoiW/eIgjUgIiA0mlVcDCBeWOiS6HjYY4b9h5WfDUj5k8DIkmGvdWqyH0Sgii5MN1+aXR22yBvl/Il2e+D2St8TU4HiyluIq9TSx5prk+N9jl8tt+hw==',s:[0x373f4008d3,0x39f162e0f8],u:'/cdn-cgi/challenge-platform/h/g'}})();</script>
 
