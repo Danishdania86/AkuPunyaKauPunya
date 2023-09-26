@@ -142,9 +142,6 @@ https://stream.sscloud7.com/hls/suriyantv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mJKHqvP/Subashtv.png" group-title="[ IN ] TAMIL : 4",Subash TV
 https://1cloud.digital/subashtv/subashhd.m3u8
 
-#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/omtv.png" group-title="[ IN ] TAMIL : 4", OM Tamil TV
-http://omtv.phoenixcreations.online:1935/live/omtv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XxKYn1T/Mithratv.png" group-title="[ IN ] TAMIL : 4", Mithra TV
 http://mithratv.phoenixcreations.online:1935/mithratv/mithratv/playlist.m3u8
 
