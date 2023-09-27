@@ -3794,6 +3794,17 @@ http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/index.m3u8
 #EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 3",Rasi TV
 http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/index.m3u8
 
+#EXTINF:-1 tvg-id="jayamax.in" tvg-name="Jaya Max" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Max.png" group-title=""[ IN ] TAMIL : 3",Jaya Max
+http://watchindia.net:8880/live/varghesekunju62/308678sher/852.ts
+
+#EXTINF:-1 tvg-id="jayamovies.in" tvg-name="Jaya Movie" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Movie.png" group-title=""[ IN ] TAMIL : 3",Jaya Movie
+http://watchindia.net:8880/live/varghesekunju62/308678sher/849.ts
+
+#EXTINF:-1 tvg-id="jayaplus.in" tvg-name="Jaya Plus" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Plus.png" group-title=""[ IN ] TAMIL : 3",Jaya Plus
+http://watchindia.net:8880/live/varghesekunju62/308678sher/850.ts
+
+#EXTINF:-1 tvg-id="jaya.in" tvg-name="Jaya TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_TV_HD.png" group-title=""[ IN ] TAMIL : 3",Jaya TV HD
+http://watchindia.net:8880/live/varghesekunju62/308678sher/851.ts
 
 PHOENIX CREATIONS  -------------------------
 [ IN ] TAMIL : 4
